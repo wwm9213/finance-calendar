@@ -25,5 +25,9 @@ def test_github_workflow_has_schedule_manual_run_validation_and_pages() -> None:
     assert "python -m src.main --offline" in rendered
     assert "python -m src.validate dist" in rendered
     assert "chore: update finance calendar" in rendered
-    assert "actions/upload-pages-artifact@v3" in rendered
+    assert "actions/checkout@v7" in rendered
+    assert "actions/setup-python@v7" in rendered
+    assert "actions/configure-pages@v6" in rendered
+    assert "actions/upload-pages-artifact@v5" in rendered
+    assert "actions/deploy-pages@v5" in str(workflow["jobs"]["deploy"])
     assert workflow["jobs"]["deploy"]["needs"] == "update"
