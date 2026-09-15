@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, datetime
 
 import requests
@@ -101,16 +102,30 @@ def fetch_fred_bls_fallback(
 ) -> list[CalendarEvent]:
     events: list[CalendarEvent] = []
     errors: list[str] = []
-    for year in range(start_year, end_year + 1):
-        for release_id in RELEASES:
-            url = f"{FRED_BASE_URL}?rid={release_id}&y={year}"
+    requests_to_make = [
+        (year, release_id)
+        for year in range(start_year, end_year + 1)
+        for release_id in RELEASES
+    ]
+
+    def fetch_one(year: int, release_id: int) -> list[CalendarEvent]:
+        url = f"{FRED_BASE_URL}?rid={release_id}&y={year}"
+        html = get_text(
+            session,
+            url,
+            timeout=min(config.request_timeout_seconds, 15),
+        )
+        return parse_fred_release_calendar(html, release_id=release_id, config=config)
+
+    with ThreadPoolExecutor(max_workers=min(6, len(requests_to_make))) as executor:
+        futures = {
+            executor.submit(fetch_one, year, release_id): (year, release_id)
+            for year, release_id in requests_to_make
+        }
+        for future in as_completed(futures):
+            year, release_id = futures[future]
             try:
-                html = get_text(
-                    session,
-                    url,
-                    timeout=min(config.request_timeout_seconds, 15),
-                )
-                events.extend(parse_fred_release_calendar(html, release_id=release_id, config=config))
+                events.extend(future.result())
             except Exception as exc:
                 errors.append(f"rid={release_id}, year={year}: {type(exc).__name__}: {exc}")
     if not events:

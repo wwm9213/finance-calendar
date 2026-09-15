@@ -21,6 +21,8 @@ def test_github_workflow_has_schedule_manual_run_validation_and_pages() -> None:
     steps = workflow["jobs"]["update"]["steps"]
     rendered = "\n".join(str(step) for step in steps)
     assert "python -m src.main" in rendered
+    assert "timeout 180s" in rendered
+    assert "python -m src.main --offline" in rendered
     assert "python -m src.validate dist" in rendered
     assert "chore: update finance calendar" in rendered
     assert "actions/upload-pages-artifact@v3" in rendered

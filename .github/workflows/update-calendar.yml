@@ -36,7 +36,11 @@ jobs:
         run: python -m pytest -q
 
       - name: Generate calendars
-        run: python -m src.main
+        run: |
+          if ! timeout 180s python -m src.main; then
+            echo "::warning::Online refresh exceeded its time limit; publishing the checked-in cache"
+            python -m src.main --offline
+          fi
 
       - name: Validate calendars
         run: python -m src.validate dist

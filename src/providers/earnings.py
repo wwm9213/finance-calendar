@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import logging
 import math
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, datetime, timedelta, timezone
 from typing import Any, Iterable
 
@@ -112,13 +113,15 @@ def _fetch_ticker(
     today: date,
 ) -> list[CalendarEvent]:
     ticker = yf.Ticker(symbol)
-    calendar, fallback_dates = _extract_calendar_estimates(ticker)
+    calendar: dict[str, Any] = {}
+    fallback_dates: list[Any] = []
     try:
         rows = _future_rows(ticker)
     except Exception:
         rows = []
 
     if not rows:
+        calendar, fallback_dates = _extract_calendar_estimates(ticker)
         for raw_date in fallback_dates[:1]:
             value = raw_date.to_pydatetime() if hasattr(raw_date, "to_pydatetime") else raw_date
             if isinstance(value, date) and not isinstance(value, datetime):
@@ -128,12 +131,14 @@ def _fetch_ticker(
     if not rows:
         raise ValueError("no earnings date returned")
 
-    company = _cached_company(cached, symbol) or symbol
-    try:
-        info = ticker.get_info()
-        company = info.get("shortName") or info.get("longName") or company
-    except Exception as exc:
-        LOGGER.warning("%s company-name lookup failed: %s", symbol, exc)
+    cached_company = _cached_company(cached, symbol)
+    company = cached_company or symbol
+    if not cached_company:
+        try:
+            info = ticker.get_info()
+            company = info.get("shortName") or info.get("longName") or company
+        except Exception as exc:
+            LOGGER.warning("%s company-name lookup failed: %s", symbol, exc)
 
     range_start = today - timedelta(days=config.history_days)
     range_end = today + timedelta(days=config.lookahead_days)
@@ -222,18 +227,25 @@ def fetch_earnings_events(
     fresh: list[CalendarEvent] = []
     warnings: list[str] = []
 
-    for symbol in config.stocks:
-        scope = f"earnings:{symbol}"
-        if offline:
-            failed[scope] = "offline mode"
-            continue
-        try:
-            fresh.extend(_fetch_ticker(symbol, config, cached, today=today))
-            successful.add(scope)
-        except Exception as exc:
-            message = f"{scope} failed: {type(exc).__name__}: {exc}"
-            failed[scope] = message
-            warnings.append(message)
+    if offline:
+        failed.update({scope: "offline mode" for scope in enabled_scopes})
+    elif config.stocks:
+        worker_count = min(5, len(config.stocks))
+        with ThreadPoolExecutor(max_workers=worker_count) as executor:
+            futures = {
+                executor.submit(_fetch_ticker, symbol, config, cached, today=today): symbol
+                for symbol in config.stocks
+            }
+            for future in as_completed(futures):
+                symbol = futures[future]
+                scope = f"earnings:{symbol}"
+                try:
+                    fresh.extend(future.result())
+                    successful.add(scope)
+                except Exception as exc:
+                    message = f"{scope} failed: {type(exc).__name__}: {exc}"
+                    failed[scope] = message
+                    warnings.append(message)
 
     merged = merge_scoped_events(
         cached,
