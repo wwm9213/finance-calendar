@@ -71,6 +71,20 @@ def test_all_day_event_uses_date_value(tmp_path: Path) -> None:
     assert event["DTSTART"].params["VALUE"] == "DATE"
 
 
+def test_description_output_is_independent_of_mapping_order(tmp_path: Path) -> None:
+    first = _all_day("stable@example")
+    first.description = {"Ticker": "NVDA", "Company": "NVIDIA"}
+    second = _all_day("stable@example")
+    second.description = {"Company": "NVIDIA", "Ticker": "NVDA"}
+
+    first_path = tmp_path / "first.ics"
+    second_path = tmp_path / "second.ics"
+    _write([first], "market", first_path)
+    _write([second], "market", second_path)
+
+    assert first_path.read_bytes() == second_path.read_bytes()
+
+
 def test_all_calendar_is_exact_union_without_duplicates(tmp_path: Path) -> None:
     macro = [_timed("macro@example")]
     earnings = [_all_day("earnings@example", "earnings")]

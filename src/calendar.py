@@ -20,7 +20,11 @@ CALENDAR_TITLES = {
 def _description_text(
     event: CalendarEvent, *, timezone_name: str, updated_at: datetime
 ) -> str:
-    lines = [f"{key}: {value}" for key, value in event.description.items() if value not in (None, "")]
+    lines = [
+        f"{key}: {value}"
+        for key, value in sorted(event.description.items())
+        if value not in (None, "")
+    ]
     if not event.all_day and isinstance(event.start, datetime):
         lines.append(f"Local Time ({timezone_name}): {display_time(event.start, timezone_name)}")
     lines.extend(
