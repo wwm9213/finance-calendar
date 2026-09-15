@@ -1,0 +1,44 @@
+# IANA timezone used only for calendar labels and local-time descriptions.
+# Timed DTSTART/DTEND values are emitted as UTC so DST remains correct everywhere.
+timezone: Asia/Shanghai
+calendar_name: 金融市场动态
+
+# Keep a small amount of history so recent events do not disappear immediately.
+lookahead_days: 400
+history_days: 30
+request_timeout_seconds: 30
+claims_weeks_ahead: 16
+
+stocks:
+  - NVDA
+  - MU
+  - AMD
+  - AVGO
+  - TSM
+  - AAPL
+  - MSFT
+  - GOOGL
+  - META
+  - AMZN
+
+macro:
+  nfp: true
+  unemployment: true
+  jobless_claims: true
+  cpi: true
+  core_cpi: true
+  ppi: true
+  core_ppi: true
+  pce: true
+  core_pce: true
+  gdp: true
+  retail_sales: true
+  ism_manufacturing: true
+  ism_services: true
+  fomc: true
+  fomc_minutes: true
+
+market:
+  holidays: true
+  early_close: true
+  quadruple_witching: true

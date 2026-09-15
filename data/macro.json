@@ -1,0 +1,2003 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core PCE Price Index",
+        "Reference Period": "2026-08",
+        "Release": "Personal Income and Outlays, August 2026"
+      },
+      "end": "2026-09-30T09:00:00-04:00",
+      "kind": "core_pce",
+      "metadata": {},
+      "scope": "macro:bea",
+      "source": "U.S. Bureau of Economic Analysis (BEA)",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "start": "2026-09-30T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 PCE",
+      "uid": "macro-US-CORE_PCE-2026-08@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core PCE Price Index",
+        "Reference Period": "2026-09",
+        "Release": "Personal Income and Outlays, September 2026"
+      },
+      "end": "2026-10-29T09:00:00-04:00",
+      "kind": "core_pce",
+      "metadata": {},
+      "scope": "macro:bea",
+      "source": "U.S. Bureau of Economic Analysis (BEA)",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "start": "2026-10-29T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 PCE",
+      "uid": "macro-US-CORE_PCE-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core PCE Price Index",
+        "Reference Period": "2026-10",
+        "Release": "Personal Income and Outlays, October 2026"
+      },
+      "end": "2026-11-25T09:00:00-05:00",
+      "kind": "core_pce",
+      "metadata": {},
+      "scope": "macro:bea",
+      "source": "U.S. Bureau of Economic Analysis (BEA)",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "start": "2026-11-25T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 PCE",
+      "uid": "macro-US-CORE_PCE-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core PCE Price Index",
+        "Reference Period": "2026-11",
+        "Release": "Personal Income and Outlays, November 2026"
+      },
+      "end": "2026-12-23T09:00:00-05:00",
+      "kind": "core_pce",
+      "metadata": {},
+      "scope": "macro:bea",
+      "source": "U.S. Bureau of Economic Analysis (BEA)",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "start": "2026-12-23T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 PCE",
+      "uid": "macro-US-CORE_PCE-2026-11@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "macro",
+      "description": {
+        "Event": "Federal Open Market Committee Meeting",
+        "Meeting": "2026-09-15 to 2026-09-16"
+      },
+      "end": "2026-09-17",
+      "kind": "fomc_meeting",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2026-09-15",
+      "summary": "🏦 FOMC 议息会议",
+      "uid": "macro-US-FOMC-MEETING-2026-06@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "macro",
+      "description": {
+        "Event": "Federal Open Market Committee Meeting",
+        "Meeting": "2026-10-27 to 2026-10-28"
+      },
+      "end": "2026-10-29",
+      "kind": "fomc_meeting",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2026-10-27",
+      "summary": "🏦 FOMC 议息会议",
+      "uid": "macro-US-FOMC-MEETING-2026-07@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "macro",
+      "description": {
+        "Event": "Federal Open Market Committee Meeting",
+        "Meeting": "2026-12-08 to 2026-12-09"
+      },
+      "end": "2026-12-10",
+      "kind": "fomc_meeting",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2026-12-08",
+      "summary": "🏦 FOMC 议息会议",
+      "uid": "macro-US-FOMC-MEETING-2026-08@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "macro",
+      "description": {
+        "Event": "Federal Open Market Committee Meeting",
+        "Meeting": "2027-01-26 to 2027-01-27"
+      },
+      "end": "2027-01-28",
+      "kind": "fomc_meeting",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-01-26",
+      "summary": "🏦 FOMC 议息会议",
+      "uid": "macro-US-FOMC-MEETING-2027-01@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "macro",
+      "description": {
+        "Event": "Federal Open Market Committee Meeting",
+        "Meeting": "2027-03-16 to 2027-03-17"
+      },
+      "end": "2027-03-18",
+      "kind": "fomc_meeting",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-03-16",
+      "summary": "🏦 FOMC 议息会议",
+      "uid": "macro-US-FOMC-MEETING-2027-02@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "macro",
+      "description": {
+        "Event": "Federal Open Market Committee Meeting",
+        "Meeting": "2027-04-27 to 2027-04-28"
+      },
+      "end": "2027-04-29",
+      "kind": "fomc_meeting",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-04-27",
+      "summary": "🏦 FOMC 议息会议",
+      "uid": "macro-US-FOMC-MEETING-2027-03@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "macro",
+      "description": {
+        "Event": "Federal Open Market Committee Meeting",
+        "Meeting": "2027-06-08 to 2027-06-09"
+      },
+      "end": "2027-06-10",
+      "kind": "fomc_meeting",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-06-08",
+      "summary": "🏦 FOMC 议息会议",
+      "uid": "macro-US-FOMC-MEETING-2027-04@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "macro",
+      "description": {
+        "Event": "Federal Open Market Committee Meeting",
+        "Meeting": "2027-07-27 to 2027-07-28"
+      },
+      "end": "2027-07-29",
+      "kind": "fomc_meeting",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-07-27",
+      "summary": "🏦 FOMC 议息会议",
+      "uid": "macro-US-FOMC-MEETING-2027-05@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "macro",
+      "description": {
+        "Event": "Federal Open Market Committee Meeting",
+        "Meeting": "2027-09-14 to 2027-09-15"
+      },
+      "end": "2027-09-16",
+      "kind": "fomc_meeting",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-09-14",
+      "summary": "🏦 FOMC 议息会议",
+      "uid": "macro-US-FOMC-MEETING-2027-06@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2026-09-16",
+        "Reference Period": "2026-06",
+        "Release": "FOMC Statement and Interest Rate Decision"
+      },
+      "end": "2026-09-16T15:00:00-04:00",
+      "kind": "fomc_decision",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2026-09-16T14:00:00-04:00",
+      "summary": "🏦 FOMC 利率决议",
+      "uid": "macro-US-FOMC_DECISION-2026-06@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2026-10-28",
+        "Reference Period": "2026-07",
+        "Release": "FOMC Statement and Interest Rate Decision"
+      },
+      "end": "2026-10-28T15:00:00-04:00",
+      "kind": "fomc_decision",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2026-10-28T14:00:00-04:00",
+      "summary": "🏦 FOMC 利率决议",
+      "uid": "macro-US-FOMC_DECISION-2026-07@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2026-12-09",
+        "Reference Period": "2026-08",
+        "Release": "FOMC Statement and Interest Rate Decision"
+      },
+      "end": "2026-12-09T15:00:00-05:00",
+      "kind": "fomc_decision",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2026-12-09T14:00:00-05:00",
+      "summary": "🏦 FOMC 利率决议",
+      "uid": "macro-US-FOMC_DECISION-2026-08@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2027-01-27",
+        "Reference Period": "2027-01",
+        "Release": "FOMC Statement and Interest Rate Decision"
+      },
+      "end": "2027-01-27T15:00:00-05:00",
+      "kind": "fomc_decision",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-01-27T14:00:00-05:00",
+      "summary": "🏦 FOMC 利率决议",
+      "uid": "macro-US-FOMC_DECISION-2027-01@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2027-03-17",
+        "Reference Period": "2027-02",
+        "Release": "FOMC Statement and Interest Rate Decision"
+      },
+      "end": "2027-03-17T15:00:00-04:00",
+      "kind": "fomc_decision",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-03-17T14:00:00-04:00",
+      "summary": "🏦 FOMC 利率决议",
+      "uid": "macro-US-FOMC_DECISION-2027-02@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2027-04-28",
+        "Reference Period": "2027-03",
+        "Release": "FOMC Statement and Interest Rate Decision"
+      },
+      "end": "2027-04-28T15:00:00-04:00",
+      "kind": "fomc_decision",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-04-28T14:00:00-04:00",
+      "summary": "🏦 FOMC 利率决议",
+      "uid": "macro-US-FOMC_DECISION-2027-03@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2027-06-09",
+        "Reference Period": "2027-04",
+        "Release": "FOMC Statement and Interest Rate Decision"
+      },
+      "end": "2027-06-09T15:00:00-04:00",
+      "kind": "fomc_decision",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-06-09T14:00:00-04:00",
+      "summary": "🏦 FOMC 利率决议",
+      "uid": "macro-US-FOMC_DECISION-2027-04@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2027-07-28",
+        "Reference Period": "2027-05",
+        "Release": "FOMC Statement and Interest Rate Decision"
+      },
+      "end": "2027-07-28T15:00:00-04:00",
+      "kind": "fomc_decision",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-07-28T14:00:00-04:00",
+      "summary": "🏦 FOMC 利率决议",
+      "uid": "macro-US-FOMC_DECISION-2027-05@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2027-09-15",
+        "Reference Period": "2027-06",
+        "Release": "FOMC Statement and Interest Rate Decision"
+      },
+      "end": "2027-09-15T15:00:00-04:00",
+      "kind": "fomc_decision",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-09-15T14:00:00-04:00",
+      "summary": "🏦 FOMC 利率决议",
+      "uid": "macro-US-FOMC_DECISION-2027-06@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2026-07-29",
+        "Reference Period": "2026-05",
+        "Release": "FOMC Minutes",
+        "Schedule Method": "Official release date"
+      },
+      "end": "2026-08-19T14:30:00-04:00",
+      "kind": "fomc_minutes",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2026-08-19T14:00:00-04:00",
+      "summary": "🏦 FOMC 会议纪要",
+      "uid": "macro-US-FOMC_MINUTES-2026-05@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2026-09-16",
+        "Reference Period": "2026-06",
+        "Release": "FOMC Minutes",
+        "Schedule Method": "Federal Reserve three-week publication policy"
+      },
+      "end": "2026-10-07T14:30:00-04:00",
+      "kind": "fomc_minutes",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2026-10-07T14:00:00-04:00",
+      "summary": "🏦 FOMC 会议纪要",
+      "uid": "macro-US-FOMC_MINUTES-2026-06@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2026-10-28",
+        "Reference Period": "2026-07",
+        "Release": "FOMC Minutes",
+        "Schedule Method": "Federal Reserve three-week publication policy"
+      },
+      "end": "2026-11-18T14:30:00-05:00",
+      "kind": "fomc_minutes",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2026-11-18T14:00:00-05:00",
+      "summary": "🏦 FOMC 会议纪要",
+      "uid": "macro-US-FOMC_MINUTES-2026-07@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2026-12-09",
+        "Reference Period": "2026-08",
+        "Release": "FOMC Minutes",
+        "Schedule Method": "Federal Reserve three-week publication policy"
+      },
+      "end": "2026-12-30T14:30:00-05:00",
+      "kind": "fomc_minutes",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2026-12-30T14:00:00-05:00",
+      "summary": "🏦 FOMC 会议纪要",
+      "uid": "macro-US-FOMC_MINUTES-2026-08@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2027-01-27",
+        "Reference Period": "2027-01",
+        "Release": "FOMC Minutes",
+        "Schedule Method": "Federal Reserve three-week publication policy"
+      },
+      "end": "2027-02-17T14:30:00-05:00",
+      "kind": "fomc_minutes",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-02-17T14:00:00-05:00",
+      "summary": "🏦 FOMC 会议纪要",
+      "uid": "macro-US-FOMC_MINUTES-2027-01@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2027-03-17",
+        "Reference Period": "2027-02",
+        "Release": "FOMC Minutes",
+        "Schedule Method": "Federal Reserve three-week publication policy"
+      },
+      "end": "2027-04-07T14:30:00-04:00",
+      "kind": "fomc_minutes",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-04-07T14:00:00-04:00",
+      "summary": "🏦 FOMC 会议纪要",
+      "uid": "macro-US-FOMC_MINUTES-2027-02@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2027-04-28",
+        "Reference Period": "2027-03",
+        "Release": "FOMC Minutes",
+        "Schedule Method": "Federal Reserve three-week publication policy"
+      },
+      "end": "2027-05-19T14:30:00-04:00",
+      "kind": "fomc_minutes",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-05-19T14:00:00-04:00",
+      "summary": "🏦 FOMC 会议纪要",
+      "uid": "macro-US-FOMC_MINUTES-2027-03@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2027-06-09",
+        "Reference Period": "2027-04",
+        "Release": "FOMC Minutes",
+        "Schedule Method": "Federal Reserve three-week publication policy"
+      },
+      "end": "2027-06-30T14:30:00-04:00",
+      "kind": "fomc_minutes",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-06-30T14:00:00-04:00",
+      "summary": "🏦 FOMC 会议纪要",
+      "uid": "macro-US-FOMC_MINUTES-2027-04@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2027-07-28",
+        "Reference Period": "2027-05",
+        "Release": "FOMC Minutes",
+        "Schedule Method": "Federal Reserve three-week publication policy"
+      },
+      "end": "2027-08-18T14:30:00-04:00",
+      "kind": "fomc_minutes",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-08-18T14:00:00-04:00",
+      "summary": "🏦 FOMC 会议纪要",
+      "uid": "macro-US-FOMC_MINUTES-2027-05@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Meeting End Date": "2027-09-15",
+        "Reference Period": "2027-06",
+        "Release": "FOMC Minutes",
+        "Schedule Method": "Federal Reserve three-week publication policy"
+      },
+      "end": "2027-10-06T14:30:00-04:00",
+      "kind": "fomc_minutes",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-10-06T14:00:00-04:00",
+      "summary": "🏦 FOMC 会议纪要",
+      "uid": "macro-US-FOMC_MINUTES-2027-06@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Estimate Stage": "Third Estimate",
+        "Reference Period": "2026-Q2-third-estimate",
+        "Release": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 2nd Quarter 2026; State PCE, 2025"
+      },
+      "end": "2026-09-30T09:00:00-04:00",
+      "kind": "gdp",
+      "metadata": {},
+      "scope": "macro:bea",
+      "source": "U.S. Bureau of Economic Analysis (BEA)",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "start": "2026-09-30T08:30:00-04:00",
+      "summary": "🇺🇸 美国 GDP · Third Estimate",
+      "uid": "macro-US-GDP-2026-Q2-third-estimate@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Estimate Stage": "Advance Estimate",
+        "Reference Period": "2026-Q3-advance-estimate",
+        "Release": "GDP (Advance Estimate), 3rd Quarter 2026"
+      },
+      "end": "2026-10-29T09:00:00-04:00",
+      "kind": "gdp",
+      "metadata": {},
+      "scope": "macro:bea",
+      "source": "U.S. Bureau of Economic Analysis (BEA)",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "start": "2026-10-29T08:30:00-04:00",
+      "summary": "🇺🇸 美国 GDP · Advance Estimate",
+      "uid": "macro-US-GDP-2026-Q3-advance-estimate@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Estimate Stage": "Second Estimate",
+        "Reference Period": "2026-Q3-second-estimate",
+        "Release": "GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026"
+      },
+      "end": "2026-11-25T09:00:00-05:00",
+      "kind": "gdp",
+      "metadata": {},
+      "scope": "macro:bea",
+      "source": "U.S. Bureau of Economic Analysis (BEA)",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "start": "2026-11-25T08:30:00-05:00",
+      "summary": "🇺🇸 美国 GDP · Second Estimate",
+      "uid": "macro-US-GDP-2026-Q3-second-estimate@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Estimate Stage": "Third Estimate",
+        "Reference Period": "2026-Q3-third-estimate",
+        "Release": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 3rd Quarter 2026"
+      },
+      "end": "2026-12-23T09:00:00-05:00",
+      "kind": "gdp",
+      "metadata": {},
+      "scope": "macro:bea",
+      "source": "U.S. Bureau of Economic Analysis (BEA)",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "start": "2026-12-23T08:30:00-05:00",
+      "summary": "🇺🇸 美国 GDP · Third Estimate",
+      "uid": "macro-US-GDP-2026-Q3-third-estimate@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-09",
+        "Release": "ISM Manufacturing PMI Report",
+        "Schedule Method": "Fallback: ISM first-business-day rule"
+      },
+      "end": "2026-09-01T10:30:00-04:00",
+      "kind": "ism_manufacturing",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2026-09-01T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 制造业 PMI",
+      "uid": "macro-US-ISM_MANUFACTURING-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-10",
+        "Release": "ISM Manufacturing PMI Report",
+        "Schedule Method": "Fallback: ISM first-business-day rule"
+      },
+      "end": "2026-10-01T10:30:00-04:00",
+      "kind": "ism_manufacturing",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2026-10-01T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 制造业 PMI",
+      "uid": "macro-US-ISM_MANUFACTURING-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-11",
+        "Release": "ISM Manufacturing PMI Report",
+        "Schedule Method": "Fallback: ISM first-business-day rule"
+      },
+      "end": "2026-11-02T10:30:00-05:00",
+      "kind": "ism_manufacturing",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2026-11-02T10:00:00-05:00",
+      "summary": "🇺🇸 ISM 制造业 PMI",
+      "uid": "macro-US-ISM_MANUFACTURING-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-12",
+        "Release": "ISM Manufacturing PMI Report",
+        "Schedule Method": "Fallback: ISM first-business-day rule"
+      },
+      "end": "2026-12-01T10:30:00-05:00",
+      "kind": "ism_manufacturing",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2026-12-01T10:00:00-05:00",
+      "summary": "🇺🇸 ISM 制造业 PMI",
+      "uid": "macro-US-ISM_MANUFACTURING-2026-12@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-01",
+        "Release": "ISM Manufacturing PMI Report",
+        "Schedule Method": "Fallback: ISM first-business-day rule"
+      },
+      "end": "2027-01-04T10:30:00-05:00",
+      "kind": "ism_manufacturing",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-01-04T10:00:00-05:00",
+      "summary": "🇺🇸 ISM 制造业 PMI",
+      "uid": "macro-US-ISM_MANUFACTURING-2027-01@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-02",
+        "Release": "ISM Manufacturing PMI Report",
+        "Schedule Method": "Fallback: ISM first-business-day rule"
+      },
+      "end": "2027-02-01T10:30:00-05:00",
+      "kind": "ism_manufacturing",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-02-01T10:00:00-05:00",
+      "summary": "🇺🇸 ISM 制造业 PMI",
+      "uid": "macro-US-ISM_MANUFACTURING-2027-02@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-03",
+        "Release": "ISM Manufacturing PMI Report",
+        "Schedule Method": "Fallback: ISM first-business-day rule"
+      },
+      "end": "2027-03-01T10:30:00-05:00",
+      "kind": "ism_manufacturing",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-03-01T10:00:00-05:00",
+      "summary": "🇺🇸 ISM 制造业 PMI",
+      "uid": "macro-US-ISM_MANUFACTURING-2027-03@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-04",
+        "Release": "ISM Manufacturing PMI Report",
+        "Schedule Method": "Fallback: ISM first-business-day rule"
+      },
+      "end": "2027-04-01T10:30:00-04:00",
+      "kind": "ism_manufacturing",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-04-01T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 制造业 PMI",
+      "uid": "macro-US-ISM_MANUFACTURING-2027-04@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-05",
+        "Release": "ISM Manufacturing PMI Report",
+        "Schedule Method": "Fallback: ISM first-business-day rule"
+      },
+      "end": "2027-05-03T10:30:00-04:00",
+      "kind": "ism_manufacturing",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-05-03T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 制造业 PMI",
+      "uid": "macro-US-ISM_MANUFACTURING-2027-05@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-06",
+        "Release": "ISM Manufacturing PMI Report",
+        "Schedule Method": "Fallback: ISM first-business-day rule"
+      },
+      "end": "2027-06-01T10:30:00-04:00",
+      "kind": "ism_manufacturing",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-06-01T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 制造业 PMI",
+      "uid": "macro-US-ISM_MANUFACTURING-2027-06@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-07",
+        "Release": "ISM Manufacturing PMI Report",
+        "Schedule Method": "Fallback: ISM first-business-day rule"
+      },
+      "end": "2027-07-01T10:30:00-04:00",
+      "kind": "ism_manufacturing",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-07-01T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 制造业 PMI",
+      "uid": "macro-US-ISM_MANUFACTURING-2027-07@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-08",
+        "Release": "ISM Manufacturing PMI Report",
+        "Schedule Method": "Fallback: ISM first-business-day rule"
+      },
+      "end": "2027-08-02T10:30:00-04:00",
+      "kind": "ism_manufacturing",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-08-02T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 制造业 PMI",
+      "uid": "macro-US-ISM_MANUFACTURING-2027-08@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-09",
+        "Release": "ISM Manufacturing PMI Report",
+        "Schedule Method": "Fallback: ISM first-business-day rule"
+      },
+      "end": "2027-09-01T10:30:00-04:00",
+      "kind": "ism_manufacturing",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-09-01T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 制造业 PMI",
+      "uid": "macro-US-ISM_MANUFACTURING-2027-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-10",
+        "Release": "ISM Manufacturing PMI Report",
+        "Schedule Method": "Fallback: ISM first-business-day rule"
+      },
+      "end": "2027-10-01T10:30:00-04:00",
+      "kind": "ism_manufacturing",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-10-01T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 制造业 PMI",
+      "uid": "macro-US-ISM_MANUFACTURING-2027-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-09",
+        "Release": "ISM Services PMI Report",
+        "Schedule Method": "Fallback: ISM third-business-day rule"
+      },
+      "end": "2026-09-03T10:30:00-04:00",
+      "kind": "ism_services",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2026-09-03T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 服务业 PMI",
+      "uid": "macro-US-ISM_SERVICES-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-10",
+        "Release": "ISM Services PMI Report",
+        "Schedule Method": "Fallback: ISM third-business-day rule"
+      },
+      "end": "2026-10-05T10:30:00-04:00",
+      "kind": "ism_services",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2026-10-05T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 服务业 PMI",
+      "uid": "macro-US-ISM_SERVICES-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-11",
+        "Release": "ISM Services PMI Report",
+        "Schedule Method": "Fallback: ISM third-business-day rule"
+      },
+      "end": "2026-11-04T10:30:00-05:00",
+      "kind": "ism_services",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2026-11-04T10:00:00-05:00",
+      "summary": "🇺🇸 ISM 服务业 PMI",
+      "uid": "macro-US-ISM_SERVICES-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-12",
+        "Release": "ISM Services PMI Report",
+        "Schedule Method": "Fallback: ISM third-business-day rule"
+      },
+      "end": "2026-12-03T10:30:00-05:00",
+      "kind": "ism_services",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2026-12-03T10:00:00-05:00",
+      "summary": "🇺🇸 ISM 服务业 PMI",
+      "uid": "macro-US-ISM_SERVICES-2026-12@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-01",
+        "Release": "ISM Services PMI Report",
+        "Schedule Method": "Fallback: ISM third-business-day rule"
+      },
+      "end": "2027-01-06T10:30:00-05:00",
+      "kind": "ism_services",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-01-06T10:00:00-05:00",
+      "summary": "🇺🇸 ISM 服务业 PMI",
+      "uid": "macro-US-ISM_SERVICES-2027-01@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-02",
+        "Release": "ISM Services PMI Report",
+        "Schedule Method": "Fallback: ISM third-business-day rule"
+      },
+      "end": "2027-02-03T10:30:00-05:00",
+      "kind": "ism_services",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-02-03T10:00:00-05:00",
+      "summary": "🇺🇸 ISM 服务业 PMI",
+      "uid": "macro-US-ISM_SERVICES-2027-02@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-03",
+        "Release": "ISM Services PMI Report",
+        "Schedule Method": "Fallback: ISM third-business-day rule"
+      },
+      "end": "2027-03-03T10:30:00-05:00",
+      "kind": "ism_services",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-03-03T10:00:00-05:00",
+      "summary": "🇺🇸 ISM 服务业 PMI",
+      "uid": "macro-US-ISM_SERVICES-2027-03@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-04",
+        "Release": "ISM Services PMI Report",
+        "Schedule Method": "Fallback: ISM third-business-day rule"
+      },
+      "end": "2027-04-05T10:30:00-04:00",
+      "kind": "ism_services",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-04-05T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 服务业 PMI",
+      "uid": "macro-US-ISM_SERVICES-2027-04@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-05",
+        "Release": "ISM Services PMI Report",
+        "Schedule Method": "Fallback: ISM third-business-day rule"
+      },
+      "end": "2027-05-05T10:30:00-04:00",
+      "kind": "ism_services",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-05-05T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 服务业 PMI",
+      "uid": "macro-US-ISM_SERVICES-2027-05@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-06",
+        "Release": "ISM Services PMI Report",
+        "Schedule Method": "Fallback: ISM third-business-day rule"
+      },
+      "end": "2027-06-03T10:30:00-04:00",
+      "kind": "ism_services",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-06-03T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 服务业 PMI",
+      "uid": "macro-US-ISM_SERVICES-2027-06@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-07",
+        "Release": "ISM Services PMI Report",
+        "Schedule Method": "Fallback: ISM third-business-day rule"
+      },
+      "end": "2027-07-06T10:30:00-04:00",
+      "kind": "ism_services",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-07-06T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 服务业 PMI",
+      "uid": "macro-US-ISM_SERVICES-2027-07@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-08",
+        "Release": "ISM Services PMI Report",
+        "Schedule Method": "Fallback: ISM third-business-day rule"
+      },
+      "end": "2027-08-04T10:30:00-04:00",
+      "kind": "ism_services",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-08-04T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 服务业 PMI",
+      "uid": "macro-US-ISM_SERVICES-2027-08@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-09",
+        "Release": "ISM Services PMI Report",
+        "Schedule Method": "Fallback: ISM third-business-day rule"
+      },
+      "end": "2027-09-03T10:30:00-04:00",
+      "kind": "ism_services",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-09-03T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 服务业 PMI",
+      "uid": "macro-US-ISM_SERVICES-2027-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-10",
+        "Release": "ISM Services PMI Report",
+        "Schedule Method": "Fallback: ISM third-business-day rule"
+      },
+      "end": "2027-10-05T10:30:00-04:00",
+      "kind": "ism_services",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-10-05T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 服务业 PMI",
+      "uid": "macro-US-ISM_SERVICES-2027-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-08-15",
+        "Reference Week Ending": "2026-08-15",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-08-20T09:00:00-04:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-08-20T08:30:00-04:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-08-15@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-08-22",
+        "Reference Week Ending": "2026-08-22",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-08-27T09:00:00-04:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-08-27T08:30:00-04:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-08-22@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-08-29",
+        "Reference Week Ending": "2026-08-29",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-09-03T09:00:00-04:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-09-03T08:30:00-04:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-08-29@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-09-05",
+        "Reference Week Ending": "2026-09-05",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-09-10T09:00:00-04:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-09-10T08:30:00-04:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-09-05@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-09-12",
+        "Reference Week Ending": "2026-09-12",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-09-17T09:00:00-04:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-09-17T08:30:00-04:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-09-12@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-09-19",
+        "Reference Week Ending": "2026-09-19",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-09-24T09:00:00-04:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-09-24T08:30:00-04:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-09-19@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-09-26",
+        "Reference Week Ending": "2026-09-26",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-10-01T09:00:00-04:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-10-01T08:30:00-04:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-09-26@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-10-03",
+        "Reference Week Ending": "2026-10-03",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-10-08T09:00:00-04:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-10-08T08:30:00-04:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-10-03@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-10-10",
+        "Reference Week Ending": "2026-10-10",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-10-15T09:00:00-04:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-10-15T08:30:00-04:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-10-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-10-17",
+        "Reference Week Ending": "2026-10-17",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-10-22T09:00:00-04:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-10-22T08:30:00-04:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-10-17@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-10-24",
+        "Reference Week Ending": "2026-10-24",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-10-29T09:00:00-04:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-10-29T08:30:00-04:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-10-24@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-10-31",
+        "Reference Week Ending": "2026-10-31",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-11-05T09:00:00-05:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-11-05T08:30:00-05:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-10-31@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-11-07",
+        "Reference Week Ending": "2026-11-07",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-11-12T09:00:00-05:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-11-12T08:30:00-05:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-11-07@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-11-14",
+        "Reference Week Ending": "2026-11-14",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-11-19T09:00:00-05:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-11-19T08:30:00-05:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-11-14@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-11-21",
+        "Reference Week Ending": "2026-11-21",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday publication; moved one day earlier for a federal holiday"
+      },
+      "end": "2026-11-25T09:00:00-05:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-11-25T08:30:00-05:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-11-21@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-11-28",
+        "Reference Week Ending": "2026-11-28",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-12-03T09:00:00-05:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-12-03T08:30:00-05:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-11-28@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-12-05",
+        "Reference Week Ending": "2026-12-05",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-12-10T09:00:00-05:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-12-10T08:30:00-05:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-12-05@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-12-12",
+        "Reference Week Ending": "2026-12-12",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-12-17T09:00:00-05:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-12-17T08:30:00-05:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-12-12@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-12-19",
+        "Reference Week Ending": "2026-12-19",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-12-24T09:00:00-05:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-12-24T08:30:00-05:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-12-19@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-12-26",
+        "Reference Week Ending": "2026-12-26",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2026-12-31T09:00:00-05:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2026-12-31T08:30:00-05:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2026-12-26@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "PCE Price Index",
+        "Reference Period": "2026-08",
+        "Release": "Personal Income and Outlays, August 2026"
+      },
+      "end": "2026-09-30T09:00:00-04:00",
+      "kind": "pce",
+      "metadata": {},
+      "scope": "macro:bea",
+      "source": "U.S. Bureau of Economic Analysis (BEA)",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "start": "2026-09-30T08:30:00-04:00",
+      "summary": "🇺🇸 美国 PCE",
+      "uid": "macro-US-PCE-2026-08@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "PCE Price Index",
+        "Reference Period": "2026-09",
+        "Release": "Personal Income and Outlays, September 2026"
+      },
+      "end": "2026-10-29T09:00:00-04:00",
+      "kind": "pce",
+      "metadata": {},
+      "scope": "macro:bea",
+      "source": "U.S. Bureau of Economic Analysis (BEA)",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "start": "2026-10-29T08:30:00-04:00",
+      "summary": "🇺🇸 美国 PCE",
+      "uid": "macro-US-PCE-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "PCE Price Index",
+        "Reference Period": "2026-10",
+        "Release": "Personal Income and Outlays, October 2026"
+      },
+      "end": "2026-11-25T09:00:00-05:00",
+      "kind": "pce",
+      "metadata": {},
+      "scope": "macro:bea",
+      "source": "U.S. Bureau of Economic Analysis (BEA)",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "start": "2026-11-25T08:30:00-05:00",
+      "summary": "🇺🇸 美国 PCE",
+      "uid": "macro-US-PCE-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "PCE Price Index",
+        "Reference Period": "2026-11",
+        "Release": "Personal Income and Outlays, November 2026"
+      },
+      "end": "2026-12-23T09:00:00-05:00",
+      "kind": "pce",
+      "metadata": {},
+      "scope": "macro:bea",
+      "source": "U.S. Bureau of Economic Analysis (BEA)",
+      "source_url": "https://www.bea.gov/news/schedule",
+      "start": "2026-12-23T08:30:00-05:00",
+      "summary": "🇺🇸 美国 PCE",
+      "uid": "macro-US-PCE-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-08",
+        "Release": "Advance Monthly Retail Trade Report, August 2026"
+      },
+      "end": "2026-09-16T09:00:00-04:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2026-09-16T08:30:00-04:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2026-08@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-09",
+        "Release": "Advance Monthly Retail Trade Report, September 2026"
+      },
+      "end": "2026-10-15T09:00:00-04:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2026-10-15T08:30:00-04:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-10",
+        "Release": "Advance Monthly Retail Trade Report, October 2026"
+      },
+      "end": "2026-11-17T09:00:00-05:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2026-11-17T08:30:00-05:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2026-11",
+        "Release": "Advance Monthly Retail Trade Report, November 2026"
+      },
+      "end": "2026-12-16T09:00:00-05:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2026-12-16T08:30:00-05:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2026-09",
+        "Release": "Employment Situation for September 2026"
+      },
+      "end": "2026-10-02T09:00:00-04:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2026-10-02T08:30:00-04:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Unemployment Rate",
+        "Reference Period": "2026-09",
+        "Release": "Employment Situation for September 2026"
+      },
+      "end": "2026-10-02T09:00:00-04:00",
+      "kind": "unemployment",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2026-10-02T08:30:00-04:00",
+      "summary": "🇺🇸 美国失业率",
+      "uid": "macro-US-UNEMPLOYMENT-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2026-10",
+        "Release": "Employment Situation for October 2026"
+      },
+      "end": "2026-11-06T09:00:00-05:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2026-11-06T08:30:00-05:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Unemployment Rate",
+        "Reference Period": "2026-10",
+        "Release": "Employment Situation for October 2026"
+      },
+      "end": "2026-11-06T09:00:00-05:00",
+      "kind": "unemployment",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2026-11-06T08:30:00-05:00",
+      "summary": "🇺🇸 美国失业率",
+      "uid": "macro-US-UNEMPLOYMENT-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2026-11",
+        "Release": "Employment Situation for November 2026"
+      },
+      "end": "2026-12-04T09:00:00-05:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2026-12-04T08:30:00-05:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Unemployment Rate",
+        "Reference Period": "2026-11",
+        "Release": "Employment Situation for November 2026"
+      },
+      "end": "2026-12-04T09:00:00-05:00",
+      "kind": "unemployment",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2026-12-04T08:30:00-05:00",
+      "summary": "🇺🇸 美国失业率",
+      "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2026-09",
+        "Release": "Consumer Price Index for September 2026"
+      },
+      "end": "2026-10-14T09:00:00-04:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2026-10-14T08:30:00-04:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2026-09",
+        "Release": "Consumer Price Index for September 2026"
+      },
+      "end": "2026-10-14T09:00:00-04:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2026-10-14T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2026-10",
+        "Release": "Consumer Price Index for October 2026"
+      },
+      "end": "2026-11-10T09:00:00-05:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2026-11-10T08:30:00-05:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2026-10",
+        "Release": "Consumer Price Index for October 2026"
+      },
+      "end": "2026-11-10T09:00:00-05:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2026-11-10T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2026-11",
+        "Release": "Consumer Price Index for November 2026"
+      },
+      "end": "2026-12-10T09:00:00-05:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2026-12-10T08:30:00-05:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2026-11",
+        "Release": "Consumer Price Index for November 2026"
+      },
+      "end": "2026-12-10T09:00:00-05:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2026-12-10T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2026-09",
+        "Release": "Producer Price Index for September 2026"
+      },
+      "end": "2026-10-15T09:00:00-04:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2026-10-15T08:30:00-04:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2026-09",
+        "Release": "Producer Price Index for September 2026"
+      },
+      "end": "2026-10-15T09:00:00-04:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2026-10-15T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2026-10",
+        "Release": "Producer Price Index for October 2026"
+      },
+      "end": "2026-11-13T09:00:00-05:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2026-11-13T08:30:00-05:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2026-10",
+        "Release": "Producer Price Index for October 2026"
+      },
+      "end": "2026-11-13T09:00:00-05:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2026-11-13T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2026-11",
+        "Release": "Producer Price Index for November 2026"
+      },
+      "end": "2026-12-15T09:00:00-05:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2026-12-15T08:30:00-05:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2026-11",
+        "Release": "Producer Price Index for November 2026"
+      },
+      "end": "2026-12-15T09:00:00-05:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2026-12-15T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2026-11@finance-calendar"
+    }
+  ],
+  "updated_at": "2026-09-15T08:40:23+00:00",
+  "version": 1
+}

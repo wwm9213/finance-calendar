@@ -1,0 +1,325 @@
+{
+  "events": [
+    {
+      "all_day": false,
+      "category": "market",
+      "description": {
+        "Market": "NYSE equities",
+        "Official Close": "2026-11-27 13:00 EST",
+        "Status": "Early Close"
+      },
+      "end": "2026-11-27T13:00:00-05:00",
+      "kind": "early_close",
+      "metadata": {},
+      "scope": "market:nyse",
+      "source": "NYSE schedule via pandas-market-calendars",
+      "source_url": "https://www.nyse.com/markets/hours-calendars",
+      "start": "2026-11-27T12:30:00-05:00",
+      "summary": "⏰ 美股提前收市 · 13:00 ET",
+      "uid": "market-US-EARLY-CLOSE-2026-11-27@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "market",
+      "description": {
+        "Market": "NYSE equities",
+        "Official Close": "2026-12-24 13:00 EST",
+        "Status": "Early Close"
+      },
+      "end": "2026-12-24T13:00:00-05:00",
+      "kind": "early_close",
+      "metadata": {},
+      "scope": "market:nyse",
+      "source": "NYSE schedule via pandas-market-calendars",
+      "source_url": "https://www.nyse.com/markets/hours-calendars",
+      "start": "2026-12-24T12:30:00-05:00",
+      "summary": "⏰ 美股提前收市 · 13:00 ET",
+      "uid": "market-US-EARLY-CLOSE-2026-12-24@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Holiday": "Labor Day",
+        "Market": "NYSE equities",
+        "Status": "Full Market Holiday"
+      },
+      "end": "2026-09-08",
+      "kind": "holiday",
+      "metadata": {},
+      "scope": "market:nyse",
+      "source": "NYSE schedule via pandas-market-calendars",
+      "source_url": "https://www.nyse.com/markets/hours-calendars",
+      "start": "2026-09-07",
+      "summary": "🏛️ 美股休市 · 劳动节 / Labor Day",
+      "uid": "market-US-HOLIDAY-2026-09-07@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Holiday": "Thanksgiving",
+        "Market": "NYSE equities",
+        "Status": "Full Market Holiday"
+      },
+      "end": "2026-11-27",
+      "kind": "holiday",
+      "metadata": {},
+      "scope": "market:nyse",
+      "source": "NYSE schedule via pandas-market-calendars",
+      "source_url": "https://www.nyse.com/markets/hours-calendars",
+      "start": "2026-11-26",
+      "summary": "🏛️ 美股休市 · 感恩节 / Thanksgiving",
+      "uid": "market-US-HOLIDAY-2026-11-26@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Holiday": "Christmas",
+        "Market": "NYSE equities",
+        "Status": "Full Market Holiday"
+      },
+      "end": "2026-12-26",
+      "kind": "holiday",
+      "metadata": {},
+      "scope": "market:nyse",
+      "source": "NYSE schedule via pandas-market-calendars",
+      "source_url": "https://www.nyse.com/markets/hours-calendars",
+      "start": "2026-12-25",
+      "summary": "🏛️ 美股休市 · 圣诞节 / Christmas",
+      "uid": "market-US-HOLIDAY-2026-12-25@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Holiday": "New Years Day",
+        "Market": "NYSE equities",
+        "Status": "Full Market Holiday"
+      },
+      "end": "2027-01-02",
+      "kind": "holiday",
+      "metadata": {},
+      "scope": "market:nyse",
+      "source": "NYSE schedule via pandas-market-calendars",
+      "source_url": "https://www.nyse.com/markets/hours-calendars",
+      "start": "2027-01-01",
+      "summary": "🏛️ 美股休市 · 元旦 / New Years Day",
+      "uid": "market-US-HOLIDAY-2027-01-01@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Holiday": "Dr. Martin Luther King Jr. Day",
+        "Market": "NYSE equities",
+        "Status": "Full Market Holiday"
+      },
+      "end": "2027-01-19",
+      "kind": "holiday",
+      "metadata": {},
+      "scope": "market:nyse",
+      "source": "NYSE schedule via pandas-market-calendars",
+      "source_url": "https://www.nyse.com/markets/hours-calendars",
+      "start": "2027-01-18",
+      "summary": "🏛️ 美股休市 · 马丁·路德·金纪念日 / Dr. Martin Luther King Jr. Day",
+      "uid": "market-US-HOLIDAY-2027-01-18@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Holiday": "Presidents Day",
+        "Market": "NYSE equities",
+        "Status": "Full Market Holiday"
+      },
+      "end": "2027-02-16",
+      "kind": "holiday",
+      "metadata": {},
+      "scope": "market:nyse",
+      "source": "NYSE schedule via pandas-market-calendars",
+      "source_url": "https://www.nyse.com/markets/hours-calendars",
+      "start": "2027-02-15",
+      "summary": "🏛️ 美股休市 · 总统日 / Presidents Day",
+      "uid": "market-US-HOLIDAY-2027-02-15@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Holiday": "Good Friday 1908+",
+        "Market": "NYSE equities",
+        "Status": "Full Market Holiday"
+      },
+      "end": "2027-03-27",
+      "kind": "holiday",
+      "metadata": {},
+      "scope": "market:nyse",
+      "source": "NYSE schedule via pandas-market-calendars",
+      "source_url": "https://www.nyse.com/markets/hours-calendars",
+      "start": "2027-03-26",
+      "summary": "🏛️ 美股休市 · 耶稣受难日 / Good Friday 1908+",
+      "uid": "market-US-HOLIDAY-2027-03-26@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Holiday": "Memorial Day",
+        "Market": "NYSE equities",
+        "Status": "Full Market Holiday"
+      },
+      "end": "2027-06-01",
+      "kind": "holiday",
+      "metadata": {},
+      "scope": "market:nyse",
+      "source": "NYSE schedule via pandas-market-calendars",
+      "source_url": "https://www.nyse.com/markets/hours-calendars",
+      "start": "2027-05-31",
+      "summary": "🏛️ 美股休市 · 阵亡将士纪念日 / Memorial Day",
+      "uid": "market-US-HOLIDAY-2027-05-31@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Holiday": "Juneteenth Starting at 2022",
+        "Market": "NYSE equities",
+        "Status": "Full Market Holiday"
+      },
+      "end": "2027-06-19",
+      "kind": "holiday",
+      "metadata": {},
+      "scope": "market:nyse",
+      "source": "NYSE schedule via pandas-market-calendars",
+      "source_url": "https://www.nyse.com/markets/hours-calendars",
+      "start": "2027-06-18",
+      "summary": "🏛️ 美股休市 · 六月节 / Juneteenth Starting at 2022",
+      "uid": "market-US-HOLIDAY-2027-06-18@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Holiday": "July 4th",
+        "Market": "NYSE equities",
+        "Status": "Full Market Holiday"
+      },
+      "end": "2027-07-06",
+      "kind": "holiday",
+      "metadata": {},
+      "scope": "market:nyse",
+      "source": "NYSE schedule via pandas-market-calendars",
+      "source_url": "https://www.nyse.com/markets/hours-calendars",
+      "start": "2027-07-05",
+      "summary": "🏛️ 美股休市 · July 4th",
+      "uid": "market-US-HOLIDAY-2027-07-05@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Holiday": "Labor Day",
+        "Market": "NYSE equities",
+        "Status": "Full Market Holiday"
+      },
+      "end": "2027-09-07",
+      "kind": "holiday",
+      "metadata": {},
+      "scope": "market:nyse",
+      "source": "NYSE schedule via pandas-market-calendars",
+      "source_url": "https://www.nyse.com/markets/hours-calendars",
+      "start": "2027-09-06",
+      "summary": "🏛️ 美股休市 · 劳动节 / Labor Day",
+      "uid": "market-US-HOLIDAY-2027-09-06@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Event": "Quarterly derivatives expiration concentration",
+        "Rule": "Third Friday of March, June, September and December"
+      },
+      "end": "2026-09-19",
+      "kind": "quadruple_witching",
+      "metadata": {},
+      "scope": "market:quadruple-witching",
+      "source": "Calendar rule",
+      "source_url": "https://www.optionseducation.org/referencelibrary/faq/options-expiration-calendar",
+      "start": "2026-09-18",
+      "summary": "⚠️ 美股四巫日",
+      "uid": "market-US-QUADRUPLE-WITCHING-2026-09@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Event": "Quarterly derivatives expiration concentration",
+        "Rule": "Third Friday of March, June, September and December"
+      },
+      "end": "2026-12-19",
+      "kind": "quadruple_witching",
+      "metadata": {},
+      "scope": "market:quadruple-witching",
+      "source": "Calendar rule",
+      "source_url": "https://www.optionseducation.org/referencelibrary/faq/options-expiration-calendar",
+      "start": "2026-12-18",
+      "summary": "⚠️ 美股四巫日",
+      "uid": "market-US-QUADRUPLE-WITCHING-2026-12@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Event": "Quarterly derivatives expiration concentration",
+        "Rule": "Third Friday of March, June, September and December"
+      },
+      "end": "2027-03-20",
+      "kind": "quadruple_witching",
+      "metadata": {},
+      "scope": "market:quadruple-witching",
+      "source": "Calendar rule",
+      "source_url": "https://www.optionseducation.org/referencelibrary/faq/options-expiration-calendar",
+      "start": "2027-03-19",
+      "summary": "⚠️ 美股四巫日",
+      "uid": "market-US-QUADRUPLE-WITCHING-2027-03@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Event": "Quarterly derivatives expiration concentration",
+        "Rule": "Third Friday of March, June, September and December"
+      },
+      "end": "2027-06-19",
+      "kind": "quadruple_witching",
+      "metadata": {},
+      "scope": "market:quadruple-witching",
+      "source": "Calendar rule",
+      "source_url": "https://www.optionseducation.org/referencelibrary/faq/options-expiration-calendar",
+      "start": "2027-06-18",
+      "summary": "⚠️ 美股四巫日",
+      "uid": "market-US-QUADRUPLE-WITCHING-2027-06@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
+        "Event": "Quarterly derivatives expiration concentration",
+        "Rule": "Third Friday of March, June, September and December"
+      },
+      "end": "2027-09-18",
+      "kind": "quadruple_witching",
+      "metadata": {},
+      "scope": "market:quadruple-witching",
+      "source": "Calendar rule",
+      "source_url": "https://www.optionseducation.org/referencelibrary/faq/options-expiration-calendar",
+      "start": "2027-09-17",
+      "summary": "⚠️ 美股四巫日",
+      "uid": "market-US-QUADRUPLE-WITCHING-2027-09@finance-calendar"
+    }
+  ],
+  "updated_at": "2026-09-15T08:40:23+00:00",
+  "version": 1
+}

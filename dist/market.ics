@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Finance Calendar//finance-calendar//ZH-CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:金融市场动态 · 市场交易
+REFRESH-INTERVAL:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🏛️ 美股休市 · 劳动节 / Labor Day
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260915T084023Z
+UID:market-US-HOLIDAY-2026-09-07@finance-calendar
+CATEGORIES:MARKET,HOLIDAY
+DESCRIPTION:Holiday: Labor Day\nMarket: NYSE equities\nStatus: Full Market
+  Holiday\nSource: NYSE schedule via pandas-market-calendars\nSource URL: h
+ ttps://www.nyse.com/markets/hours-calendars\nLast Updated: 2026-09-15T08:4
+ 0:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.nyse.com/markets/hours-calendars
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ 美股四巫日
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+DTSTAMP:20260915T084023Z
+UID:market-US-QUADRUPLE-WITCHING-2026-09@finance-calendar
+CATEGORIES:MARKET,QUADRUPLE_WITCHING
+DESCRIPTION:Event: Quarterly derivatives expiration concentration\nRule: T
+ hird Friday of March\, June\, September and December\nSource: Calendar rul
+ e\nSource URL: https://www.optionseducation.org/referencelibrary/faq/optio
+ ns-expiration-calendar\nLast Updated: 2026-09-15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.optionseducation.org/referencelibrary/faq/options-expirati
+ on-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏛️ 美股休市 · 感恩节 / Thanksgiving
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20260915T084023Z
+UID:market-US-HOLIDAY-2026-11-26@finance-calendar
+CATEGORIES:MARKET,HOLIDAY
+DESCRIPTION:Holiday: Thanksgiving\nMarket: NYSE equities\nStatus: Full Mar
+ ket Holiday\nSource: NYSE schedule via pandas-market-calendars\nSource URL
+ : https://www.nyse.com/markets/hours-calendars\nLast Updated: 2026-09-15T0
+ 8:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.nyse.com/markets/hours-calendars
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏰ 美股提前收市 · 13:00 ET
+DTSTART:20261127T173000Z
+DTEND:20261127T180000Z
+DTSTAMP:20260915T084023Z
+UID:market-US-EARLY-CLOSE-2026-11-27@finance-calendar
+CATEGORIES:MARKET,EARLY_CLOSE
+DESCRIPTION:Market: NYSE equities\nOfficial Close: 2026-11-27 13:00 EST\nS
+ tatus: Early Close\nLocal Time (Asia/Shanghai): 2026-11-28 01:30 CST\nSour
+ ce: NYSE schedule via pandas-market-calendars\nSource URL: https://www.nys
+ e.com/markets/hours-calendars\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.nyse.com/markets/hours-calendars
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ 美股四巫日
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+DTSTAMP:20260915T084023Z
+UID:market-US-QUADRUPLE-WITCHING-2026-12@finance-calendar
+CATEGORIES:MARKET,QUADRUPLE_WITCHING
+DESCRIPTION:Event: Quarterly derivatives expiration concentration\nRule: T
+ hird Friday of March\, June\, September and December\nSource: Calendar rul
+ e\nSource URL: https://www.optionseducation.org/referencelibrary/faq/optio
+ ns-expiration-calendar\nLast Updated: 2026-09-15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.optionseducation.org/referencelibrary/faq/options-expirati
+ on-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⏰ 美股提前收市 · 13:00 ET
+DTSTART:20261224T173000Z
+DTEND:20261224T180000Z
+DTSTAMP:20260915T084023Z
+UID:market-US-EARLY-CLOSE-2026-12-24@finance-calendar
+CATEGORIES:MARKET,EARLY_CLOSE
+DESCRIPTION:Market: NYSE equities\nOfficial Close: 2026-12-24 13:00 EST\nS
+ tatus: Early Close\nLocal Time (Asia/Shanghai): 2026-12-25 01:30 CST\nSour
+ ce: NYSE schedule via pandas-market-calendars\nSource URL: https://www.nys
+ e.com/markets/hours-calendars\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.nyse.com/markets/hours-calendars
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏛️ 美股休市 · 圣诞节 / Christmas
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+DTSTAMP:20260915T084023Z
+UID:market-US-HOLIDAY-2026-12-25@finance-calendar
+CATEGORIES:MARKET,HOLIDAY
+DESCRIPTION:Holiday: Christmas\nMarket: NYSE equities\nStatus: Full Market
+  Holiday\nSource: NYSE schedule via pandas-market-calendars\nSource URL: h
+ ttps://www.nyse.com/markets/hours-calendars\nLast Updated: 2026-09-15T08:4
+ 0:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.nyse.com/markets/hours-calendars
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏛️ 美股休市 · 元旦 / New Years Day
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+DTSTAMP:20260915T084023Z
+UID:market-US-HOLIDAY-2027-01-01@finance-calendar
+CATEGORIES:MARKET,HOLIDAY
+DESCRIPTION:Holiday: New Years Day\nMarket: NYSE equities\nStatus: Full Ma
+ rket Holiday\nSource: NYSE schedule via pandas-market-calendars\nSource UR
+ L: https://www.nyse.com/markets/hours-calendars\nLast Updated: 2026-09-15T
+ 08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.nyse.com/markets/hours-calendars
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏛️ 美股休市 · 马丁·路德·金纪念日 / Dr. Martin 
+ Luther King Jr. Day
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+DTSTAMP:20260915T084023Z
+UID:market-US-HOLIDAY-2027-01-18@finance-calendar
+CATEGORIES:MARKET,HOLIDAY
+DESCRIPTION:Holiday: Dr. Martin Luther King Jr. Day\nMarket: NYSE equities
+ \nStatus: Full Market Holiday\nSource: NYSE schedule via pandas-market-cal
+ endars\nSource URL: https://www.nyse.com/markets/hours-calendars\nLast Upd
+ ated: 2026-09-15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.nyse.com/markets/hours-calendars
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏛️ 美股休市 · 总统日 / Presidents Day
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+DTSTAMP:20260915T084023Z
+UID:market-US-HOLIDAY-2027-02-15@finance-calendar
+CATEGORIES:MARKET,HOLIDAY
+DESCRIPTION:Holiday: Presidents Day\nMarket: NYSE equities\nStatus: Full M
+ arket Holiday\nSource: NYSE schedule via pandas-market-calendars\nSource U
+ RL: https://www.nyse.com/markets/hours-calendars\nLast Updated: 2026-09-15
+ T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.nyse.com/markets/hours-calendars
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ 美股四巫日
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+DTSTAMP:20260915T084023Z
+UID:market-US-QUADRUPLE-WITCHING-2027-03@finance-calendar
+CATEGORIES:MARKET,QUADRUPLE_WITCHING
+DESCRIPTION:Event: Quarterly derivatives expiration concentration\nRule: T
+ hird Friday of March\, June\, September and December\nSource: Calendar rul
+ e\nSource URL: https://www.optionseducation.org/referencelibrary/faq/optio
+ ns-expiration-calendar\nLast Updated: 2026-09-15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.optionseducation.org/referencelibrary/faq/options-expirati
+ on-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏛️ 美股休市 · 耶稣受难日 / Good Friday 1908+
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+DTSTAMP:20260915T084023Z
+UID:market-US-HOLIDAY-2027-03-26@finance-calendar
+CATEGORIES:MARKET,HOLIDAY
+DESCRIPTION:Holiday: Good Friday 1908+\nMarket: NYSE equities\nStatus: Ful
+ l Market Holiday\nSource: NYSE schedule via pandas-market-calendars\nSourc
+ e URL: https://www.nyse.com/markets/hours-calendars\nLast Updated: 2026-09
+ -15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.nyse.com/markets/hours-calendars
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏛️ 美股休市 · 阵亡将士纪念日 / Memorial Day
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+DTSTAMP:20260915T084023Z
+UID:market-US-HOLIDAY-2027-05-31@finance-calendar
+CATEGORIES:MARKET,HOLIDAY
+DESCRIPTION:Holiday: Memorial Day\nMarket: NYSE equities\nStatus: Full Mar
+ ket Holiday\nSource: NYSE schedule via pandas-market-calendars\nSource URL
+ : https://www.nyse.com/markets/hours-calendars\nLast Updated: 2026-09-15T0
+ 8:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.nyse.com/markets/hours-calendars
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏛️ 美股休市 · 六月节 / Juneteenth Starting at 2022
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+DTSTAMP:20260915T084023Z
+UID:market-US-HOLIDAY-2027-06-18@finance-calendar
+CATEGORIES:MARKET,HOLIDAY
+DESCRIPTION:Holiday: Juneteenth Starting at 2022\nMarket: NYSE equities\nS
+ tatus: Full Market Holiday\nSource: NYSE schedule via pandas-market-calend
+ ars\nSource URL: https://www.nyse.com/markets/hours-calendars\nLast Update
+ d: 2026-09-15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.nyse.com/markets/hours-calendars
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ 美股四巫日
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+DTSTAMP:20260915T084023Z
+UID:market-US-QUADRUPLE-WITCHING-2027-06@finance-calendar
+CATEGORIES:MARKET,QUADRUPLE_WITCHING
+DESCRIPTION:Event: Quarterly derivatives expiration concentration\nRule: T
+ hird Friday of March\, June\, September and December\nSource: Calendar rul
+ e\nSource URL: https://www.optionseducation.org/referencelibrary/faq/optio
+ ns-expiration-calendar\nLast Updated: 2026-09-15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.optionseducation.org/referencelibrary/faq/options-expirati
+ on-calendar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏛️ 美股休市 · July 4th
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+DTSTAMP:20260915T084023Z
+UID:market-US-HOLIDAY-2027-07-05@finance-calendar
+CATEGORIES:MARKET,HOLIDAY
+DESCRIPTION:Holiday: July 4th\nMarket: NYSE equities\nStatus: Full Market 
+ Holiday\nSource: NYSE schedule via pandas-market-calendars\nSource URL: ht
+ tps://www.nyse.com/markets/hours-calendars\nLast Updated: 2026-09-15T08:40
+ :23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.nyse.com/markets/hours-calendars
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏛️ 美股休市 · 劳动节 / Labor Day
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+DTSTAMP:20260915T084023Z
+UID:market-US-HOLIDAY-2027-09-06@finance-calendar
+CATEGORIES:MARKET,HOLIDAY
+DESCRIPTION:Holiday: Labor Day\nMarket: NYSE equities\nStatus: Full Market
+  Holiday\nSource: NYSE schedule via pandas-market-calendars\nSource URL: h
+ ttps://www.nyse.com/markets/hours-calendars\nLast Updated: 2026-09-15T08:4
+ 0:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.nyse.com/markets/hours-calendars
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:⚠️ 美股四巫日
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+DTSTAMP:20260915T084023Z
+UID:market-US-QUADRUPLE-WITCHING-2027-09@finance-calendar
+CATEGORIES:MARKET,QUADRUPLE_WITCHING
+DESCRIPTION:Event: Quarterly derivatives expiration concentration\nRule: T
+ hird Friday of March\, June\, September and December\nSource: Calendar rul
+ e\nSource URL: https://www.optionseducation.org/referencelibrary/faq/optio
+ ns-expiration-calendar\nLast Updated: 2026-09-15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.optionseducation.org/referencelibrary/faq/options-expirati
+ on-calendar
+END:VEVENT
+END:VCALENDAR

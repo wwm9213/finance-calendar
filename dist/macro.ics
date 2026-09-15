@@ -1,0 +1,1610 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Finance Calendar//finance-calendar//ZH-CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:金融市场动态 · 宏观经济
+REFRESH-INTERVAL:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 会议纪要
+DTSTART:20260819T180000Z
+DTEND:20260819T183000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_MINUTES-2026-05@finance-calendar
+CATEGORIES:MACRO,FOMC_MINUTES
+DESCRIPTION:Meeting End Date: 2026-07-29\nReference Period: 2026-05\nRelea
+ se: FOMC Minutes\nSchedule Method: Official release date\nLocal Time (Asia
+ /Shanghai): 2026-08-20 02:00 CST\nSource: Federal Reserve Board\nSource UR
+ L: https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast U
+ pdated: 2026-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20260820T123000Z
+DTEND:20260820T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-08-15@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-08-15\nReference Week Ending: 2026-08-1
+ 5\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-08-20 20:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20260827T123000Z
+DTEND:20260827T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-08-22@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-08-22\nReference Week Ending: 2026-08-2
+ 2\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-08-27 20:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 制造业 PMI
+DTSTART:20260901T140000Z
+DTEND:20260901T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_MANUFACTURING-2026-09@finance-calendar
+CATEGORIES:MACRO,ISM_MANUFACTURING
+DESCRIPTION:Reference Period: 2026-09\nRelease: ISM Manufacturing PMI Repo
+ rt\nSchedule Method: Fallback: ISM first-business-day rule\nLocal Time (As
+ ia/Shanghai): 2026-09-01 22:00 CST\nSource: Institute for Supply Managemen
+ t (ISM)\nSource URL: https://www.ismworld.org/supply-management-news-and-r
+ eports/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:
+ 00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20260903T123000Z
+DTEND:20260903T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-08-29@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-08-29\nReference Week Ending: 2026-08-2
+ 9\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-09-03 20:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 服务业 PMI
+DTSTART:20260903T140000Z
+DTEND:20260903T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_SERVICES-2026-09@finance-calendar
+CATEGORIES:MACRO,ISM_SERVICES
+DESCRIPTION:Reference Period: 2026-09\nRelease: ISM Services PMI Report\nS
+ chedule Method: Fallback: ISM third-business-day rule\nLocal Time (Asia/Sh
+ anghai): 2026-09-03 22:00 CST\nSource: Institute for Supply Management (IS
+ M)\nSource URL: https://www.ismworld.org/supply-management-news-and-report
+ s/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20260910T123000Z
+DTEND:20260910T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-09-05@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-09-05\nReference Week Ending: 2026-09-0
+ 5\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-09-10 20:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 议息会议
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260917
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC-MEETING-2026-06@finance-calendar
+CATEGORIES:MACRO,FOMC_MEETING
+DESCRIPTION:Event: Federal Open Market Committee Meeting\nMeeting: 2026-09
+ -15 to 2026-09-16\nSource: Federal Reserve Board\nSource URL: https://www.
+ federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 2026-09
+ -15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国零售销售
+DTSTART:20260916T123000Z
+DTEND:20260916T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-RETAIL_SALES-2026-08@finance-calendar
+CATEGORIES:MACRO,RETAIL_SALES
+DESCRIPTION:Reference Period: 2026-08\nRelease: Advance Monthly Retail Tra
+ de Report\, August 2026\nLocal Time (Asia/Shanghai): 2026-09-16 20:30 CST\
+ nSource: U.S. Census Bureau\nSource URL: https://www.census.gov/retail/rel
+ ease_schedule.html\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.census.gov/retail/release_schedule.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 利率决议
+DTSTART:20260916T180000Z
+DTEND:20260916T190000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_DECISION-2026-06@finance-calendar
+CATEGORIES:MACRO,FOMC_DECISION
+DESCRIPTION:Meeting End Date: 2026-09-16\nReference Period: 2026-06\nRelea
+ se: FOMC Statement and Interest Rate Decision\nLocal Time (Asia/Shanghai):
+  2026-09-17 02:00 CST\nSource: Federal Reserve Board\nSource URL: https://
+ www.federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 202
+ 6-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20260917T123000Z
+DTEND:20260917T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-09-12@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-09-12\nReference Week Ending: 2026-09-1
+ 2\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-09-17 20:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20260924T123000Z
+DTEND:20260924T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-09-19@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-09-19\nReference Week Ending: 2026-09-1
+ 9\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-09-24 20:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PCE
+DTSTART:20260930T123000Z
+DTEND:20260930T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-CORE_PCE-2026-08@finance-calendar
+CATEGORIES:MACRO,CORE_PCE
+DESCRIPTION:Indicator: Core PCE Price Index\nReference Period: 2026-08\nRe
+ lease: Personal Income and Outlays\, August 2026\nLocal Time (Asia/Shangha
+ i): 2026-09-30 20:30 CST\nSource: U.S. Bureau of Economic Analysis (BEA)\n
+ Source URL: https://www.bea.gov/news/schedule\nLast Updated: 2026-09-15T08
+ :40:23+00:00
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 GDP · Third Estimate
+DTSTART:20260930T123000Z
+DTEND:20260930T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-GDP-2026-Q2-third-estimate@finance-calendar
+CATEGORIES:MACRO,GDP
+DESCRIPTION:Estimate Stage: Third Estimate\nReference Period: 2026-Q2-thir
+ d-estimate\nRelease: GDP (Third Estimate)\, Industries\, Corporate Profits
+ \, State GDP\, and State Personal Income\, 2nd Quarter 2026\; State PCE\, 
+ 2025\nLocal Time (Asia/Shanghai): 2026-09-30 20:30 CST\nSource: U.S. Burea
+ u of Economic Analysis (BEA)\nSource URL: https://www.bea.gov/news/schedul
+ e\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PCE
+DTSTART:20260930T123000Z
+DTEND:20260930T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-PCE-2026-08@finance-calendar
+CATEGORIES:MACRO,PCE
+DESCRIPTION:Indicator: PCE Price Index\nReference Period: 2026-08\nRelease
+ : Personal Income and Outlays\, August 2026\nLocal Time (Asia/Shanghai): 2
+ 026-09-30 20:30 CST\nSource: U.S. Bureau of Economic Analysis (BEA)\nSourc
+ e URL: https://www.bea.gov/news/schedule\nLast Updated: 2026-09-15T08:40:2
+ 3+00:00
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20261001T123000Z
+DTEND:20261001T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-09-26@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-09-26\nReference Week Ending: 2026-09-2
+ 6\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-10-01 20:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 制造业 PMI
+DTSTART:20261001T140000Z
+DTEND:20261001T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_MANUFACTURING-2026-10@finance-calendar
+CATEGORIES:MACRO,ISM_MANUFACTURING
+DESCRIPTION:Reference Period: 2026-10\nRelease: ISM Manufacturing PMI Repo
+ rt\nSchedule Method: Fallback: ISM first-business-day rule\nLocal Time (As
+ ia/Shanghai): 2026-10-01 22:00 CST\nSource: Institute for Supply Managemen
+ t (ISM)\nSource URL: https://www.ismworld.org/supply-management-news-and-r
+ eports/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:
+ 00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国非农就业（NFP）
+DTSTART:20261002T123000Z
+DTEND:20261002T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-NFP-2026-09@finance-calendar
+CATEGORIES:MACRO,NFP
+DESCRIPTION:Indicator: Nonfarm Payrolls\nReference Period: 2026-09\nReleas
+ e: Employment Situation for September 2026\nLocal Time (Asia/Shanghai): 20
+ 26-10-02 20:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\nSource 
+ URL: https://www.bls.gov/schedule/news_release/empsit.htm\nLast Updated: 2
+ 026-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国失业率
+DTSTART:20261002T123000Z
+DTEND:20261002T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-UNEMPLOYMENT-2026-09@finance-calendar
+CATEGORIES:MACRO,UNEMPLOYMENT
+DESCRIPTION:Indicator: Unemployment Rate\nReference Period: 2026-09\nRelea
+ se: Employment Situation for September 2026\nLocal Time (Asia/Shanghai): 2
+ 026-10-02 20:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\nSource
+  URL: https://www.bls.gov/schedule/news_release/empsit.htm\nLast Updated: 
+ 2026-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 服务业 PMI
+DTSTART:20261005T140000Z
+DTEND:20261005T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_SERVICES-2026-10@finance-calendar
+CATEGORIES:MACRO,ISM_SERVICES
+DESCRIPTION:Reference Period: 2026-10\nRelease: ISM Services PMI Report\nS
+ chedule Method: Fallback: ISM third-business-day rule\nLocal Time (Asia/Sh
+ anghai): 2026-10-05 22:00 CST\nSource: Institute for Supply Management (IS
+ M)\nSource URL: https://www.ismworld.org/supply-management-news-and-report
+ s/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 会议纪要
+DTSTART:20261007T180000Z
+DTEND:20261007T183000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_MINUTES-2026-06@finance-calendar
+CATEGORIES:MACRO,FOMC_MINUTES
+DESCRIPTION:Meeting End Date: 2026-09-16\nReference Period: 2026-06\nRelea
+ se: FOMC Minutes\nSchedule Method: Federal Reserve three-week publication 
+ policy\nLocal Time (Asia/Shanghai): 2026-10-08 02:00 CST\nSource: Federal 
+ Reserve Board\nSource URL: https://www.federalreserve.gov/monetarypolicy/f
+ omccalendars.htm\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20261008T123000Z
+DTEND:20261008T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-10-03@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-10-03\nReference Week Ending: 2026-10-0
+ 3\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-10-08 20:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 CPI
+DTSTART:20261014T123000Z
+DTEND:20261014T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-CORE_CPI-2026-09@finance-calendar
+CATEGORIES:MACRO,CORE_CPI
+DESCRIPTION:Indicator: Core Consumer Price Index\nReference Period: 2026-0
+ 9\nRelease: Consumer Price Index for September 2026\nLocal Time (Asia/Shan
+ ghai): 2026-10-14 20:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)
+ \nSource URL: https://www.bls.gov/schedule/news_release/cpi.htm\nLast Upda
+ ted: 2026-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 CPI
+DTSTART:20261014T123000Z
+DTEND:20261014T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-CPI-2026-09@finance-calendar
+CATEGORIES:MACRO,CPI
+DESCRIPTION:Indicator: Consumer Price Index\nReference Period: 2026-09\nRe
+ lease: Consumer Price Index for September 2026\nLocal Time (Asia/Shanghai)
+ : 2026-10-14 20:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\nSou
+ rce URL: https://www.bls.gov/schedule/news_release/cpi.htm\nLast Updated: 
+ 2026-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PPI
+DTSTART:20261015T123000Z
+DTEND:20261015T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-CORE_PPI-2026-09@finance-calendar
+CATEGORIES:MACRO,CORE_PPI
+DESCRIPTION:Indicator: Core Producer Price Index\nReference Period: 2026-0
+ 9\nRelease: Producer Price Index for September 2026\nLocal Time (Asia/Shan
+ ghai): 2026-10-15 20:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)
+ \nSource URL: https://www.bls.gov/schedule/news_release/ppi.htm\nLast Upda
+ ted: 2026-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20261015T123000Z
+DTEND:20261015T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-10-10@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-10-10\nReference Week Ending: 2026-10-1
+ 0\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-10-15 20:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PPI
+DTSTART:20261015T123000Z
+DTEND:20261015T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-PPI-2026-09@finance-calendar
+CATEGORIES:MACRO,PPI
+DESCRIPTION:Indicator: Producer Price Index\nReference Period: 2026-09\nRe
+ lease: Producer Price Index for September 2026\nLocal Time (Asia/Shanghai)
+ : 2026-10-15 20:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\nSou
+ rce URL: https://www.bls.gov/schedule/news_release/ppi.htm\nLast Updated: 
+ 2026-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国零售销售
+DTSTART:20261015T123000Z
+DTEND:20261015T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-RETAIL_SALES-2026-09@finance-calendar
+CATEGORIES:MACRO,RETAIL_SALES
+DESCRIPTION:Reference Period: 2026-09\nRelease: Advance Monthly Retail Tra
+ de Report\, September 2026\nLocal Time (Asia/Shanghai): 2026-10-15 20:30 C
+ ST\nSource: U.S. Census Bureau\nSource URL: https://www.census.gov/retail/
+ release_schedule.html\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.census.gov/retail/release_schedule.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20261022T123000Z
+DTEND:20261022T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-10-17@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-10-17\nReference Week Ending: 2026-10-1
+ 7\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-10-22 20:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 议息会议
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC-MEETING-2026-07@finance-calendar
+CATEGORIES:MACRO,FOMC_MEETING
+DESCRIPTION:Event: Federal Open Market Committee Meeting\nMeeting: 2026-10
+ -27 to 2026-10-28\nSource: Federal Reserve Board\nSource URL: https://www.
+ federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 2026-09
+ -15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 利率决议
+DTSTART:20261028T180000Z
+DTEND:20261028T190000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_DECISION-2026-07@finance-calendar
+CATEGORIES:MACRO,FOMC_DECISION
+DESCRIPTION:Meeting End Date: 2026-10-28\nReference Period: 2026-07\nRelea
+ se: FOMC Statement and Interest Rate Decision\nLocal Time (Asia/Shanghai):
+  2026-10-29 02:00 CST\nSource: Federal Reserve Board\nSource URL: https://
+ www.federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 202
+ 6-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PCE
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-CORE_PCE-2026-09@finance-calendar
+CATEGORIES:MACRO,CORE_PCE
+DESCRIPTION:Indicator: Core PCE Price Index\nReference Period: 2026-09\nRe
+ lease: Personal Income and Outlays\, September 2026\nLocal Time (Asia/Shan
+ ghai): 2026-10-29 20:30 CST\nSource: U.S. Bureau of Economic Analysis (BEA
+ )\nSource URL: https://www.bea.gov/news/schedule\nLast Updated: 2026-09-15
+ T08:40:23+00:00
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 GDP · Advance Estimate
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-GDP-2026-Q3-advance-estimate@finance-calendar
+CATEGORIES:MACRO,GDP
+DESCRIPTION:Estimate Stage: Advance Estimate\nReference Period: 2026-Q3-ad
+ vance-estimate\nRelease: GDP (Advance Estimate)\, 3rd Quarter 2026\nLocal 
+ Time (Asia/Shanghai): 2026-10-29 20:30 CST\nSource: U.S. Bureau of Economi
+ c Analysis (BEA)\nSource URL: https://www.bea.gov/news/schedule\nLast Upda
+ ted: 2026-09-15T08:40:23+00:00
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-10-24@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-10-24\nReference Week Ending: 2026-10-2
+ 4\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-10-29 20:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PCE
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-PCE-2026-09@finance-calendar
+CATEGORIES:MACRO,PCE
+DESCRIPTION:Indicator: PCE Price Index\nReference Period: 2026-09\nRelease
+ : Personal Income and Outlays\, September 2026\nLocal Time (Asia/Shanghai)
+ : 2026-10-29 20:30 CST\nSource: U.S. Bureau of Economic Analysis (BEA)\nSo
+ urce URL: https://www.bea.gov/news/schedule\nLast Updated: 2026-09-15T08:4
+ 0:23+00:00
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 制造业 PMI
+DTSTART:20261102T150000Z
+DTEND:20261102T153000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_MANUFACTURING-2026-11@finance-calendar
+CATEGORIES:MACRO,ISM_MANUFACTURING
+DESCRIPTION:Reference Period: 2026-11\nRelease: ISM Manufacturing PMI Repo
+ rt\nSchedule Method: Fallback: ISM first-business-day rule\nLocal Time (As
+ ia/Shanghai): 2026-11-02 23:00 CST\nSource: Institute for Supply Managemen
+ t (ISM)\nSource URL: https://www.ismworld.org/supply-management-news-and-r
+ eports/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:
+ 00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 服务业 PMI
+DTSTART:20261104T150000Z
+DTEND:20261104T153000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_SERVICES-2026-11@finance-calendar
+CATEGORIES:MACRO,ISM_SERVICES
+DESCRIPTION:Reference Period: 2026-11\nRelease: ISM Services PMI Report\nS
+ chedule Method: Fallback: ISM third-business-day rule\nLocal Time (Asia/Sh
+ anghai): 2026-11-04 23:00 CST\nSource: Institute for Supply Management (IS
+ M)\nSource URL: https://www.ismworld.org/supply-management-news-and-report
+ s/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20261105T133000Z
+DTEND:20261105T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-10-31@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-10-31\nReference Week Ending: 2026-10-3
+ 1\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-11-05 21:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国非农就业（NFP）
+DTSTART:20261106T133000Z
+DTEND:20261106T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-NFP-2026-10@finance-calendar
+CATEGORIES:MACRO,NFP
+DESCRIPTION:Indicator: Nonfarm Payrolls\nReference Period: 2026-10\nReleas
+ e: Employment Situation for October 2026\nLocal Time (Asia/Shanghai): 2026
+ -11-06 21:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\nSource UR
+ L: https://www.bls.gov/schedule/news_release/empsit.htm\nLast Updated: 202
+ 6-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国失业率
+DTSTART:20261106T133000Z
+DTEND:20261106T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-UNEMPLOYMENT-2026-10@finance-calendar
+CATEGORIES:MACRO,UNEMPLOYMENT
+DESCRIPTION:Indicator: Unemployment Rate\nReference Period: 2026-10\nRelea
+ se: Employment Situation for October 2026\nLocal Time (Asia/Shanghai): 202
+ 6-11-06 21:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\nSource U
+ RL: https://www.bls.gov/schedule/news_release/empsit.htm\nLast Updated: 20
+ 26-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 CPI
+DTSTART:20261110T133000Z
+DTEND:20261110T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-CORE_CPI-2026-10@finance-calendar
+CATEGORIES:MACRO,CORE_CPI
+DESCRIPTION:Indicator: Core Consumer Price Index\nReference Period: 2026-1
+ 0\nRelease: Consumer Price Index for October 2026\nLocal Time (Asia/Shangh
+ ai): 2026-11-10 21:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\n
+ Source URL: https://www.bls.gov/schedule/news_release/cpi.htm\nLast Update
+ d: 2026-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 CPI
+DTSTART:20261110T133000Z
+DTEND:20261110T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-CPI-2026-10@finance-calendar
+CATEGORIES:MACRO,CPI
+DESCRIPTION:Indicator: Consumer Price Index\nReference Period: 2026-10\nRe
+ lease: Consumer Price Index for October 2026\nLocal Time (Asia/Shanghai): 
+ 2026-11-10 21:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\nSourc
+ e URL: https://www.bls.gov/schedule/news_release/cpi.htm\nLast Updated: 20
+ 26-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20261112T133000Z
+DTEND:20261112T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-11-07@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-11-07\nReference Week Ending: 2026-11-0
+ 7\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-11-12 21:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PPI
+DTSTART:20261113T133000Z
+DTEND:20261113T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-CORE_PPI-2026-10@finance-calendar
+CATEGORIES:MACRO,CORE_PPI
+DESCRIPTION:Indicator: Core Producer Price Index\nReference Period: 2026-1
+ 0\nRelease: Producer Price Index for October 2026\nLocal Time (Asia/Shangh
+ ai): 2026-11-13 21:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\n
+ Source URL: https://www.bls.gov/schedule/news_release/ppi.htm\nLast Update
+ d: 2026-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PPI
+DTSTART:20261113T133000Z
+DTEND:20261113T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-PPI-2026-10@finance-calendar
+CATEGORIES:MACRO,PPI
+DESCRIPTION:Indicator: Producer Price Index\nReference Period: 2026-10\nRe
+ lease: Producer Price Index for October 2026\nLocal Time (Asia/Shanghai): 
+ 2026-11-13 21:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\nSourc
+ e URL: https://www.bls.gov/schedule/news_release/ppi.htm\nLast Updated: 20
+ 26-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国零售销售
+DTSTART:20261117T133000Z
+DTEND:20261117T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-RETAIL_SALES-2026-10@finance-calendar
+CATEGORIES:MACRO,RETAIL_SALES
+DESCRIPTION:Reference Period: 2026-10\nRelease: Advance Monthly Retail Tra
+ de Report\, October 2026\nLocal Time (Asia/Shanghai): 2026-11-17 21:30 CST
+ \nSource: U.S. Census Bureau\nSource URL: https://www.census.gov/retail/re
+ lease_schedule.html\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.census.gov/retail/release_schedule.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 会议纪要
+DTSTART:20261118T190000Z
+DTEND:20261118T193000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_MINUTES-2026-07@finance-calendar
+CATEGORIES:MACRO,FOMC_MINUTES
+DESCRIPTION:Meeting End Date: 2026-10-28\nReference Period: 2026-07\nRelea
+ se: FOMC Minutes\nSchedule Method: Federal Reserve three-week publication 
+ policy\nLocal Time (Asia/Shanghai): 2026-11-19 03:00 CST\nSource: Federal 
+ Reserve Board\nSource URL: https://www.federalreserve.gov/monetarypolicy/f
+ omccalendars.htm\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20261119T133000Z
+DTEND:20261119T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-11-14@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-11-14\nReference Week Ending: 2026-11-1
+ 4\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-11-19 21:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PCE
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-CORE_PCE-2026-10@finance-calendar
+CATEGORIES:MACRO,CORE_PCE
+DESCRIPTION:Indicator: Core PCE Price Index\nReference Period: 2026-10\nRe
+ lease: Personal Income and Outlays\, October 2026\nLocal Time (Asia/Shangh
+ ai): 2026-11-25 21:30 CST\nSource: U.S. Bureau of Economic Analysis (BEA)\
+ nSource URL: https://www.bea.gov/news/schedule\nLast Updated: 2026-09-15T0
+ 8:40:23+00:00
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 GDP · Second Estimate
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-GDP-2026-Q3-second-estimate@finance-calendar
+CATEGORIES:MACRO,GDP
+DESCRIPTION:Estimate Stage: Second Estimate\nReference Period: 2026-Q3-sec
+ ond-estimate\nRelease: GDP (Second Estimate) and Corporate Profits\, 3rd Q
+ uarter 2026\nLocal Time (Asia/Shanghai): 2026-11-25 21:30 CST\nSource: U.S
+ . Bureau of Economic Analysis (BEA)\nSource URL: https://www.bea.gov/news/
+ schedule\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-11-21@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-11-21\nReference Week Ending: 2026-11-2
+ 1\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday publication\; moved one day earlier for a federal holiday\
+ nLocal Time (Asia/Shanghai): 2026-11-25 21:30 CST\nSource: U.S. Department
+  of Labor (ETA)\nSource URL: https://www.dol.gov/newsroom/releases/eta\nLa
+ st Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PCE
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-PCE-2026-10@finance-calendar
+CATEGORIES:MACRO,PCE
+DESCRIPTION:Indicator: PCE Price Index\nReference Period: 2026-10\nRelease
+ : Personal Income and Outlays\, October 2026\nLocal Time (Asia/Shanghai): 
+ 2026-11-25 21:30 CST\nSource: U.S. Bureau of Economic Analysis (BEA)\nSour
+ ce URL: https://www.bea.gov/news/schedule\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 制造业 PMI
+DTSTART:20261201T150000Z
+DTEND:20261201T153000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_MANUFACTURING-2026-12@finance-calendar
+CATEGORIES:MACRO,ISM_MANUFACTURING
+DESCRIPTION:Reference Period: 2026-12\nRelease: ISM Manufacturing PMI Repo
+ rt\nSchedule Method: Fallback: ISM first-business-day rule\nLocal Time (As
+ ia/Shanghai): 2026-12-01 23:00 CST\nSource: Institute for Supply Managemen
+ t (ISM)\nSource URL: https://www.ismworld.org/supply-management-news-and-r
+ eports/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:
+ 00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20261203T133000Z
+DTEND:20261203T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-11-28@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-11-28\nReference Week Ending: 2026-11-2
+ 8\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-12-03 21:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 服务业 PMI
+DTSTART:20261203T150000Z
+DTEND:20261203T153000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_SERVICES-2026-12@finance-calendar
+CATEGORIES:MACRO,ISM_SERVICES
+DESCRIPTION:Reference Period: 2026-12\nRelease: ISM Services PMI Report\nS
+ chedule Method: Fallback: ISM third-business-day rule\nLocal Time (Asia/Sh
+ anghai): 2026-12-03 23:00 CST\nSource: Institute for Supply Management (IS
+ M)\nSource URL: https://www.ismworld.org/supply-management-news-and-report
+ s/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国非农就业（NFP）
+DTSTART:20261204T133000Z
+DTEND:20261204T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-NFP-2026-11@finance-calendar
+CATEGORIES:MACRO,NFP
+DESCRIPTION:Indicator: Nonfarm Payrolls\nReference Period: 2026-11\nReleas
+ e: Employment Situation for November 2026\nLocal Time (Asia/Shanghai): 202
+ 6-12-04 21:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\nSource U
+ RL: https://www.bls.gov/schedule/news_release/empsit.htm\nLast Updated: 20
+ 26-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国失业率
+DTSTART:20261204T133000Z
+DTEND:20261204T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-UNEMPLOYMENT-2026-11@finance-calendar
+CATEGORIES:MACRO,UNEMPLOYMENT
+DESCRIPTION:Indicator: Unemployment Rate\nReference Period: 2026-11\nRelea
+ se: Employment Situation for November 2026\nLocal Time (Asia/Shanghai): 20
+ 26-12-04 21:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\nSource 
+ URL: https://www.bls.gov/schedule/news_release/empsit.htm\nLast Updated: 2
+ 026-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 议息会议
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261210
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC-MEETING-2026-08@finance-calendar
+CATEGORIES:MACRO,FOMC_MEETING
+DESCRIPTION:Event: Federal Open Market Committee Meeting\nMeeting: 2026-12
+ -08 to 2026-12-09\nSource: Federal Reserve Board\nSource URL: https://www.
+ federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 2026-09
+ -15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 利率决议
+DTSTART:20261209T190000Z
+DTEND:20261209T200000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_DECISION-2026-08@finance-calendar
+CATEGORIES:MACRO,FOMC_DECISION
+DESCRIPTION:Meeting End Date: 2026-12-09\nReference Period: 2026-08\nRelea
+ se: FOMC Statement and Interest Rate Decision\nLocal Time (Asia/Shanghai):
+  2026-12-10 03:00 CST\nSource: Federal Reserve Board\nSource URL: https://
+ www.federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 202
+ 6-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 CPI
+DTSTART:20261210T133000Z
+DTEND:20261210T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-CORE_CPI-2026-11@finance-calendar
+CATEGORIES:MACRO,CORE_CPI
+DESCRIPTION:Indicator: Core Consumer Price Index\nReference Period: 2026-1
+ 1\nRelease: Consumer Price Index for November 2026\nLocal Time (Asia/Shang
+ hai): 2026-12-10 21:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\
+ nSource URL: https://www.bls.gov/schedule/news_release/cpi.htm\nLast Updat
+ ed: 2026-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 CPI
+DTSTART:20261210T133000Z
+DTEND:20261210T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-CPI-2026-11@finance-calendar
+CATEGORIES:MACRO,CPI
+DESCRIPTION:Indicator: Consumer Price Index\nReference Period: 2026-11\nRe
+ lease: Consumer Price Index for November 2026\nLocal Time (Asia/Shanghai):
+  2026-12-10 21:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\nSour
+ ce URL: https://www.bls.gov/schedule/news_release/cpi.htm\nLast Updated: 2
+ 026-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20261210T133000Z
+DTEND:20261210T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-12-05@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-12-05\nReference Week Ending: 2026-12-0
+ 5\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-12-10 21:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PPI
+DTSTART:20261215T133000Z
+DTEND:20261215T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-CORE_PPI-2026-11@finance-calendar
+CATEGORIES:MACRO,CORE_PPI
+DESCRIPTION:Indicator: Core Producer Price Index\nReference Period: 2026-1
+ 1\nRelease: Producer Price Index for November 2026\nLocal Time (Asia/Shang
+ hai): 2026-12-15 21:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\
+ nSource URL: https://www.bls.gov/schedule/news_release/ppi.htm\nLast Updat
+ ed: 2026-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PPI
+DTSTART:20261215T133000Z
+DTEND:20261215T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-PPI-2026-11@finance-calendar
+CATEGORIES:MACRO,PPI
+DESCRIPTION:Indicator: Producer Price Index\nReference Period: 2026-11\nRe
+ lease: Producer Price Index for November 2026\nLocal Time (Asia/Shanghai):
+  2026-12-15 21:30 CST\nSource: U.S. Bureau of Labor Statistics (BLS)\nSour
+ ce URL: https://www.bls.gov/schedule/news_release/ppi.htm\nLast Updated: 2
+ 026-09-15T08:40:23+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国零售销售
+DTSTART:20261216T133000Z
+DTEND:20261216T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-RETAIL_SALES-2026-11@finance-calendar
+CATEGORIES:MACRO,RETAIL_SALES
+DESCRIPTION:Reference Period: 2026-11\nRelease: Advance Monthly Retail Tra
+ de Report\, November 2026\nLocal Time (Asia/Shanghai): 2026-12-16 21:30 CS
+ T\nSource: U.S. Census Bureau\nSource URL: https://www.census.gov/retail/r
+ elease_schedule.html\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.census.gov/retail/release_schedule.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20261217T133000Z
+DTEND:20261217T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-12-12@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-12-12\nReference Week Ending: 2026-12-1
+ 2\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-12-17 21:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PCE
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-CORE_PCE-2026-11@finance-calendar
+CATEGORIES:MACRO,CORE_PCE
+DESCRIPTION:Indicator: Core PCE Price Index\nReference Period: 2026-11\nRe
+ lease: Personal Income and Outlays\, November 2026\nLocal Time (Asia/Shang
+ hai): 2026-12-23 21:30 CST\nSource: U.S. Bureau of Economic Analysis (BEA)
+ \nSource URL: https://www.bea.gov/news/schedule\nLast Updated: 2026-09-15T
+ 08:40:23+00:00
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 GDP · Third Estimate
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-GDP-2026-Q3-third-estimate@finance-calendar
+CATEGORIES:MACRO,GDP
+DESCRIPTION:Estimate Stage: Third Estimate\nReference Period: 2026-Q3-thir
+ d-estimate\nRelease: GDP (Third Estimate)\, Industries\, Corporate Profits
+ \, State GDP\, and State Personal Income\, 3rd Quarter 2026\nLocal Time (A
+ sia/Shanghai): 2026-12-23 21:30 CST\nSource: U.S. Bureau of Economic Analy
+ sis (BEA)\nSource URL: https://www.bea.gov/news/schedule\nLast Updated: 20
+ 26-09-15T08:40:23+00:00
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PCE
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-PCE-2026-11@finance-calendar
+CATEGORIES:MACRO,PCE
+DESCRIPTION:Indicator: PCE Price Index\nReference Period: 2026-11\nRelease
+ : Personal Income and Outlays\, November 2026\nLocal Time (Asia/Shanghai):
+  2026-12-23 21:30 CST\nSource: U.S. Bureau of Economic Analysis (BEA)\nSou
+ rce URL: https://www.bea.gov/news/schedule\nLast Updated: 2026-09-15T08:40
+ :23+00:00
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20261224T133000Z
+DTEND:20261224T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-12-19@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-12-19\nReference Week Ending: 2026-12-1
+ 9\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-12-24 21:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 会议纪要
+DTSTART:20261230T190000Z
+DTEND:20261230T193000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_MINUTES-2026-08@finance-calendar
+CATEGORIES:MACRO,FOMC_MINUTES
+DESCRIPTION:Meeting End Date: 2026-12-09\nReference Period: 2026-08\nRelea
+ se: FOMC Minutes\nSchedule Method: Federal Reserve three-week publication 
+ policy\nLocal Time (Asia/Shanghai): 2026-12-31 03:00 CST\nSource: Federal 
+ Reserve Board\nSource URL: https://www.federalreserve.gov/monetarypolicy/f
+ omccalendars.htm\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国初请失业金人数
+DTSTART:20261231T133000Z
+DTEND:20261231T140000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-JOBLESS_CLAIMS-2026-12-26@finance-calendar
+CATEGORIES:MACRO,JOBLESS_CLAIMS
+DESCRIPTION:Reference Period: 2026-12-26\nReference Week Ending: 2026-12-2
+ 6\nRelease: Unemployment Insurance Weekly Claims Report\nSchedule Method: 
+ Normal Thursday 08:30 ET publication pattern\nLocal Time (Asia/Shanghai): 
+ 2026-12-31 21:30 CST\nSource: U.S. Department of Labor (ETA)\nSource URL: 
+ https://www.dol.gov/newsroom/releases/eta\nLast Updated: 2026-09-15T08:40:
+ 23+00:00
+URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 制造业 PMI
+DTSTART:20270104T150000Z
+DTEND:20270104T153000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_MANUFACTURING-2027-01@finance-calendar
+CATEGORIES:MACRO,ISM_MANUFACTURING
+DESCRIPTION:Reference Period: 2027-01\nRelease: ISM Manufacturing PMI Repo
+ rt\nSchedule Method: Fallback: ISM first-business-day rule\nLocal Time (As
+ ia/Shanghai): 2027-01-04 23:00 CST\nSource: Institute for Supply Managemen
+ t (ISM)\nSource URL: https://www.ismworld.org/supply-management-news-and-r
+ eports/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:
+ 00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 服务业 PMI
+DTSTART:20270106T150000Z
+DTEND:20270106T153000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_SERVICES-2027-01@finance-calendar
+CATEGORIES:MACRO,ISM_SERVICES
+DESCRIPTION:Reference Period: 2027-01\nRelease: ISM Services PMI Report\nS
+ chedule Method: Fallback: ISM third-business-day rule\nLocal Time (Asia/Sh
+ anghai): 2027-01-06 23:00 CST\nSource: Institute for Supply Management (IS
+ M)\nSource URL: https://www.ismworld.org/supply-management-news-and-report
+ s/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 议息会议
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270128
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC-MEETING-2027-01@finance-calendar
+CATEGORIES:MACRO,FOMC_MEETING
+DESCRIPTION:Event: Federal Open Market Committee Meeting\nMeeting: 2027-01
+ -26 to 2027-01-27\nSource: Federal Reserve Board\nSource URL: https://www.
+ federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 2026-09
+ -15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 利率决议
+DTSTART:20270127T190000Z
+DTEND:20270127T200000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_DECISION-2027-01@finance-calendar
+CATEGORIES:MACRO,FOMC_DECISION
+DESCRIPTION:Meeting End Date: 2027-01-27\nReference Period: 2027-01\nRelea
+ se: FOMC Statement and Interest Rate Decision\nLocal Time (Asia/Shanghai):
+  2027-01-28 03:00 CST\nSource: Federal Reserve Board\nSource URL: https://
+ www.federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 202
+ 6-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 制造业 PMI
+DTSTART:20270201T150000Z
+DTEND:20270201T153000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_MANUFACTURING-2027-02@finance-calendar
+CATEGORIES:MACRO,ISM_MANUFACTURING
+DESCRIPTION:Reference Period: 2027-02\nRelease: ISM Manufacturing PMI Repo
+ rt\nSchedule Method: Fallback: ISM first-business-day rule\nLocal Time (As
+ ia/Shanghai): 2027-02-01 23:00 CST\nSource: Institute for Supply Managemen
+ t (ISM)\nSource URL: https://www.ismworld.org/supply-management-news-and-r
+ eports/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:
+ 00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 服务业 PMI
+DTSTART:20270203T150000Z
+DTEND:20270203T153000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_SERVICES-2027-02@finance-calendar
+CATEGORIES:MACRO,ISM_SERVICES
+DESCRIPTION:Reference Period: 2027-02\nRelease: ISM Services PMI Report\nS
+ chedule Method: Fallback: ISM third-business-day rule\nLocal Time (Asia/Sh
+ anghai): 2027-02-03 23:00 CST\nSource: Institute for Supply Management (IS
+ M)\nSource URL: https://www.ismworld.org/supply-management-news-and-report
+ s/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 会议纪要
+DTSTART:20270217T190000Z
+DTEND:20270217T193000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_MINUTES-2027-01@finance-calendar
+CATEGORIES:MACRO,FOMC_MINUTES
+DESCRIPTION:Meeting End Date: 2027-01-27\nReference Period: 2027-01\nRelea
+ se: FOMC Minutes\nSchedule Method: Federal Reserve three-week publication 
+ policy\nLocal Time (Asia/Shanghai): 2027-02-18 03:00 CST\nSource: Federal 
+ Reserve Board\nSource URL: https://www.federalreserve.gov/monetarypolicy/f
+ omccalendars.htm\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 制造业 PMI
+DTSTART:20270301T150000Z
+DTEND:20270301T153000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_MANUFACTURING-2027-03@finance-calendar
+CATEGORIES:MACRO,ISM_MANUFACTURING
+DESCRIPTION:Reference Period: 2027-03\nRelease: ISM Manufacturing PMI Repo
+ rt\nSchedule Method: Fallback: ISM first-business-day rule\nLocal Time (As
+ ia/Shanghai): 2027-03-01 23:00 CST\nSource: Institute for Supply Managemen
+ t (ISM)\nSource URL: https://www.ismworld.org/supply-management-news-and-r
+ eports/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:
+ 00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 服务业 PMI
+DTSTART:20270303T150000Z
+DTEND:20270303T153000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_SERVICES-2027-03@finance-calendar
+CATEGORIES:MACRO,ISM_SERVICES
+DESCRIPTION:Reference Period: 2027-03\nRelease: ISM Services PMI Report\nS
+ chedule Method: Fallback: ISM third-business-day rule\nLocal Time (Asia/Sh
+ anghai): 2027-03-03 23:00 CST\nSource: Institute for Supply Management (IS
+ M)\nSource URL: https://www.ismworld.org/supply-management-news-and-report
+ s/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 议息会议
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270318
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC-MEETING-2027-02@finance-calendar
+CATEGORIES:MACRO,FOMC_MEETING
+DESCRIPTION:Event: Federal Open Market Committee Meeting\nMeeting: 2027-03
+ -16 to 2027-03-17\nSource: Federal Reserve Board\nSource URL: https://www.
+ federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 2026-09
+ -15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 利率决议
+DTSTART:20270317T180000Z
+DTEND:20270317T190000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_DECISION-2027-02@finance-calendar
+CATEGORIES:MACRO,FOMC_DECISION
+DESCRIPTION:Meeting End Date: 2027-03-17\nReference Period: 2027-02\nRelea
+ se: FOMC Statement and Interest Rate Decision\nLocal Time (Asia/Shanghai):
+  2027-03-18 02:00 CST\nSource: Federal Reserve Board\nSource URL: https://
+ www.federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 202
+ 6-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 制造业 PMI
+DTSTART:20270401T140000Z
+DTEND:20270401T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_MANUFACTURING-2027-04@finance-calendar
+CATEGORIES:MACRO,ISM_MANUFACTURING
+DESCRIPTION:Reference Period: 2027-04\nRelease: ISM Manufacturing PMI Repo
+ rt\nSchedule Method: Fallback: ISM first-business-day rule\nLocal Time (As
+ ia/Shanghai): 2027-04-01 22:00 CST\nSource: Institute for Supply Managemen
+ t (ISM)\nSource URL: https://www.ismworld.org/supply-management-news-and-r
+ eports/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:
+ 00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 服务业 PMI
+DTSTART:20270405T140000Z
+DTEND:20270405T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_SERVICES-2027-04@finance-calendar
+CATEGORIES:MACRO,ISM_SERVICES
+DESCRIPTION:Reference Period: 2027-04\nRelease: ISM Services PMI Report\nS
+ chedule Method: Fallback: ISM third-business-day rule\nLocal Time (Asia/Sh
+ anghai): 2027-04-05 22:00 CST\nSource: Institute for Supply Management (IS
+ M)\nSource URL: https://www.ismworld.org/supply-management-news-and-report
+ s/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 会议纪要
+DTSTART:20270407T180000Z
+DTEND:20270407T183000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_MINUTES-2027-02@finance-calendar
+CATEGORIES:MACRO,FOMC_MINUTES
+DESCRIPTION:Meeting End Date: 2027-03-17\nReference Period: 2027-02\nRelea
+ se: FOMC Minutes\nSchedule Method: Federal Reserve three-week publication 
+ policy\nLocal Time (Asia/Shanghai): 2027-04-08 02:00 CST\nSource: Federal 
+ Reserve Board\nSource URL: https://www.federalreserve.gov/monetarypolicy/f
+ omccalendars.htm\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 议息会议
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270429
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC-MEETING-2027-03@finance-calendar
+CATEGORIES:MACRO,FOMC_MEETING
+DESCRIPTION:Event: Federal Open Market Committee Meeting\nMeeting: 2027-04
+ -27 to 2027-04-28\nSource: Federal Reserve Board\nSource URL: https://www.
+ federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 2026-09
+ -15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 利率决议
+DTSTART:20270428T180000Z
+DTEND:20270428T190000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_DECISION-2027-03@finance-calendar
+CATEGORIES:MACRO,FOMC_DECISION
+DESCRIPTION:Meeting End Date: 2027-04-28\nReference Period: 2027-03\nRelea
+ se: FOMC Statement and Interest Rate Decision\nLocal Time (Asia/Shanghai):
+  2027-04-29 02:00 CST\nSource: Federal Reserve Board\nSource URL: https://
+ www.federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 202
+ 6-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 制造业 PMI
+DTSTART:20270503T140000Z
+DTEND:20270503T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_MANUFACTURING-2027-05@finance-calendar
+CATEGORIES:MACRO,ISM_MANUFACTURING
+DESCRIPTION:Reference Period: 2027-05\nRelease: ISM Manufacturing PMI Repo
+ rt\nSchedule Method: Fallback: ISM first-business-day rule\nLocal Time (As
+ ia/Shanghai): 2027-05-03 22:00 CST\nSource: Institute for Supply Managemen
+ t (ISM)\nSource URL: https://www.ismworld.org/supply-management-news-and-r
+ eports/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:
+ 00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 服务业 PMI
+DTSTART:20270505T140000Z
+DTEND:20270505T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_SERVICES-2027-05@finance-calendar
+CATEGORIES:MACRO,ISM_SERVICES
+DESCRIPTION:Reference Period: 2027-05\nRelease: ISM Services PMI Report\nS
+ chedule Method: Fallback: ISM third-business-day rule\nLocal Time (Asia/Sh
+ anghai): 2027-05-05 22:00 CST\nSource: Institute for Supply Management (IS
+ M)\nSource URL: https://www.ismworld.org/supply-management-news-and-report
+ s/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 会议纪要
+DTSTART:20270519T180000Z
+DTEND:20270519T183000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_MINUTES-2027-03@finance-calendar
+CATEGORIES:MACRO,FOMC_MINUTES
+DESCRIPTION:Meeting End Date: 2027-04-28\nReference Period: 2027-03\nRelea
+ se: FOMC Minutes\nSchedule Method: Federal Reserve three-week publication 
+ policy\nLocal Time (Asia/Shanghai): 2027-05-20 02:00 CST\nSource: Federal 
+ Reserve Board\nSource URL: https://www.federalreserve.gov/monetarypolicy/f
+ omccalendars.htm\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 制造业 PMI
+DTSTART:20270601T140000Z
+DTEND:20270601T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_MANUFACTURING-2027-06@finance-calendar
+CATEGORIES:MACRO,ISM_MANUFACTURING
+DESCRIPTION:Reference Period: 2027-06\nRelease: ISM Manufacturing PMI Repo
+ rt\nSchedule Method: Fallback: ISM first-business-day rule\nLocal Time (As
+ ia/Shanghai): 2027-06-01 22:00 CST\nSource: Institute for Supply Managemen
+ t (ISM)\nSource URL: https://www.ismworld.org/supply-management-news-and-r
+ eports/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:
+ 00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 服务业 PMI
+DTSTART:20270603T140000Z
+DTEND:20270603T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_SERVICES-2027-06@finance-calendar
+CATEGORIES:MACRO,ISM_SERVICES
+DESCRIPTION:Reference Period: 2027-06\nRelease: ISM Services PMI Report\nS
+ chedule Method: Fallback: ISM third-business-day rule\nLocal Time (Asia/Sh
+ anghai): 2027-06-03 22:00 CST\nSource: Institute for Supply Management (IS
+ M)\nSource URL: https://www.ismworld.org/supply-management-news-and-report
+ s/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 议息会议
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270610
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC-MEETING-2027-04@finance-calendar
+CATEGORIES:MACRO,FOMC_MEETING
+DESCRIPTION:Event: Federal Open Market Committee Meeting\nMeeting: 2027-06
+ -08 to 2027-06-09\nSource: Federal Reserve Board\nSource URL: https://www.
+ federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 2026-09
+ -15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 利率决议
+DTSTART:20270609T180000Z
+DTEND:20270609T190000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_DECISION-2027-04@finance-calendar
+CATEGORIES:MACRO,FOMC_DECISION
+DESCRIPTION:Meeting End Date: 2027-06-09\nReference Period: 2027-04\nRelea
+ se: FOMC Statement and Interest Rate Decision\nLocal Time (Asia/Shanghai):
+  2027-06-10 02:00 CST\nSource: Federal Reserve Board\nSource URL: https://
+ www.federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 202
+ 6-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 会议纪要
+DTSTART:20270630T180000Z
+DTEND:20270630T183000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_MINUTES-2027-04@finance-calendar
+CATEGORIES:MACRO,FOMC_MINUTES
+DESCRIPTION:Meeting End Date: 2027-06-09\nReference Period: 2027-04\nRelea
+ se: FOMC Minutes\nSchedule Method: Federal Reserve three-week publication 
+ policy\nLocal Time (Asia/Shanghai): 2027-07-01 02:00 CST\nSource: Federal 
+ Reserve Board\nSource URL: https://www.federalreserve.gov/monetarypolicy/f
+ omccalendars.htm\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 制造业 PMI
+DTSTART:20270701T140000Z
+DTEND:20270701T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_MANUFACTURING-2027-07@finance-calendar
+CATEGORIES:MACRO,ISM_MANUFACTURING
+DESCRIPTION:Reference Period: 2027-07\nRelease: ISM Manufacturing PMI Repo
+ rt\nSchedule Method: Fallback: ISM first-business-day rule\nLocal Time (As
+ ia/Shanghai): 2027-07-01 22:00 CST\nSource: Institute for Supply Managemen
+ t (ISM)\nSource URL: https://www.ismworld.org/supply-management-news-and-r
+ eports/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:
+ 00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 服务业 PMI
+DTSTART:20270706T140000Z
+DTEND:20270706T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_SERVICES-2027-07@finance-calendar
+CATEGORIES:MACRO,ISM_SERVICES
+DESCRIPTION:Reference Period: 2027-07\nRelease: ISM Services PMI Report\nS
+ chedule Method: Fallback: ISM third-business-day rule\nLocal Time (Asia/Sh
+ anghai): 2027-07-06 22:00 CST\nSource: Institute for Supply Management (IS
+ M)\nSource URL: https://www.ismworld.org/supply-management-news-and-report
+ s/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 议息会议
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270729
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC-MEETING-2027-05@finance-calendar
+CATEGORIES:MACRO,FOMC_MEETING
+DESCRIPTION:Event: Federal Open Market Committee Meeting\nMeeting: 2027-07
+ -27 to 2027-07-28\nSource: Federal Reserve Board\nSource URL: https://www.
+ federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 2026-09
+ -15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 利率决议
+DTSTART:20270728T180000Z
+DTEND:20270728T190000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_DECISION-2027-05@finance-calendar
+CATEGORIES:MACRO,FOMC_DECISION
+DESCRIPTION:Meeting End Date: 2027-07-28\nReference Period: 2027-05\nRelea
+ se: FOMC Statement and Interest Rate Decision\nLocal Time (Asia/Shanghai):
+  2027-07-29 02:00 CST\nSource: Federal Reserve Board\nSource URL: https://
+ www.federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 202
+ 6-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 制造业 PMI
+DTSTART:20270802T140000Z
+DTEND:20270802T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_MANUFACTURING-2027-08@finance-calendar
+CATEGORIES:MACRO,ISM_MANUFACTURING
+DESCRIPTION:Reference Period: 2027-08\nRelease: ISM Manufacturing PMI Repo
+ rt\nSchedule Method: Fallback: ISM first-business-day rule\nLocal Time (As
+ ia/Shanghai): 2027-08-02 22:00 CST\nSource: Institute for Supply Managemen
+ t (ISM)\nSource URL: https://www.ismworld.org/supply-management-news-and-r
+ eports/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:
+ 00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 服务业 PMI
+DTSTART:20270804T140000Z
+DTEND:20270804T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_SERVICES-2027-08@finance-calendar
+CATEGORIES:MACRO,ISM_SERVICES
+DESCRIPTION:Reference Period: 2027-08\nRelease: ISM Services PMI Report\nS
+ chedule Method: Fallback: ISM third-business-day rule\nLocal Time (Asia/Sh
+ anghai): 2027-08-04 22:00 CST\nSource: Institute for Supply Management (IS
+ M)\nSource URL: https://www.ismworld.org/supply-management-news-and-report
+ s/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 会议纪要
+DTSTART:20270818T180000Z
+DTEND:20270818T183000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_MINUTES-2027-05@finance-calendar
+CATEGORIES:MACRO,FOMC_MINUTES
+DESCRIPTION:Meeting End Date: 2027-07-28\nReference Period: 2027-05\nRelea
+ se: FOMC Minutes\nSchedule Method: Federal Reserve three-week publication 
+ policy\nLocal Time (Asia/Shanghai): 2027-08-19 02:00 CST\nSource: Federal 
+ Reserve Board\nSource URL: https://www.federalreserve.gov/monetarypolicy/f
+ omccalendars.htm\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 制造业 PMI
+DTSTART:20270901T140000Z
+DTEND:20270901T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_MANUFACTURING-2027-09@finance-calendar
+CATEGORIES:MACRO,ISM_MANUFACTURING
+DESCRIPTION:Reference Period: 2027-09\nRelease: ISM Manufacturing PMI Repo
+ rt\nSchedule Method: Fallback: ISM first-business-day rule\nLocal Time (As
+ ia/Shanghai): 2027-09-01 22:00 CST\nSource: Institute for Supply Managemen
+ t (ISM)\nSource URL: https://www.ismworld.org/supply-management-news-and-r
+ eports/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:
+ 00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 服务业 PMI
+DTSTART:20270903T140000Z
+DTEND:20270903T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_SERVICES-2027-09@finance-calendar
+CATEGORIES:MACRO,ISM_SERVICES
+DESCRIPTION:Reference Period: 2027-09\nRelease: ISM Services PMI Report\nS
+ chedule Method: Fallback: ISM third-business-day rule\nLocal Time (Asia/Sh
+ anghai): 2027-09-03 22:00 CST\nSource: Institute for Supply Management (IS
+ M)\nSource URL: https://www.ismworld.org/supply-management-news-and-report
+ s/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 议息会议
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270916
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC-MEETING-2027-06@finance-calendar
+CATEGORIES:MACRO,FOMC_MEETING
+DESCRIPTION:Event: Federal Open Market Committee Meeting\nMeeting: 2027-09
+ -14 to 2027-09-15\nSource: Federal Reserve Board\nSource URL: https://www.
+ federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 2026-09
+ -15T08:40:23+00:00
+TRANSP:TRANSPARENT
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 利率决议
+DTSTART:20270915T180000Z
+DTEND:20270915T190000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_DECISION-2027-06@finance-calendar
+CATEGORIES:MACRO,FOMC_DECISION
+DESCRIPTION:Meeting End Date: 2027-09-15\nReference Period: 2027-06\nRelea
+ se: FOMC Statement and Interest Rate Decision\nLocal Time (Asia/Shanghai):
+  2027-09-16 02:00 CST\nSource: Federal Reserve Board\nSource URL: https://
+ www.federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 202
+ 6-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 制造业 PMI
+DTSTART:20271001T140000Z
+DTEND:20271001T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_MANUFACTURING-2027-10@finance-calendar
+CATEGORIES:MACRO,ISM_MANUFACTURING
+DESCRIPTION:Reference Period: 2027-10\nRelease: ISM Manufacturing PMI Repo
+ rt\nSchedule Method: Fallback: ISM first-business-day rule\nLocal Time (As
+ ia/Shanghai): 2027-10-01 22:00 CST\nSource: Institute for Supply Managemen
+ t (ISM)\nSource URL: https://www.ismworld.org/supply-management-news-and-r
+ eports/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:
+ 00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 ISM 服务业 PMI
+DTSTART:20271005T140000Z
+DTEND:20271005T143000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-ISM_SERVICES-2027-10@finance-calendar
+CATEGORIES:MACRO,ISM_SERVICES
+DESCRIPTION:Reference Period: 2027-10\nRelease: ISM Services PMI Report\nS
+ chedule Method: Fallback: ISM third-business-day rule\nLocal Time (Asia/Sh
+ anghai): 2027-10-05 22:00 CST\nSource: Institute for Supply Management (IS
+ M)\nSource URL: https://www.ismworld.org/supply-management-news-and-report
+ s/reports/rob-report-calendar/\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
+ b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏦 FOMC 会议纪要
+DTSTART:20271006T180000Z
+DTEND:20271006T183000Z
+DTSTAMP:20260915T084023Z
+UID:macro-US-FOMC_MINUTES-2027-06@finance-calendar
+CATEGORIES:MACRO,FOMC_MINUTES
+DESCRIPTION:Meeting End Date: 2027-09-15\nReference Period: 2027-06\nRelea
+ se: FOMC Minutes\nSchedule Method: Federal Reserve three-week publication 
+ policy\nLocal Time (Asia/Shanghai): 2027-10-07 02:00 CST\nSource: Federal 
+ Reserve Board\nSource URL: https://www.federalreserve.gov/monetarypolicy/f
+ omccalendars.htm\nLast Updated: 2026-09-15T08:40:23+00:00
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+END:VCALENDAR

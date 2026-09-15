@@ -1,0 +1,10 @@
+[project]
+name = "finance-calendar"
+version = "1.0.0"
+description = "Generate resilient, subscription-ready financial market ICS calendars"
+requires-python = ">=3.11"
+license = "MIT"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
