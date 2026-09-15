@@ -14,12 +14,12 @@ DTEND;VALUE=DATE:20261001
 DTSTAMP:20260915T090957Z
 UID:earnings-MU-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Micron Technology\, Inc.\nEPS Estimate: 31.33\nEarnin
- gs Date: 2026-09-30\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Qu
- arter Source: calendar-quarter fallback\; Yahoo does not expose a fiscal p
- eriod here\nRevenue Estimate: 5.079e+10\nTicker: MU\nSource: Yahoo Finance
-  via yfinance\nSource URL: https://finance.yahoo.com/quote/MU/\nLast Updat
- ed: 2026-09-15T09:09:57+00:00
+DESCRIPTION:股票代码: MU\n公司: 美光科技\n财报日期: 2026-09-
+ 30\n财报时段: 时间待定（TAS）\n财务季度: 2026年第4季度\n
+ 财务季度来源: 采用自然季度备用值；雅虎财经未提供财
+ 务期间\n每股收益预期: 31.33\n营收预期: 5.079e+10\n来源: 雅
+ 虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
+ ote/MU/\n最后更新: 2026-09-15T09:09:57+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/MU/
 END:VEVENT
@@ -30,12 +30,12 @@ DTEND;VALUE=DATE:20261016
 DTSTAMP:20260915T090957Z
 UID:earnings-TSM-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Taiwan Semiconductor Manufactur\nEPS Estimate: 4.461\
- nEarnings Date: 2026-10-15\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFi
- scal Quarter Source: calendar-quarter fallback\; Yahoo does not expose a f
- iscal period here\nRevenue Estimate: 1.455e+12\nTicker: TSM\nSource: Yahoo
-  Finance via yfinance\nSource URL: https://finance.yahoo.com/quote/TSM/\nL
- ast Updated: 2026-09-15T09:09:57+00:00
+DESCRIPTION:股票代码: TSM\n公司: 台积电\n财报日期: 2026-10-15
+ \n财报时段: 时间待定（TAS）\n财务季度: 2026年第4季度\n
+ 财务季度来源: 采用自然季度备用值；雅虎财经未提供财
+ 务期间\n每股收益预期: 4.461\n营收预期: 1.455e+12\n来源: 雅
+ 虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
+ ote/TSM/\n最后更新: 2026-09-15T09:09:57+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/TSM/
 END:VEVENT
@@ -46,12 +46,12 @@ DTEND;VALUE=DATE:20261029
 DTSTAMP:20260915T090957Z
 UID:earnings-GOOGL-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Alphabet Inc.\nEPS Estimate: 3.008\nEarnings Date: 20
- 26-10-28\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter Sourc
- e: calendar-quarter fallback\; Yahoo does not expose a fiscal period here\
- nRevenue Estimate: 1.272e+11\nTicker: GOOGL\nSource: Yahoo Finance via yfi
- nance\nSource URL: https://finance.yahoo.com/quote/GOOGL/\nLast Updated: 2
- 026-09-15T09:09:57+00:00
+DESCRIPTION:股票代码: GOOGL\n公司: 谷歌母公司\n财报日期: 20
+ 26-10-28\n财报时段: 时间待定（TAS）\n财务季度: 2026年第4
+ 季度\n财务季度来源: 采用自然季度备用值；雅虎财经未
+ 提供财务期间\n每股收益预期: 3.008\n营收预期: 1.272e+11\n
+ 来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.y
+ ahoo.com/quote/GOOGL/\n最后更新: 2026-09-15T09:09:57+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/GOOGL/
 END:VEVENT
@@ -62,12 +62,12 @@ DTEND;VALUE=DATE:20261029
 DTSTAMP:20260915T090957Z
 UID:earnings-META-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Meta Platforms\, Inc.\nEPS Estimate: 6.973\nEarnings 
- Date: 2026-10-28\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quart
- er Source: calendar-quarter fallback\; Yahoo does not expose a fiscal peri
- od here\nRevenue Estimate: 6.332e+10\nTicker: META\nSource: Yahoo Finance 
- via yfinance\nSource URL: https://finance.yahoo.com/quote/META/\nLast Upda
- ted: 2026-09-15T09:09:57+00:00
+DESCRIPTION:股票代码: META\n公司: 脸书母公司\n财报日期: 202
+ 6-10-28\n财报时段: 时间待定（TAS）\n财务季度: 2026年第4季
+ 度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
+ 供财务期间\n每股收益预期: 6.973\n营收预期: 6.332e+10\n来
+ 源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
+ o.com/quote/META/\n最后更新: 2026-09-15T09:09:57+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/META/
 END:VEVENT
@@ -78,12 +78,12 @@ DTEND;VALUE=DATE:20261029
 DTSTAMP:20260915T090957Z
 UID:earnings-MSFT-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Microsoft Corporation\nEPS Estimate: 4.725\nEarnings 
- Date: 2026-10-28\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quart
- er Source: calendar-quarter fallback\; Yahoo does not expose a fiscal peri
- od here\nRevenue Estimate: 9.066e+10\nTicker: MSFT\nSource: Yahoo Finance 
- via yfinance\nSource URL: https://finance.yahoo.com/quote/MSFT/\nLast Upda
- ted: 2026-09-15T09:09:57+00:00
+DESCRIPTION:股票代码: MSFT\n公司: 微软\n财报日期: 2026-10-28\n
+ 财报时段: 时间待定（TAS）\n财务季度: 2026年第4季度\n财
+ 务季度来源: 采用自然季度备用值；雅虎财经未提供财务
+ 期间\n每股收益预期: 4.725\n营收预期: 9.066e+10\n来源: 雅虎
+ 财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/quote
+ /MSFT/\n最后更新: 2026-09-15T09:09:57+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/MSFT/
 END:VEVENT
@@ -94,12 +94,12 @@ DTEND;VALUE=DATE:20261030
 DTSTAMP:20260915T090957Z
 UID:earnings-AAPL-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Apple Inc.\nEPS Estimate: 1.981\nEarnings Date: 2026-
- 10-29\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter Source: 
- calendar-quarter fallback\; Yahoo does not expose a fiscal period here\nRe
- venue Estimate: 1.136e+11\nTicker: AAPL\nSource: Yahoo Finance via yfinanc
- e\nSource URL: https://finance.yahoo.com/quote/AAPL/\nLast Updated: 2026-0
- 9-15T09:09:57+00:00
+DESCRIPTION:股票代码: AAPL\n公司: 苹果\n财报日期: 2026-10-29\n
+ 财报时段: 时间待定（TAS）\n财务季度: 2026年第4季度\n财
+ 务季度来源: 采用自然季度备用值；雅虎财经未提供财务
+ 期间\n每股收益预期: 1.981\n营收预期: 1.136e+11\n来源: 雅虎
+ 财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/quote
+ /AAPL/\n最后更新: 2026-09-15T09:09:57+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AAPL/
 END:VEVENT
@@ -110,12 +110,12 @@ DTEND;VALUE=DATE:20261030
 DTSTAMP:20260915T090957Z
 UID:earnings-AMZN-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Amazon.com\, Inc.\nEPS Estimate: 1.95\nEarnings Date:
-  2026-10-29\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter So
- urce: calendar-quarter fallback\; Yahoo does not expose a fiscal period he
- re\nRevenue Estimate: 2.021e+11\nTicker: AMZN\nSource: Yahoo Finance via y
- finance\nSource URL: https://finance.yahoo.com/quote/AMZN/\nLast Updated: 
- 2026-09-15T09:09:57+00:00
+DESCRIPTION:股票代码: AMZN\n公司: 亚马逊\n财报日期: 2026-10-2
+ 9\n财报时段: 时间待定（TAS）\n财务季度: 2026年第4季度\n
+ 财务季度来源: 采用自然季度备用值；雅虎财经未提供财
+ 务期间\n每股收益预期: 1.95\n营收预期: 2.021e+11\n来源: 雅
+ 虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
+ ote/AMZN/\n最后更新: 2026-09-15T09:09:57+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AMZN/
 END:VEVENT
@@ -126,12 +126,12 @@ DTEND;VALUE=DATE:20261104
 DTSTAMP:20260915T090957Z
 UID:earnings-AMD-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Advanced Micro Devices\, Inc.\nEPS Estimate: 1.926\nE
- arnings Date: 2026-11-03\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFisc
- al Quarter Source: calendar-quarter fallback\; Yahoo does not expose a fis
- cal period here\nRevenue Estimate: 1.3e+10\nTicker: AMD\nSource: Yahoo Fin
- ance via yfinance\nSource URL: https://finance.yahoo.com/quote/AMD/\nLast 
- Updated: 2026-09-15T09:09:57+00:00
+DESCRIPTION:股票代码: AMD\n公司: 超威半导体\n财报日期: 2026
+ -11-03\n财报时段: 时间待定（TAS）\n财务季度: 2026年第4季
+ 度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
+ 供财务期间\n每股收益预期: 1.926\n营收预期: 1.3e+10\n来源:
+  雅虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.co
+ m/quote/AMD/\n最后更新: 2026-09-15T09:09:57+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AMD/
 END:VEVENT
@@ -142,12 +142,12 @@ DTEND;VALUE=DATE:20261118
 DTSTAMP:20260915T090957Z
 UID:earnings-NVDA-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: NVIDIA Corporation\nEPS Estimate: 2.473\nEarnings Dat
- e: 2026-11-17\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter 
- Source: calendar-quarter fallback\; Yahoo does not expose a fiscal period 
- here\nRevenue Estimate: 1.09e+11\nTicker: NVDA\nSource: Yahoo Finance via 
- yfinance\nSource URL: https://finance.yahoo.com/quote/NVDA/\nLast Updated:
-  2026-09-15T09:09:57+00:00
+DESCRIPTION:股票代码: NVDA\n公司: 英伟达\n财报日期: 2026-11-1
+ 7\n财报时段: 时间待定（TAS）\n财务季度: 2026年第4季度\n
+ 财务季度来源: 采用自然季度备用值；雅虎财经未提供财
+ 务期间\n每股收益预期: 2.473\n营收预期: 1.09e+11\n来源: 雅
+ 虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
+ ote/NVDA/\n最后更新: 2026-09-15T09:09:57+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/NVDA/
 END:VEVENT
@@ -158,12 +158,12 @@ DTEND;VALUE=DATE:20261210
 DTSTAMP:20260915T090957Z
 UID:earnings-AVGO-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Broadcom Inc.\nEPS Estimate: 3.826\nEarnings Date: 20
- 26-12-09\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter Sourc
- e: calendar-quarter fallback\; Yahoo does not expose a fiscal period here\
- nRevenue Estimate: 3.488e+10\nTicker: AVGO\nSource: Yahoo Finance via yfin
- ance\nSource URL: https://finance.yahoo.com/quote/AVGO/\nLast Updated: 202
- 6-09-15T09:09:57+00:00
+DESCRIPTION:股票代码: AVGO\n公司: 博通\n财报日期: 2026-12-09\n
+ 财报时段: 时间待定（TAS）\n财务季度: 2026年第4季度\n财
+ 务季度来源: 采用自然季度备用值；雅虎财经未提供财务
+ 期间\n每股收益预期: 3.826\n营收预期: 3.488e+10\n来源: 雅虎
+ 财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/quote
+ /AVGO/\n最后更新: 2026-09-15T09:09:57+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AVGO/
 END:VEVENT

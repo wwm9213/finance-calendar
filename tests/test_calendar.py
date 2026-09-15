@@ -85,6 +85,36 @@ def test_description_output_is_independent_of_mapping_order(tmp_path: Path) -> N
     assert first_path.read_bytes() == second_path.read_bytes()
 
 
+def test_description_is_localized_to_chinese(tmp_path: Path) -> None:
+    item = _all_day("localized@example", "earnings")
+    item.description = {
+        "Ticker": "NVDA",
+        "Company": "NVIDIA Corporation",
+        "Release": "Consumer Price Index for November 2026",
+        "Earnings Time": "TAS",
+        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
+    }
+    item.source = "Yahoo Finance via yfinance"
+    item.metadata = {"ticker": "NVDA"}
+    path = tmp_path / "earnings.ics"
+
+    _write([item], "earnings", path)
+
+    description = str(Calendar.from_ical(path.read_bytes()).walk("VEVENT")[0]["DESCRIPTION"])
+    assert "股票代码: NVDA" in description
+    assert "公司: 英伟达" in description
+    assert "发布项目: 消费者价格指数，2026年十一月" in description
+    assert "财报时段: 时间待定（TAS）" in description
+    assert "财务季度: 2026年第4季度" in description
+    assert "财务季度来源: 采用自然季度备用值" in description
+    assert "来源: 雅虎财经（通过 yfinance）" in description
+    assert "来源链接: https://example.com" in description
+    assert "最后更新: 2026-09-15T00:00:00+00:00" in description
+    assert "Source:" not in description
+    assert "Last Updated:" not in description
+
+
 def test_all_calendar_is_exact_union_without_duplicates(tmp_path: Path) -> None:
     macro = [_timed("macro@example")]
     earnings = [_all_day("earnings@example", "earnings")]
