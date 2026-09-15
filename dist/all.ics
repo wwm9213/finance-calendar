@@ -213,6 +213,22 @@ DESCRIPTION:Reference Period: 2026-09-19\nReference Week Ending: 2026-09-1
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📊 MU · Micron Technology\, Inc. 财报 [TAS]
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DTSTAMP:20260915T090957Z
+UID:earnings-MU-2026Q4@finance-calendar
+CATEGORIES:EARNINGS,EARNINGS
+DESCRIPTION:Ticker: MU\nCompany: Micron Technology\, Inc.\nEarnings Date: 
+ 2026-09-30\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter Sou
+ rce: calendar-quarter fallback\; Yahoo does not expose a fiscal period her
+ e\nEPS Estimate: 31.33\nRevenue Estimate: 5.079e+10\nSource: Yahoo Finance
+  via yfinance\nSource URL: https://finance.yahoo.com/quote/MU/\nLast Updat
+ ed: 2026-09-15T09:09:57+00:00
+TRANSP:TRANSPARENT
+URL:https://finance.yahoo.com/quote/MU/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇺🇸 美国核心 PCE
 DTSTART:20260930T123000Z
 DTEND:20260930T130000Z
@@ -254,22 +270,6 @@ DESCRIPTION:Indicator: PCE Price Index\nReference Period: 2026-08\nRelease
  e URL: https://www.bea.gov/news/schedule\nLast Updated: 2026-09-15T08:40:2
  3+00:00
 URL:https://www.bea.gov/news/schedule
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📊 MU · Micron Technology\, Inc. 财报 [TAS]
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-DTSTAMP:20260915T084023Z
-UID:earnings-MU-2026Q4@finance-calendar
-CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Micron Technology\, Inc.\nEPS Estimate: 31.33\nEarnin
- gs Date: 2026-10-01\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Qu
- arter Source: calendar-quarter fallback\; Yahoo does not expose a fiscal p
- eriod here\nRevenue Estimate: 5.079e+10\nTicker: MU\nSource: Yahoo Finance
-  via yfinance\nSource URL: https://finance.yahoo.com/quote/MU/\nLast Updat
- ed: 2026-09-15T08:40:23+00:00
-TRANSP:TRANSPARENT
-URL:https://finance.yahoo.com/quote/MU/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
@@ -406,15 +406,15 @@ BEGIN:VEVENT
 SUMMARY:📊 TSM · Taiwan Semiconductor Manufactur 财报 [TAS]
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260915T084023Z
+DTSTAMP:20260915T090957Z
 UID:earnings-TSM-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Taiwan Semiconductor Manufactur\nEPS Estimate: 4.461\
- nEarnings Date: 2026-10-15\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFi
- scal Quarter Source: calendar-quarter fallback\; Yahoo does not expose a f
- iscal period here\nRevenue Estimate: 1.455e+12\nTicker: TSM\nSource: Yahoo
+DESCRIPTION:Ticker: TSM\nCompany: Taiwan Semiconductor Manufactur\nEarning
+ s Date: 2026-10-15\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Qua
+ rter Source: calendar-quarter fallback\; Yahoo does not expose a fiscal pe
+ riod here\nEPS Estimate: 4.461\nRevenue Estimate: 1.455e+12\nSource: Yahoo
   Finance via yfinance\nSource URL: https://finance.yahoo.com/quote/TSM/\nL
- ast Updated: 2026-09-15T08:40:23+00:00
+ ast Updated: 2026-09-15T09:09:57+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/TSM/
 END:VEVENT
@@ -504,6 +504,54 @@ TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📊 GOOGL · Alphabet Inc. 财报 [TAS]
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20260915T090957Z
+UID:earnings-GOOGL-2026Q4@finance-calendar
+CATEGORIES:EARNINGS,EARNINGS
+DESCRIPTION:Ticker: GOOGL\nCompany: Alphabet Inc.\nEarnings Date: 2026-10-
+ 28\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter Source: cal
+ endar-quarter fallback\; Yahoo does not expose a fiscal period here\nEPS E
+ stimate: 3.008\nRevenue Estimate: 1.272e+11\nSource: Yahoo Finance via yfi
+ nance\nSource URL: https://finance.yahoo.com/quote/GOOGL/\nLast Updated: 2
+ 026-09-15T09:09:57+00:00
+TRANSP:TRANSPARENT
+URL:https://finance.yahoo.com/quote/GOOGL/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📊 META · Meta Platforms\, Inc. 财报 [TAS]
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20260915T090957Z
+UID:earnings-META-2026Q4@finance-calendar
+CATEGORIES:EARNINGS,EARNINGS
+DESCRIPTION:Ticker: META\nCompany: Meta Platforms\, Inc.\nEarnings Date: 2
+ 026-10-28\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter Sour
+ ce: calendar-quarter fallback\; Yahoo does not expose a fiscal period here
+ \nEPS Estimate: 6.973\nRevenue Estimate: 6.332e+10\nSource: Yahoo Finance 
+ via yfinance\nSource URL: https://finance.yahoo.com/quote/META/\nLast Upda
+ ted: 2026-09-15T09:09:57+00:00
+TRANSP:TRANSPARENT
+URL:https://finance.yahoo.com/quote/META/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:📊 MSFT · Microsoft Corporation 财报 [TAS]
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DTSTAMP:20260915T090957Z
+UID:earnings-MSFT-2026Q4@finance-calendar
+CATEGORIES:EARNINGS,EARNINGS
+DESCRIPTION:Ticker: MSFT\nCompany: Microsoft Corporation\nEarnings Date: 2
+ 026-10-28\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter Sour
+ ce: calendar-quarter fallback\; Yahoo does not expose a fiscal period here
+ \nEPS Estimate: 4.725\nRevenue Estimate: 9.066e+10\nSource: Yahoo Finance 
+ via yfinance\nSource URL: https://finance.yahoo.com/quote/MSFT/\nLast Upda
+ ted: 2026-09-15T09:09:57+00:00
+TRANSP:TRANSPARENT
+URL:https://finance.yahoo.com/quote/MSFT/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20261028T180000Z
 DTEND:20261028T190000Z
@@ -518,52 +566,36 @@ DESCRIPTION:Meeting End Date: 2026-10-28\nReference Period: 2026-07\nRelea
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📊 GOOGL · Alphabet Inc. 财报 [TAS]
+SUMMARY:📊 AAPL · Apple Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20260915T084023Z
-UID:earnings-GOOGL-2026Q4@finance-calendar
+DTSTAMP:20260915T090957Z
+UID:earnings-AAPL-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Alphabet Inc.\nEPS Estimate: 3.008\nEarnings Date: 20
- 26-10-29\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter Sourc
- e: calendar-quarter fallback\; Yahoo does not expose a fiscal period here\
- nRevenue Estimate: 1.272e+11\nTicker: GOOGL\nSource: Yahoo Finance via yfi
- nance\nSource URL: https://finance.yahoo.com/quote/GOOGL/\nLast Updated: 2
- 026-09-15T08:40:23+00:00
+DESCRIPTION:Ticker: AAPL\nCompany: Apple Inc.\nEarnings Date: 2026-10-29\n
+ Earnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter Source: calenda
+ r-quarter fallback\; Yahoo does not expose a fiscal period here\nEPS Estim
+ ate: 1.981\nRevenue Estimate: 1.136e+11\nSource: Yahoo Finance via yfinanc
+ e\nSource URL: https://finance.yahoo.com/quote/AAPL/\nLast Updated: 2026-0
+ 9-15T09:09:57+00:00
 TRANSP:TRANSPARENT
-URL:https://finance.yahoo.com/quote/GOOGL/
+URL:https://finance.yahoo.com/quote/AAPL/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📊 META · Meta Platforms\, Inc. 财报 [TAS]
+SUMMARY:📊 AMZN · Amazon.com\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20260915T084023Z
-UID:earnings-META-2026Q4@finance-calendar
+DTSTAMP:20260915T090957Z
+UID:earnings-AMZN-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Meta Platforms\, Inc.\nEPS Estimate: 6.973\nEarnings 
- Date: 2026-10-29\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quart
- er Source: calendar-quarter fallback\; Yahoo does not expose a fiscal peri
- od here\nRevenue Estimate: 6.332e+10\nTicker: META\nSource: Yahoo Finance 
- via yfinance\nSource URL: https://finance.yahoo.com/quote/META/\nLast Upda
- ted: 2026-09-15T08:40:23+00:00
+DESCRIPTION:Ticker: AMZN\nCompany: Amazon.com\, Inc.\nEarnings Date: 2026-
+ 10-29\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter Source: 
+ calendar-quarter fallback\; Yahoo does not expose a fiscal period here\nEP
+ S Estimate: 1.95\nRevenue Estimate: 2.021e+11\nSource: Yahoo Finance via y
+ finance\nSource URL: https://finance.yahoo.com/quote/AMZN/\nLast Updated: 
+ 2026-09-15T09:09:57+00:00
 TRANSP:TRANSPARENT
-URL:https://finance.yahoo.com/quote/META/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📊 MSFT · Microsoft Corporation 财报 [TAS]
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-DTSTAMP:20260915T084023Z
-UID:earnings-MSFT-2026Q4@finance-calendar
-CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Microsoft Corporation\nEPS Estimate: 4.725\nEarnings 
- Date: 2026-10-29\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quart
- er Source: calendar-quarter fallback\; Yahoo does not expose a fiscal peri
- od here\nRevenue Estimate: 9.066e+10\nTicker: MSFT\nSource: Yahoo Finance 
- via yfinance\nSource URL: https://finance.yahoo.com/quote/MSFT/\nLast Upda
- ted: 2026-09-15T08:40:23+00:00
-TRANSP:TRANSPARENT
-URL:https://finance.yahoo.com/quote/MSFT/
+URL:https://finance.yahoo.com/quote/AMZN/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国核心 PCE
@@ -623,38 +655,6 @@ DESCRIPTION:Indicator: PCE Price Index\nReference Period: 2026-09\nRelease
 URL:https://www.bea.gov/news/schedule
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:📊 AAPL · Apple Inc. 财报 [TAS]
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-DTSTAMP:20260915T084023Z
-UID:earnings-AAPL-2026Q4@finance-calendar
-CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Apple Inc.\nEPS Estimate: 1.981\nEarnings Date: 2026-
- 10-30\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter Source: 
- calendar-quarter fallback\; Yahoo does not expose a fiscal period here\nRe
- venue Estimate: 1.136e+11\nTicker: AAPL\nSource: Yahoo Finance via yfinanc
- e\nSource URL: https://finance.yahoo.com/quote/AAPL/\nLast Updated: 2026-0
- 9-15T08:40:23+00:00
-TRANSP:TRANSPARENT
-URL:https://finance.yahoo.com/quote/AAPL/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📊 AMZN · Amazon.com\, Inc. 财报 [TAS]
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-DTSTAMP:20260915T084023Z
-UID:earnings-AMZN-2026Q4@finance-calendar
-CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Amazon.com\, Inc.\nEPS Estimate: 1.95\nEarnings Date:
-  2026-10-30\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter So
- urce: calendar-quarter fallback\; Yahoo does not expose a fiscal period he
- re\nRevenue Estimate: 2.021e+11\nTicker: AMZN\nSource: Yahoo Finance via y
- finance\nSource URL: https://finance.yahoo.com/quote/AMZN/\nLast Updated: 
- 2026-09-15T08:40:23+00:00
-TRANSP:TRANSPARENT
-URL:https://finance.yahoo.com/quote/AMZN/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20261102T150000Z
 DTEND:20261102T153000Z
@@ -672,17 +672,17 @@ URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📊 AMD · Advanced Micro Devices\, Inc. 财报 [TAS]
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-DTSTAMP:20260915T084023Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DTSTAMP:20260915T090957Z
 UID:earnings-AMD-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Advanced Micro Devices\, Inc.\nEPS Estimate: 1.926\nE
- arnings Date: 2026-11-04\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFisc
- al Quarter Source: calendar-quarter fallback\; Yahoo does not expose a fis
- cal period here\nRevenue Estimate: 1.3e+10\nTicker: AMD\nSource: Yahoo Fin
+DESCRIPTION:Ticker: AMD\nCompany: Advanced Micro Devices\, Inc.\nEarnings 
+ Date: 2026-11-03\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quart
+ er Source: calendar-quarter fallback\; Yahoo does not expose a fiscal peri
+ od here\nEPS Estimate: 1.926\nRevenue Estimate: 1.3e+10\nSource: Yahoo Fin
  ance via yfinance\nSource URL: https://finance.yahoo.com/quote/AMD/\nLast 
- Updated: 2026-09-15T08:40:23+00:00
+ Updated: 2026-09-15T09:09:57+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AMD/
 END:VEVENT
@@ -816,6 +816,22 @@ DESCRIPTION:Indicator: Producer Price Index\nReference Period: 2026-10\nRe
 URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📊 NVDA · NVIDIA Corporation 财报 [TAS]
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20260915T090957Z
+UID:earnings-NVDA-2026Q4@finance-calendar
+CATEGORIES:EARNINGS,EARNINGS
+DESCRIPTION:Ticker: NVDA\nCompany: NVIDIA Corporation\nEarnings Date: 2026
+ -11-17\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter Source:
+  calendar-quarter fallback\; Yahoo does not expose a fiscal period here\nE
+ PS Estimate: 2.473\nRevenue Estimate: 1.09e+11\nSource: Yahoo Finance via 
+ yfinance\nSource URL: https://finance.yahoo.com/quote/NVDA/\nLast Updated:
+  2026-09-15T09:09:57+00:00
+TRANSP:TRANSPARENT
+URL:https://finance.yahoo.com/quote/NVDA/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20261117T133000Z
 DTEND:20261117T140000Z
@@ -827,22 +843,6 @@ DESCRIPTION:Reference Period: 2026-10\nRelease: Advance Monthly Retail Tra
  \nSource: U.S. Census Bureau\nSource URL: https://www.census.gov/retail/re
  lease_schedule.html\nLast Updated: 2026-09-15T08:40:23+00:00
 URL:https://www.census.gov/retail/release_schedule.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📊 NVDA · NVIDIA Corporation 财报 [TAS]
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-DTSTAMP:20260915T084023Z
-UID:earnings-NVDA-2026Q4@finance-calendar
-CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: NVIDIA Corporation\nEPS Estimate: 2.473\nEarnings Dat
- e: 2026-11-18\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter 
- Source: calendar-quarter fallback\; Yahoo does not expose a fiscal period 
- here\nRevenue Estimate: 1.09e+11\nTicker: NVDA\nSource: Yahoo Finance via 
- yfinance\nSource URL: https://finance.yahoo.com/quote/NVDA/\nLast Updated:
-  2026-09-15T08:40:23+00:00
-TRANSP:TRANSPARENT
-URL:https://finance.yahoo.com/quote/NVDA/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
@@ -1046,6 +1046,22 @@ TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:📊 AVGO · Broadcom Inc. 财报 [TAS]
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+DTSTAMP:20260915T090957Z
+UID:earnings-AVGO-2026Q4@finance-calendar
+CATEGORIES:EARNINGS,EARNINGS
+DESCRIPTION:Ticker: AVGO\nCompany: Broadcom Inc.\nEarnings Date: 2026-12-0
+ 9\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter Source: cale
+ ndar-quarter fallback\; Yahoo does not expose a fiscal period here\nEPS Es
+ timate: 3.826\nRevenue Estimate: 3.488e+10\nSource: Yahoo Finance via yfin
+ ance\nSource URL: https://finance.yahoo.com/quote/AVGO/\nLast Updated: 202
+ 6-09-15T09:09:57+00:00
+TRANSP:TRANSPARENT
+URL:https://finance.yahoo.com/quote/AVGO/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20261209T190000Z
 DTEND:20261209T200000Z
@@ -1058,22 +1074,6 @@ DESCRIPTION:Meeting End Date: 2026-12-09\nReference Period: 2026-08\nRelea
  www.federalreserve.gov/monetarypolicy/fomccalendars.htm\nLast Updated: 202
  6-09-15T08:40:23+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:📊 AVGO · Broadcom Inc. 财报 [TAS]
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-DTSTAMP:20260915T084023Z
-UID:earnings-AVGO-2026Q4@finance-calendar
-CATEGORIES:EARNINGS,EARNINGS
-DESCRIPTION:Company: Broadcom Inc.\nEPS Estimate: 3.826\nEarnings Date: 20
- 26-12-10\nEarnings Time: TAS\nFiscal Quarter: 2026Q4\nFiscal Quarter Sourc
- e: calendar-quarter fallback\; Yahoo does not expose a fiscal period here\
- nRevenue Estimate: 3.488e+10\nTicker: AVGO\nSource: Yahoo Finance via yfin
- ance\nSource URL: https://finance.yahoo.com/quote/AVGO/\nLast Updated: 202
- 6-09-15T08:40:23+00:00
-TRANSP:TRANSPARENT
-URL:https://finance.yahoo.com/quote/AVGO/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国核心 CPI

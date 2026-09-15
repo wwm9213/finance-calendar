@@ -6,14 +6,14 @@
       "description": {
         "Company": "Apple Inc.",
         "EPS Estimate": "1.981",
-        "Earnings Date": "2026-10-30",
+        "Earnings Date": "2026-10-29",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "1.136e+11",
         "Ticker": "AAPL"
       },
-      "end": "2026-10-31",
+      "end": "2026-10-30",
       "kind": "earnings",
       "metadata": {
         "company": "Apple Inc.",
@@ -22,7 +22,7 @@
       "scope": "earnings:AAPL",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/AAPL/",
-      "start": "2026-10-30",
+      "start": "2026-10-29",
       "summary": "📊 AAPL · Apple Inc. 财报 [TAS]",
       "uid": "earnings-AAPL-2026Q4@finance-calendar"
     },
@@ -32,14 +32,14 @@
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
         "EPS Estimate": "1.926",
-        "Earnings Date": "2026-11-04",
+        "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "1.3e+10",
         "Ticker": "AMD"
       },
-      "end": "2026-11-05",
+      "end": "2026-11-04",
       "kind": "earnings",
       "metadata": {
         "company": "Advanced Micro Devices, Inc.",
@@ -48,7 +48,7 @@
       "scope": "earnings:AMD",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/AMD/",
-      "start": "2026-11-04",
+      "start": "2026-11-03",
       "summary": "📊 AMD · Advanced Micro Devices, Inc. 财报 [TAS]",
       "uid": "earnings-AMD-2026Q4@finance-calendar"
     },
@@ -58,14 +58,14 @@
       "description": {
         "Company": "Amazon.com, Inc.",
         "EPS Estimate": "1.95",
-        "Earnings Date": "2026-10-30",
+        "Earnings Date": "2026-10-29",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "2.021e+11",
         "Ticker": "AMZN"
       },
-      "end": "2026-10-31",
+      "end": "2026-10-30",
       "kind": "earnings",
       "metadata": {
         "company": "Amazon.com, Inc.",
@@ -74,7 +74,7 @@
       "scope": "earnings:AMZN",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/AMZN/",
-      "start": "2026-10-30",
+      "start": "2026-10-29",
       "summary": "📊 AMZN · Amazon.com, Inc. 财报 [TAS]",
       "uid": "earnings-AMZN-2026Q4@finance-calendar"
     },
@@ -84,14 +84,14 @@
       "description": {
         "Company": "Broadcom Inc.",
         "EPS Estimate": "3.826",
-        "Earnings Date": "2026-12-10",
+        "Earnings Date": "2026-12-09",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "3.488e+10",
         "Ticker": "AVGO"
       },
-      "end": "2026-12-11",
+      "end": "2026-12-10",
       "kind": "earnings",
       "metadata": {
         "company": "Broadcom Inc.",
@@ -100,7 +100,7 @@
       "scope": "earnings:AVGO",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/AVGO/",
-      "start": "2026-12-10",
+      "start": "2026-12-09",
       "summary": "📊 AVGO · Broadcom Inc. 财报 [TAS]",
       "uid": "earnings-AVGO-2026Q4@finance-calendar"
     },
@@ -110,14 +110,14 @@
       "description": {
         "Company": "Alphabet Inc.",
         "EPS Estimate": "3.008",
-        "Earnings Date": "2026-10-29",
+        "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "1.272e+11",
         "Ticker": "GOOGL"
       },
-      "end": "2026-10-30",
+      "end": "2026-10-29",
       "kind": "earnings",
       "metadata": {
         "company": "Alphabet Inc.",
@@ -126,7 +126,7 @@
       "scope": "earnings:GOOGL",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/GOOGL/",
-      "start": "2026-10-29",
+      "start": "2026-10-28",
       "summary": "📊 GOOGL · Alphabet Inc. 财报 [TAS]",
       "uid": "earnings-GOOGL-2026Q4@finance-calendar"
     },
@@ -136,14 +136,14 @@
       "description": {
         "Company": "Meta Platforms, Inc.",
         "EPS Estimate": "6.973",
-        "Earnings Date": "2026-10-29",
+        "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "6.332e+10",
         "Ticker": "META"
       },
-      "end": "2026-10-30",
+      "end": "2026-10-29",
       "kind": "earnings",
       "metadata": {
         "company": "Meta Platforms, Inc.",
@@ -152,7 +152,7 @@
       "scope": "earnings:META",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/META/",
-      "start": "2026-10-29",
+      "start": "2026-10-28",
       "summary": "📊 META · Meta Platforms, Inc. 财报 [TAS]",
       "uid": "earnings-META-2026Q4@finance-calendar"
     },
@@ -162,14 +162,14 @@
       "description": {
         "Company": "Microsoft Corporation",
         "EPS Estimate": "4.725",
-        "Earnings Date": "2026-10-29",
+        "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "9.066e+10",
         "Ticker": "MSFT"
       },
-      "end": "2026-10-30",
+      "end": "2026-10-29",
       "kind": "earnings",
       "metadata": {
         "company": "Microsoft Corporation",
@@ -178,7 +178,7 @@
       "scope": "earnings:MSFT",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/MSFT/",
-      "start": "2026-10-29",
+      "start": "2026-10-28",
       "summary": "📊 MSFT · Microsoft Corporation 财报 [TAS]",
       "uid": "earnings-MSFT-2026Q4@finance-calendar"
     },
@@ -188,14 +188,14 @@
       "description": {
         "Company": "Micron Technology, Inc.",
         "EPS Estimate": "31.33",
-        "Earnings Date": "2026-10-01",
+        "Earnings Date": "2026-09-30",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "5.079e+10",
         "Ticker": "MU"
       },
-      "end": "2026-10-02",
+      "end": "2026-10-01",
       "kind": "earnings",
       "metadata": {
         "company": "Micron Technology, Inc.",
@@ -204,7 +204,7 @@
       "scope": "earnings:MU",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/MU/",
-      "start": "2026-10-01",
+      "start": "2026-09-30",
       "summary": "📊 MU · Micron Technology, Inc. 财报 [TAS]",
       "uid": "earnings-MU-2026Q4@finance-calendar"
     },
@@ -214,14 +214,14 @@
       "description": {
         "Company": "NVIDIA Corporation",
         "EPS Estimate": "2.473",
-        "Earnings Date": "2026-11-18",
+        "Earnings Date": "2026-11-17",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "1.09e+11",
         "Ticker": "NVDA"
       },
-      "end": "2026-11-19",
+      "end": "2026-11-18",
       "kind": "earnings",
       "metadata": {
         "company": "NVIDIA Corporation",
@@ -230,7 +230,7 @@
       "scope": "earnings:NVDA",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/NVDA/",
-      "start": "2026-11-18",
+      "start": "2026-11-17",
       "summary": "📊 NVDA · NVIDIA Corporation 财报 [TAS]",
       "uid": "earnings-NVDA-2026Q4@finance-calendar"
     },
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-09-15T08:40:23+00:00",
+  "updated_at": "2026-09-15T09:09:57+00:00",
   "version": 1
 }
