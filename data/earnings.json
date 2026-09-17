@@ -109,7 +109,7 @@
       "category": "earnings",
       "description": {
         "Company": "Alphabet Inc.",
-        "EPS Estimate": "3.008",
+        "EPS Estimate": "3.007",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -140,7 +140,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "6.332e+10",
+        "Revenue Estimate": "6.331e+10",
         "Ticker": "META"
       },
       "end": "2026-10-29",
@@ -187,12 +187,12 @@
       "category": "earnings",
       "description": {
         "Company": "Micron Technology, Inc.",
-        "EPS Estimate": "31.33",
+        "EPS Estimate": "31.35",
         "Earnings Date": "2026-09-30",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "5.079e+10",
+        "Revenue Estimate": "5.082e+10",
         "Ticker": "MU"
       },
       "end": "2026-10-01",
@@ -213,7 +213,7 @@
       "category": "earnings",
       "description": {
         "Company": "NVIDIA Corporation",
-        "EPS Estimate": "2.473",
+        "EPS Estimate": "2.474",
         "Earnings Date": "2026-11-17",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-09-15T09:09:57+00:00",
+  "updated_at": "2026-09-17T16:27:26+00:00",
   "version": 1
 }
