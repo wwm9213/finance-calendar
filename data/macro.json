@@ -4,6 +4,60 @@
       "all_day": false,
       "category": "macro",
       "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2026-09",
+        "Release": "Consumer Price Index for September 2026"
+      },
+      "end": "2026-10-14T09:00:00-04:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2026-10-14T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2026-10",
+        "Release": "Consumer Price Index for October 2026"
+      },
+      "end": "2026-11-10T09:00:00-05:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2026-11-10T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2026-11",
+        "Release": "Consumer Price Index for November 2026"
+      },
+      "end": "2026-12-10T09:00:00-05:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2026-12-10T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
         "Indicator": "Core PCE Price Index",
         "Reference Period": "2026-08",
         "Release": "Personal Income and Outlays, August 2026"
@@ -71,6 +125,114 @@
       "start": "2026-12-23T08:30:00-05:00",
       "summary": "🇺🇸 美国核心 PCE",
       "uid": "macro-US-CORE_PCE-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2026-09",
+        "Release": "Producer Price Index for September 2026"
+      },
+      "end": "2026-10-15T09:00:00-04:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2026-10-15T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2026-10",
+        "Release": "Producer Price Index for October 2026"
+      },
+      "end": "2026-11-13T09:00:00-05:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2026-11-13T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2026-11",
+        "Release": "Producer Price Index for November 2026"
+      },
+      "end": "2026-12-15T09:00:00-05:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2026-12-15T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2026-09",
+        "Release": "Consumer Price Index for September 2026"
+      },
+      "end": "2026-10-14T09:00:00-04:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2026-10-14T08:30:00-04:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2026-10",
+        "Release": "Consumer Price Index for October 2026"
+      },
+      "end": "2026-11-10T09:00:00-05:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2026-11-10T08:30:00-05:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2026-11",
+        "Release": "Consumer Price Index for November 2026"
+      },
+      "end": "2026-12-10T09:00:00-05:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2026-12-10T08:30:00-05:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2026-11@finance-calendar"
     },
     {
       "all_day": true,
@@ -1537,6 +1699,79 @@
       "all_day": false,
       "category": "macro",
       "description": {
+        "Reference Period": "2027-01-02",
+        "Reference Week Ending": "2027-01-02",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2027-01-07T09:00:00-05:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2027-01-07T08:30:00-05:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2027-01-02@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2026-09",
+        "Release": "Employment Situation for September 2026"
+      },
+      "end": "2026-10-02T09:00:00-04:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2026-10-02T08:30:00-04:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2026-10",
+        "Release": "Employment Situation for October 2026"
+      },
+      "end": "2026-11-06T09:00:00-05:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2026-11-06T08:30:00-05:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2026-11",
+        "Release": "Employment Situation for November 2026"
+      },
+      "end": "2026-12-04T09:00:00-05:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2026-12-04T08:30:00-05:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
         "Indicator": "PCE Price Index",
         "Reference Period": "2026-08",
         "Release": "Personal Income and Outlays, August 2026"
@@ -1604,6 +1839,60 @@
       "start": "2026-12-23T08:30:00-05:00",
       "summary": "🇺🇸 美国 PCE",
       "uid": "macro-US-PCE-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2026-09",
+        "Release": "Producer Price Index for September 2026"
+      },
+      "end": "2026-10-15T09:00:00-04:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2026-10-15T08:30:00-04:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2026-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2026-10",
+        "Release": "Producer Price Index for October 2026"
+      },
+      "end": "2026-11-13T09:00:00-05:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2026-11-13T08:30:00-05:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2026-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2026-11",
+        "Release": "Producer Price Index for November 2026"
+      },
+      "end": "2026-12-15T09:00:00-05:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2026-12-15T08:30:00-05:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2026-11@finance-calendar"
     },
     {
       "all_day": false,
@@ -1677,24 +1966,6 @@
       "all_day": false,
       "category": "macro",
       "description": {
-        "Indicator": "Nonfarm Payrolls",
-        "Reference Period": "2026-09",
-        "Release": "Employment Situation for September 2026"
-      },
-      "end": "2026-10-02T09:00:00-04:00",
-      "kind": "nfp",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
-      "start": "2026-10-02T08:30:00-04:00",
-      "summary": "🇺🇸 美国非农就业（NFP）",
-      "uid": "macro-US-NFP-2026-09@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
         "Indicator": "Unemployment Rate",
         "Reference Period": "2026-09",
         "Release": "Employment Situation for September 2026"
@@ -1708,24 +1979,6 @@
       "start": "2026-10-02T08:30:00-04:00",
       "summary": "🇺🇸 美国失业率",
       "uid": "macro-US-UNEMPLOYMENT-2026-09@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Nonfarm Payrolls",
-        "Reference Period": "2026-10",
-        "Release": "Employment Situation for October 2026"
-      },
-      "end": "2026-11-06T09:00:00-05:00",
-      "kind": "nfp",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
-      "start": "2026-11-06T08:30:00-05:00",
-      "summary": "🇺🇸 美国非农就业（NFP）",
-      "uid": "macro-US-NFP-2026-10@finance-calendar"
     },
     {
       "all_day": false,
@@ -1749,24 +2002,6 @@
       "all_day": false,
       "category": "macro",
       "description": {
-        "Indicator": "Nonfarm Payrolls",
-        "Reference Period": "2026-11",
-        "Release": "Employment Situation for November 2026"
-      },
-      "end": "2026-12-04T09:00:00-05:00",
-      "kind": "nfp",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
-      "start": "2026-12-04T08:30:00-05:00",
-      "summary": "🇺🇸 美国非农就业（NFP）",
-      "uid": "macro-US-NFP-2026-11@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
         "Indicator": "Unemployment Rate",
         "Reference Period": "2026-11",
         "Release": "Employment Situation for November 2026"
@@ -1780,224 +2015,8 @@
       "start": "2026-12-04T08:30:00-05:00",
       "summary": "🇺🇸 美国失业率",
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Consumer Price Index",
-        "Reference Period": "2026-09",
-        "Release": "Consumer Price Index for September 2026"
-      },
-      "end": "2026-10-14T09:00:00-04:00",
-      "kind": "cpi",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
-      "start": "2026-10-14T08:30:00-04:00",
-      "summary": "🇺🇸 美国 CPI",
-      "uid": "macro-US-CPI-2026-09@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Core Consumer Price Index",
-        "Reference Period": "2026-09",
-        "Release": "Consumer Price Index for September 2026"
-      },
-      "end": "2026-10-14T09:00:00-04:00",
-      "kind": "core_cpi",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
-      "start": "2026-10-14T08:30:00-04:00",
-      "summary": "🇺🇸 美国核心 CPI",
-      "uid": "macro-US-CORE_CPI-2026-09@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Consumer Price Index",
-        "Reference Period": "2026-10",
-        "Release": "Consumer Price Index for October 2026"
-      },
-      "end": "2026-11-10T09:00:00-05:00",
-      "kind": "cpi",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
-      "start": "2026-11-10T08:30:00-05:00",
-      "summary": "🇺🇸 美国 CPI",
-      "uid": "macro-US-CPI-2026-10@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Core Consumer Price Index",
-        "Reference Period": "2026-10",
-        "Release": "Consumer Price Index for October 2026"
-      },
-      "end": "2026-11-10T09:00:00-05:00",
-      "kind": "core_cpi",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
-      "start": "2026-11-10T08:30:00-05:00",
-      "summary": "🇺🇸 美国核心 CPI",
-      "uid": "macro-US-CORE_CPI-2026-10@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Consumer Price Index",
-        "Reference Period": "2026-11",
-        "Release": "Consumer Price Index for November 2026"
-      },
-      "end": "2026-12-10T09:00:00-05:00",
-      "kind": "cpi",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
-      "start": "2026-12-10T08:30:00-05:00",
-      "summary": "🇺🇸 美国 CPI",
-      "uid": "macro-US-CPI-2026-11@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Core Consumer Price Index",
-        "Reference Period": "2026-11",
-        "Release": "Consumer Price Index for November 2026"
-      },
-      "end": "2026-12-10T09:00:00-05:00",
-      "kind": "core_cpi",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
-      "start": "2026-12-10T08:30:00-05:00",
-      "summary": "🇺🇸 美国核心 CPI",
-      "uid": "macro-US-CORE_CPI-2026-11@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Producer Price Index",
-        "Reference Period": "2026-09",
-        "Release": "Producer Price Index for September 2026"
-      },
-      "end": "2026-10-15T09:00:00-04:00",
-      "kind": "ppi",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
-      "start": "2026-10-15T08:30:00-04:00",
-      "summary": "🇺🇸 美国 PPI",
-      "uid": "macro-US-PPI-2026-09@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Core Producer Price Index",
-        "Reference Period": "2026-09",
-        "Release": "Producer Price Index for September 2026"
-      },
-      "end": "2026-10-15T09:00:00-04:00",
-      "kind": "core_ppi",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
-      "start": "2026-10-15T08:30:00-04:00",
-      "summary": "🇺🇸 美国核心 PPI",
-      "uid": "macro-US-CORE_PPI-2026-09@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Producer Price Index",
-        "Reference Period": "2026-10",
-        "Release": "Producer Price Index for October 2026"
-      },
-      "end": "2026-11-13T09:00:00-05:00",
-      "kind": "ppi",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
-      "start": "2026-11-13T08:30:00-05:00",
-      "summary": "🇺🇸 美国 PPI",
-      "uid": "macro-US-PPI-2026-10@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Core Producer Price Index",
-        "Reference Period": "2026-10",
-        "Release": "Producer Price Index for October 2026"
-      },
-      "end": "2026-11-13T09:00:00-05:00",
-      "kind": "core_ppi",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
-      "start": "2026-11-13T08:30:00-05:00",
-      "summary": "🇺🇸 美国核心 PPI",
-      "uid": "macro-US-CORE_PPI-2026-10@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Producer Price Index",
-        "Reference Period": "2026-11",
-        "Release": "Producer Price Index for November 2026"
-      },
-      "end": "2026-12-15T09:00:00-05:00",
-      "kind": "ppi",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
-      "start": "2026-12-15T08:30:00-05:00",
-      "summary": "🇺🇸 美国 PPI",
-      "uid": "macro-US-PPI-2026-11@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Core Producer Price Index",
-        "Reference Period": "2026-11",
-        "Release": "Producer Price Index for November 2026"
-      },
-      "end": "2026-12-15T09:00:00-05:00",
-      "kind": "core_ppi",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
-      "start": "2026-12-15T08:30:00-05:00",
-      "summary": "🇺🇸 美国核心 PPI",
-      "uid": "macro-US-CORE_PPI-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-09-15T08:40:23+00:00",
+  "updated_at": "2026-09-17T04:38:21+00:00",
   "version": 1
 }
