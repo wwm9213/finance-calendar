@@ -57,12 +57,12 @@
       "category": "earnings",
       "description": {
         "Company": "Amazon.com, Inc.",
-        "EPS Estimate": "1.95",
+        "EPS Estimate": "1.941",
         "Earnings Date": "2026-10-29",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.021e+11",
+        "Revenue Estimate": "2.022e+11",
         "Ticker": "AMZN"
       },
       "end": "2026-10-30",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-09-17T16:27:26+00:00",
+  "updated_at": "2026-09-18T04:23:53+00:00",
   "version": 1
 }
