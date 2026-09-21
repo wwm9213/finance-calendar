@@ -388,6 +388,23 @@
       "uid": "macro-US-FOMC-MEETING-2027-06@finance-calendar"
     },
     {
+      "all_day": true,
+      "category": "macro",
+      "description": {
+        "Event": "Federal Open Market Committee Meeting",
+        "Meeting": "2027-10-26 to 2027-10-27"
+      },
+      "end": "2027-10-28",
+      "kind": "fomc_meeting",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-10-26",
+      "summary": "🏦 FOMC 议息会议",
+      "uid": "macro-US-FOMC-MEETING-2027-07@finance-calendar"
+    },
+    {
       "all_day": false,
       "category": "macro",
       "description": {
@@ -1979,6 +1996,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-09-20T04:39:15+00:00",
+  "updated_at": "2026-09-21T04:37:38+00:00",
   "version": 1
 }
