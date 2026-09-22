@@ -570,6 +570,24 @@
       "all_day": false,
       "category": "macro",
       "description": {
+        "Meeting End Date": "2027-10-27",
+        "Reference Period": "2027-07",
+        "Release": "FOMC Statement and Interest Rate Decision"
+      },
+      "end": "2027-10-27T15:00:00-04:00",
+      "kind": "fomc_decision",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-10-27T14:00:00-04:00",
+      "summary": "🏦 FOMC 利率决议",
+      "uid": "macro-US-FOMC_DECISION-2027-07@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
         "Meeting End Date": "2026-09-16",
         "Reference Period": "2026-06",
         "Release": "FOMC Minutes",
@@ -1996,6 +2014,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-09-21T04:37:38+00:00",
+  "updated_at": "2026-09-22T04:33:42+00:00",
   "version": 1
 }
