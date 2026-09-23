@@ -187,7 +187,7 @@
       "category": "earnings",
       "description": {
         "Company": "Micron Technology, Inc.",
-        "EPS Estimate": "31.47",
+        "EPS Estimate": "31.5",
         "Earnings Date": "2026-09-30",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-09-22T04:33:42+00:00",
+  "updated_at": "2026-09-23T04:30:28+00:00",
   "version": 1
 }
