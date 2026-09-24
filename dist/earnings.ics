@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:📊 MU · Micron Technology\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-DTSTAMP:20260924T042707Z
+DTSTAMP:20260924T164116Z
 UID:earnings-MU-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: MU\n公司: 美光科技\n财报日期: 2026-09-
@@ -19,7 +19,7 @@ DESCRIPTION:股票代码: MU\n公司: 美光科技\n财报日期: 2026-09-
  财务季度来源: 采用自然季度备用值；雅虎财经未提供财
  务期间\n每股收益预期: 31.56\n营收预期: 5.12e+10\n来源: 雅
  虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
- ote/MU/\n最后更新: 2026-09-24T04:27:07+00:00
+ ote/MU/\n最后更新: 2026-09-24T16:41:16+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/MU/
 END:VEVENT
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:📊 TSM · Taiwan Semiconductor Manufactur 财报 [TAS]
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DTSTAMP:20260924T042707Z
+DTSTAMP:20260924T164116Z
 UID:earnings-TSM-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: TSM\n公司: 台积电\n财报日期: 2026-10-15
@@ -35,7 +35,7 @@ DESCRIPTION:股票代码: TSM\n公司: 台积电\n财报日期: 2026-10-15
  财务季度来源: 采用自然季度备用值；雅虎财经未提供财
  务期间\n每股收益预期: 4.461\n营收预期: 1.455e+12\n来源: 雅
  虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
- ote/TSM/\n最后更新: 2026-09-24T04:27:07+00:00
+ ote/TSM/\n最后更新: 2026-09-24T16:41:16+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/TSM/
 END:VEVENT
@@ -43,7 +43,7 @@ BEGIN:VEVENT
 SUMMARY:📊 GOOGL · Alphabet Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20260924T042707Z
+DTSTAMP:20260924T164116Z
 UID:earnings-GOOGL-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: GOOGL\n公司: 谷歌母公司\n财报日期: 20
@@ -51,7 +51,7 @@ DESCRIPTION:股票代码: GOOGL\n公司: 谷歌母公司\n财报日期: 20
  季度\n财务季度来源: 采用自然季度备用值；雅虎财经未
  提供财务期间\n每股收益预期: 3.019\n营收预期: 1.273e+11\n
  来源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.y
- ahoo.com/quote/GOOGL/\n最后更新: 2026-09-24T04:27:07+00:00
+ ahoo.com/quote/GOOGL/\n最后更新: 2026-09-24T16:41:16+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/GOOGL/
 END:VEVENT
@@ -59,15 +59,15 @@ BEGIN:VEVENT
 SUMMARY:📊 META · Meta Platforms\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20260924T042707Z
+DTSTAMP:20260924T164116Z
 UID:earnings-META-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: META\n公司: 脸书母公司\n财报日期: 202
  6-10-28\n财报时段: 时间待定（TAS）\n财务季度: 2026年第4季
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
- 供财务期间\n每股收益预期: 6.738\n营收预期: 6.331e+10\n来
+ 供财务期间\n每股收益预期: 6.738\n营收预期: 6.332e+10\n来
  源: 雅虎财经（通过 yfinance）\n来源链接: https://finance.yaho
- o.com/quote/META/\n最后更新: 2026-09-24T04:27:07+00:00
+ o.com/quote/META/\n最后更新: 2026-09-24T16:41:16+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/META/
 END:VEVENT
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:📊 MSFT · Microsoft Corporation 财报 [TAS]
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20260924T042707Z
+DTSTAMP:20260924T164116Z
 UID:earnings-MSFT-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: MSFT\n公司: 微软\n财报日期: 2026-10-28\n
@@ -83,7 +83,7 @@ DESCRIPTION:股票代码: MSFT\n公司: 微软\n财报日期: 2026-10-28\n
  务季度来源: 采用自然季度备用值；雅虎财经未提供财务
  期间\n每股收益预期: 4.725\n营收预期: 9.066e+10\n来源: 雅虎
  财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/quote
- /MSFT/\n最后更新: 2026-09-24T04:27:07+00:00
+ /MSFT/\n最后更新: 2026-09-24T16:41:16+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/MSFT/
 END:VEVENT
@@ -91,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:📊 AAPL · Apple Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20260924T042707Z
+DTSTAMP:20260924T164116Z
 UID:earnings-AAPL-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: AAPL\n公司: 苹果\n财报日期: 2026-10-29\n
@@ -99,7 +99,7 @@ DESCRIPTION:股票代码: AAPL\n公司: 苹果\n财报日期: 2026-10-29\n
  务季度来源: 采用自然季度备用值；雅虎财经未提供财务
  期间\n每股收益预期: 1.981\n营收预期: 1.136e+11\n来源: 雅虎
  财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/quote
- /AAPL/\n最后更新: 2026-09-24T04:27:07+00:00
+ /AAPL/\n最后更新: 2026-09-24T16:41:16+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AAPL/
 END:VEVENT
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:📊 AMZN · Amazon.com\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20260924T042707Z
+DTSTAMP:20260924T164116Z
 UID:earnings-AMZN-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: AMZN\n公司: 亚马逊\n财报日期: 2026-10-2
@@ -115,7 +115,7 @@ DESCRIPTION:股票代码: AMZN\n公司: 亚马逊\n财报日期: 2026-10-2
  财务季度来源: 采用自然季度备用值；雅虎财经未提供财
  务期间\n每股收益预期: 1.941\n营收预期: 2.021e+11\n来源: 雅
  虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
- ote/AMZN/\n最后更新: 2026-09-24T04:27:07+00:00
+ ote/AMZN/\n最后更新: 2026-09-24T16:41:16+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AMZN/
 END:VEVENT
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:📊 AMD · Advanced Micro Devices\, Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DTSTAMP:20260924T042707Z
+DTSTAMP:20260924T164116Z
 UID:earnings-AMD-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: AMD\n公司: 超威半导体\n财报日期: 2026
@@ -131,7 +131,7 @@ DESCRIPTION:股票代码: AMD\n公司: 超威半导体\n财报日期: 2026
  度\n财务季度来源: 采用自然季度备用值；雅虎财经未提
  供财务期间\n每股收益预期: 1.926\n营收预期: 1.3e+10\n来源:
   雅虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.co
- m/quote/AMD/\n最后更新: 2026-09-24T04:27:07+00:00
+ m/quote/AMD/\n最后更新: 2026-09-24T16:41:16+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AMD/
 END:VEVENT
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:📊 NVDA · NVIDIA Corporation 财报 [TAS]
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-DTSTAMP:20260924T042707Z
+DTSTAMP:20260924T164116Z
 UID:earnings-NVDA-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: NVDA\n公司: 英伟达\n财报日期: 2026-11-1
@@ -147,7 +147,7 @@ DESCRIPTION:股票代码: NVDA\n公司: 英伟达\n财报日期: 2026-11-1
  财务季度来源: 采用自然季度备用值；雅虎财经未提供财
  务期间\n每股收益预期: 2.474\n营收预期: 1.09e+11\n来源: 雅
  虎财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/qu
- ote/NVDA/\n最后更新: 2026-09-24T04:27:07+00:00
+ ote/NVDA/\n最后更新: 2026-09-24T16:41:16+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/NVDA/
 END:VEVENT
@@ -155,15 +155,15 @@ BEGIN:VEVENT
 SUMMARY:📊 AVGO · Broadcom Inc. 财报 [TAS]
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20260924T042707Z
+DTSTAMP:20260924T164116Z
 UID:earnings-AVGO-2026Q4@finance-calendar
 CATEGORIES:EARNINGS,EARNINGS
 DESCRIPTION:股票代码: AVGO\n公司: 博通\n财报日期: 2026-12-09\n
  财报时段: 时间待定（TAS）\n财务季度: 2026年第4季度\n财
  务季度来源: 采用自然季度备用值；雅虎财经未提供财务
- 期间\n每股收益预期: 3.826\n营收预期: 3.488e+10\n来源: 雅虎
+ 期间\n每股收益预期: 3.825\n营收预期: 3.488e+10\n来源: 雅虎
  财经（通过 yfinance）\n来源链接: https://finance.yahoo.com/quote
- /AVGO/\n最后更新: 2026-09-24T04:27:07+00:00
+ /AVGO/\n最后更新: 2026-09-24T16:41:16+00:00
 TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/AVGO/
 END:VEVENT

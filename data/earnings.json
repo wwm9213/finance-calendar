@@ -83,7 +83,7 @@
       "category": "earnings",
       "description": {
         "Company": "Broadcom Inc.",
-        "EPS Estimate": "3.826",
+        "EPS Estimate": "3.825",
         "Earnings Date": "2026-12-09",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -140,7 +140,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "6.331e+10",
+        "Revenue Estimate": "6.332e+10",
         "Ticker": "META"
       },
       "end": "2026-10-29",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-09-24T04:27:07+00:00",
+  "updated_at": "2026-09-24T16:41:16+00:00",
   "version": 1
 }
