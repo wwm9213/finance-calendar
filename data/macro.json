@@ -1353,6 +1353,24 @@
       "all_day": false,
       "category": "macro",
       "description": {
+        "Reference Period": "2027-11",
+        "Release": "ISM Services PMI Report",
+        "Schedule Method": "Fallback: ISM third-business-day rule"
+      },
+      "end": "2027-11-03T10:30:00-04:00",
+      "kind": "ism_services",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-11-03T10:00:00-04:00",
+      "summary": "🇺🇸 ISM 服务业 PMI",
+      "uid": "macro-US-ISM_SERVICES-2027-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
         "Reference Period": "2026-08-29",
         "Reference Week Ending": "2026-08-29",
         "Release": "Unemployment Insurance Weekly Claims Report",
@@ -2032,6 +2050,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-09-27T05:02:42+00:00",
+  "updated_at": "2026-09-29T05:28:53+00:00",
   "version": 1
 }
