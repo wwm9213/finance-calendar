@@ -114,7 +114,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.273e+11",
+        "Revenue Estimate": "1.275e+11",
         "Ticker": "GOOGL"
       },
       "end": "2026-10-29",
@@ -187,12 +187,12 @@
       "category": "earnings",
       "description": {
         "Company": "Micron Technology, Inc.",
-        "EPS Estimate": "31.71",
+        "EPS Estimate": "31.82",
         "Earnings Date": "2026-09-30",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "5.135e+10",
+        "Revenue Estimate": "5.147e+10",
         "Ticker": "MU"
       },
       "end": "2026-10-01",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-09-29T05:28:53+00:00",
+  "updated_at": "2026-09-30T05:16:34+00:00",
   "version": 1
 }
