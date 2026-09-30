@@ -59,24 +59,6 @@
       "category": "macro",
       "description": {
         "Indicator": "Core PCE Price Index",
-        "Reference Period": "2026-08",
-        "Release": "Personal Income and Outlays, August 2026"
-      },
-      "end": "2026-09-30T09:00:00-04:00",
-      "kind": "core_pce",
-      "metadata": {},
-      "scope": "macro:bea",
-      "source": "U.S. Bureau of Economic Analysis (BEA)",
-      "source_url": "https://www.bea.gov/news/schedule",
-      "start": "2026-09-30T08:30:00-04:00",
-      "summary": "🇺🇸 美国核心 PCE",
-      "uid": "macro-US-CORE_PCE-2026-08@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Core PCE Price Index",
         "Reference Period": "2026-09",
         "Release": "Personal Income and Outlays, September 2026"
       },
@@ -754,24 +736,6 @@
       "start": "2027-10-06T14:00:00-04:00",
       "summary": "🏦 FOMC 会议纪要",
       "uid": "macro-US-FOMC_MINUTES-2027-06@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Estimate Stage": "Third Estimate",
-        "Reference Period": "2026-Q2-third-estimate",
-        "Release": "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 2nd Quarter 2026; State PCE, 2025"
-      },
-      "end": "2026-09-30T09:00:00-04:00",
-      "kind": "gdp",
-      "metadata": {},
-      "scope": "macro:bea",
-      "source": "U.S. Bureau of Economic Analysis (BEA)",
-      "source_url": "https://www.bea.gov/news/schedule",
-      "start": "2026-09-30T08:30:00-04:00",
-      "summary": "🇺🇸 美国 GDP · Third Estimate",
-      "uid": "macro-US-GDP-2026-Q2-third-estimate@finance-calendar"
     },
     {
       "all_day": false,
@@ -1806,24 +1770,6 @@
       "category": "macro",
       "description": {
         "Indicator": "PCE Price Index",
-        "Reference Period": "2026-08",
-        "Release": "Personal Income and Outlays, August 2026"
-      },
-      "end": "2026-09-30T09:00:00-04:00",
-      "kind": "pce",
-      "metadata": {},
-      "scope": "macro:bea",
-      "source": "U.S. Bureau of Economic Analysis (BEA)",
-      "source_url": "https://www.bea.gov/news/schedule",
-      "start": "2026-09-30T08:30:00-04:00",
-      "summary": "🇺🇸 美国 PCE",
-      "uid": "macro-US-PCE-2026-08@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "PCE Price Index",
         "Reference Period": "2026-09",
         "Release": "Personal Income and Outlays, September 2026"
       },
@@ -2050,6 +1996,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-09-29T05:28:53+00:00",
+  "updated_at": "2026-09-30T17:44:11+00:00",
   "version": 1
 }
