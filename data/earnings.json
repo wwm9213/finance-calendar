@@ -57,7 +57,7 @@
       "category": "earnings",
       "description": {
         "Company": "Amazon.com, Inc.",
-        "EPS Estimate": "1.977",
+        "EPS Estimate": "1.981",
         "Earnings Date": "2026-10-29",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-02T05:19:02+00:00",
+  "updated_at": "2026-10-02T17:35:44+00:00",
   "version": 1
 }
