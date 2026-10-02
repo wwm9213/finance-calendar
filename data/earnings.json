@@ -31,12 +31,12 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "1.926",
+        "EPS Estimate": "1.929",
         "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.3e+10",
+        "Revenue Estimate": "1.306e+10",
         "Ticker": "AMD"
       },
       "end": "2026-11-04",
@@ -83,12 +83,12 @@
       "category": "earnings",
       "description": {
         "Company": "Broadcom Inc.",
-        "EPS Estimate": "3.825",
+        "EPS Estimate": "3.828",
         "Earnings Date": "2026-12-09",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "3.488e+10",
+        "Revenue Estimate": "3.489e+10",
         "Ticker": "AVGO"
       },
       "end": "2026-12-10",
@@ -140,7 +140,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "6.332e+10",
+        "Revenue Estimate": "6.333e+10",
         "Ticker": "META"
       },
       "end": "2026-10-29",
@@ -187,12 +187,12 @@
       "category": "earnings",
       "description": {
         "Company": "Micron Technology, Inc.",
-        "EPS Estimate": "38.02",
+        "EPS Estimate": "38.23",
         "Earnings Date": "2026-12-23",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "6.132e+10",
+        "Revenue Estimate": "6.167e+10",
         "Ticker": "MU"
       },
       "end": "2026-12-24",
@@ -213,7 +213,7 @@
       "category": "earnings",
       "description": {
         "Company": "NVIDIA Corporation",
-        "EPS Estimate": "2.474",
+        "EPS Estimate": "2.473",
         "Earnings Date": "2026-11-17",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-01T18:09:58+00:00",
+  "updated_at": "2026-10-02T05:19:02+00:00",
   "version": 1
 }
