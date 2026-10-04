@@ -57,7 +57,7 @@
       "category": "earnings",
       "description": {
         "Company": "Amazon.com, Inc.",
-        "EPS Estimate": "1.981",
+        "EPS Estimate": "1.977",
         "Earnings Date": "2026-10-29",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -187,7 +187,7 @@
       "category": "earnings",
       "description": {
         "Company": "Micron Technology, Inc.",
-        "EPS Estimate": "38.23",
+        "EPS Estimate": "38.21",
         "Earnings Date": "2026-12-23",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-02T17:35:44+00:00",
+  "updated_at": "2026-10-04T05:34:20+00:00",
   "version": 1
 }

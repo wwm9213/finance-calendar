@@ -1047,24 +1047,6 @@
       "all_day": false,
       "category": "macro",
       "description": {
-        "Reference Period": "2026-09",
-        "Release": "ISM Services PMI Report",
-        "Schedule Method": "Fallback: ISM third-business-day rule"
-      },
-      "end": "2026-09-03T10:30:00-04:00",
-      "kind": "ism_services",
-      "metadata": {},
-      "scope": "macro:ism",
-      "source": "Institute for Supply Management (ISM)",
-      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
-      "start": "2026-09-03T10:00:00-04:00",
-      "summary": "🇺🇸 ISM 服务业 PMI",
-      "uid": "macro-US-ISM_SERVICES-2026-09@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
         "Reference Period": "2026-10",
         "Release": "ISM Services PMI Report",
         "Schedule Method": "Fallback: ISM third-business-day rule"
@@ -1312,25 +1294,6 @@
       "start": "2027-11-03T10:00:00-04:00",
       "summary": "🇺🇸 ISM 服务业 PMI",
       "uid": "macro-US-ISM_SERVICES-2027-11@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Reference Period": "2026-08-29",
-        "Reference Week Ending": "2026-08-29",
-        "Release": "Unemployment Insurance Weekly Claims Report",
-        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
-      },
-      "end": "2026-09-03T09:00:00-04:00",
-      "kind": "jobless_claims",
-      "metadata": {},
-      "scope": "macro:dol-claims",
-      "source": "U.S. Department of Labor (ETA)",
-      "source_url": "https://www.dol.gov/newsroom/releases/eta",
-      "start": "2026-09-03T08:30:00-04:00",
-      "summary": "🇺🇸 美国初请失业金人数",
-      "uid": "macro-US-JOBLESS_CLAIMS-2026-08-29@finance-calendar"
     },
     {
       "all_day": false,
@@ -1997,6 +1960,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-02T05:19:02+00:00",
+  "updated_at": "2026-10-04T05:34:20+00:00",
   "version": 1
 }
