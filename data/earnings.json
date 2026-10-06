@@ -239,12 +239,12 @@
       "category": "earnings",
       "description": {
         "Company": "Taiwan Semiconductor Manufactur",
-        "EPS Estimate": "4.461",
+        "EPS Estimate": "4.479",
         "Earnings Date": "2026-10-15",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.455e+12",
+        "Revenue Estimate": "1.456e+12",
         "Ticker": "TSM"
       },
       "end": "2026-10-16",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-04T05:34:20+00:00",
+  "updated_at": "2026-10-06T03:32:54+00:00",
   "version": 1
 }
