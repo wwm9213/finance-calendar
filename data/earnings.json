@@ -6,14 +6,14 @@
       "description": {
         "Company": "Apple Inc.",
         "EPS Estimate": "1.982",
-        "Earnings Date": "2026-10-29",
+        "Earnings Date": "2026-11-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "1.136e+11",
         "Ticker": "AAPL"
       },
-      "end": "2026-10-30",
+      "end": "2026-11-03",
       "kind": "earnings",
       "metadata": {
         "company": "Apple Inc.",
@@ -22,7 +22,7 @@
       "scope": "earnings:AAPL",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/AAPL/",
-      "start": "2026-10-29",
+      "start": "2026-11-02",
       "summary": "📊 AAPL · Apple Inc. 财报 [TAS]",
       "uid": "earnings-AAPL-2026Q4@finance-calendar"
     },
@@ -109,12 +109,12 @@
       "category": "earnings",
       "description": {
         "Company": "Alphabet Inc.",
-        "EPS Estimate": "3.031",
+        "EPS Estimate": "3.059",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.275e+11",
+        "Revenue Estimate": "1.273e+11",
         "Ticker": "GOOGL"
       },
       "end": "2026-10-29",
@@ -161,12 +161,12 @@
       "category": "earnings",
       "description": {
         "Company": "Microsoft Corporation",
-        "EPS Estimate": "4.722",
+        "EPS Estimate": "4.723",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "9.066e+10",
+        "Revenue Estimate": "9.067e+10",
         "Ticker": "MSFT"
       },
       "end": "2026-10-29",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-06T03:32:54+00:00",
+  "updated_at": "2026-10-07T05:37:23+00:00",
   "version": 1
 }
