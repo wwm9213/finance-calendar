@@ -8,30 +8,16 @@ REFRESH-INTERVAL:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:Asia/Shanghai
 BEGIN:VEVENT
-SUMMARY:🏛️ 美股休市 · 劳动节 / Labor Day
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-DTSTAMP:20260915T084023Z
-UID:market-US-HOLIDAY-2026-09-07@finance-calendar
-CATEGORIES:MARKET,HOLIDAY
-DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 全天休
- 市\n节假日: 劳动节\n来源: 纽约证券交易所日程（通过 pa
- ndas-market-calendars）\n来源链接: https://www.nyse.com/markets/hours
- -calendars\n最后更新: 2026-09-15T08:40:23+00:00
-TRANSP:TRANSPARENT
-URL:https://www.nyse.com/markets/hours-calendars
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:⚠️ 美股四巫日
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-QUADRUPLE-WITCHING-2026-09@finance-calendar
 CATEGORIES:MARKET,QUADRUPLE_WITCHING
 DESCRIPTION:事件: 季度衍生品集中到期\n规则: 每年三月、
  六月、九月和十二月的第三个星期五\n来源: 日历规则\n
  来源链接: https://www.optionseducation.org/referencelibrary/faq/option
- s-expiration-calendar\n最后更新: 2026-09-15T08:40:23+00:00
+ s-expiration-calendar\n最后更新: 2026-10-08T05:45:31+00:00
 TRANSP:TRANSPARENT
 URL:https://www.optionseducation.org/referencelibrary/faq/options-expirati
  on-calendar
@@ -40,13 +26,13 @@ BEGIN:VEVENT
 SUMMARY:🏛️ 美股休市 · 感恩节 / Thanksgiving
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-HOLIDAY-2026-11-26@finance-calendar
 CATEGORIES:MARKET,HOLIDAY
 DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 全天休
  市\n节假日: 感恩节\n来源: 纽约证券交易所日程（通过 pa
  ndas-market-calendars）\n来源链接: https://www.nyse.com/markets/hours
- -calendars\n最后更新: 2026-09-15T08:40:23+00:00
+ -calendars\n最后更新: 2026-10-08T05:45:31+00:00
 TRANSP:TRANSPARENT
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
@@ -54,14 +40,14 @@ BEGIN:VEVENT
 SUMMARY:⏰ 美股提前收市 · 13:00 ET
 DTSTART:20261127T173000Z
 DTEND:20261127T180000Z
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-EARLY-CLOSE-2026-11-27@finance-calendar
 CATEGORIES:MARKET,EARLY_CLOSE
 DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 提前收
  市\n正式收市时间: 2026-11-27 13:00（美国东部时间 EST）\n本
  地时间（Asia/Shanghai）: 2026-11-28 01:30 CST\n来源: 纽约证券
  交易所日程（通过 pandas-market-calendars）\n来源链接: https:/
- /www.nyse.com/markets/hours-calendars\n最后更新: 2026-09-15T08:40:23+0
+ /www.nyse.com/markets/hours-calendars\n最后更新: 2026-10-08T05:45:31+0
  0:00
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
@@ -69,13 +55,13 @@ BEGIN:VEVENT
 SUMMARY:⚠️ 美股四巫日
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-QUADRUPLE-WITCHING-2026-12@finance-calendar
 CATEGORIES:MARKET,QUADRUPLE_WITCHING
 DESCRIPTION:事件: 季度衍生品集中到期\n规则: 每年三月、
  六月、九月和十二月的第三个星期五\n来源: 日历规则\n
  来源链接: https://www.optionseducation.org/referencelibrary/faq/option
- s-expiration-calendar\n最后更新: 2026-09-15T08:40:23+00:00
+ s-expiration-calendar\n最后更新: 2026-10-08T05:45:31+00:00
 TRANSP:TRANSPARENT
 URL:https://www.optionseducation.org/referencelibrary/faq/options-expirati
  on-calendar
@@ -84,14 +70,14 @@ BEGIN:VEVENT
 SUMMARY:⏰ 美股提前收市 · 13:00 ET
 DTSTART:20261224T173000Z
 DTEND:20261224T180000Z
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-EARLY-CLOSE-2026-12-24@finance-calendar
 CATEGORIES:MARKET,EARLY_CLOSE
 DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 提前收
  市\n正式收市时间: 2026-12-24 13:00（美国东部时间 EST）\n本
  地时间（Asia/Shanghai）: 2026-12-25 01:30 CST\n来源: 纽约证券
  交易所日程（通过 pandas-market-calendars）\n来源链接: https:/
- /www.nyse.com/markets/hours-calendars\n最后更新: 2026-09-15T08:40:23+0
+ /www.nyse.com/markets/hours-calendars\n最后更新: 2026-10-08T05:45:31+0
  0:00
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
@@ -99,13 +85,13 @@ BEGIN:VEVENT
 SUMMARY:🏛️ 美股休市 · 圣诞节 / Christmas
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-HOLIDAY-2026-12-25@finance-calendar
 CATEGORIES:MARKET,HOLIDAY
 DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 全天休
  市\n节假日: 圣诞节\n来源: 纽约证券交易所日程（通过 pa
  ndas-market-calendars）\n来源链接: https://www.nyse.com/markets/hours
- -calendars\n最后更新: 2026-09-15T08:40:23+00:00
+ -calendars\n最后更新: 2026-10-08T05:45:31+00:00
 TRANSP:TRANSPARENT
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
@@ -113,13 +99,13 @@ BEGIN:VEVENT
 SUMMARY:🏛️ 美股休市 · 元旦 / New Years Day
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-HOLIDAY-2027-01-01@finance-calendar
 CATEGORIES:MARKET,HOLIDAY
 DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 全天休
  市\n节假日: 元旦\n来源: 纽约证券交易所日程（通过 panda
  s-market-calendars）\n来源链接: https://www.nyse.com/markets/hours-ca
- lendars\n最后更新: 2026-09-15T08:40:23+00:00
+ lendars\n最后更新: 2026-10-08T05:45:31+00:00
 TRANSP:TRANSPARENT
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
@@ -128,13 +114,13 @@ SUMMARY:🏛️ 美股休市 · 马丁·路德·金纪念日 / Dr. Martin
  Luther King Jr. Day
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-HOLIDAY-2027-01-18@finance-calendar
 CATEGORIES:MARKET,HOLIDAY
 DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 全天休
  市\n节假日: 马丁·路德·金纪念日\n来源: 纽约证券交易
  所日程（通过 pandas-market-calendars）\n来源链接: https://www.n
- yse.com/markets/hours-calendars\n最后更新: 2026-09-15T08:40:23+00:00
+ yse.com/markets/hours-calendars\n最后更新: 2026-10-08T05:45:31+00:00
 TRANSP:TRANSPARENT
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
@@ -142,13 +128,13 @@ BEGIN:VEVENT
 SUMMARY:🏛️ 美股休市 · 总统日 / Presidents Day
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-HOLIDAY-2027-02-15@finance-calendar
 CATEGORIES:MARKET,HOLIDAY
 DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 全天休
  市\n节假日: 总统日\n来源: 纽约证券交易所日程（通过 pa
  ndas-market-calendars）\n来源链接: https://www.nyse.com/markets/hours
- -calendars\n最后更新: 2026-09-15T08:40:23+00:00
+ -calendars\n最后更新: 2026-10-08T05:45:31+00:00
 TRANSP:TRANSPARENT
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
@@ -156,13 +142,13 @@ BEGIN:VEVENT
 SUMMARY:⚠️ 美股四巫日
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-QUADRUPLE-WITCHING-2027-03@finance-calendar
 CATEGORIES:MARKET,QUADRUPLE_WITCHING
 DESCRIPTION:事件: 季度衍生品集中到期\n规则: 每年三月、
  六月、九月和十二月的第三个星期五\n来源: 日历规则\n
  来源链接: https://www.optionseducation.org/referencelibrary/faq/option
- s-expiration-calendar\n最后更新: 2026-09-15T08:40:23+00:00
+ s-expiration-calendar\n最后更新: 2026-10-08T05:45:31+00:00
 TRANSP:TRANSPARENT
 URL:https://www.optionseducation.org/referencelibrary/faq/options-expirati
  on-calendar
@@ -171,13 +157,13 @@ BEGIN:VEVENT
 SUMMARY:🏛️ 美股休市 · 耶稣受难日 / Good Friday 1908+
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-HOLIDAY-2027-03-26@finance-calendar
 CATEGORIES:MARKET,HOLIDAY
 DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 全天休
  市\n节假日: 耶稣受难日\n来源: 纽约证券交易所日程（通
  过 pandas-market-calendars）\n来源链接: https://www.nyse.com/markets
- /hours-calendars\n最后更新: 2026-09-15T08:40:23+00:00
+ /hours-calendars\n最后更新: 2026-10-08T05:45:31+00:00
 TRANSP:TRANSPARENT
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
@@ -185,13 +171,13 @@ BEGIN:VEVENT
 SUMMARY:🏛️ 美股休市 · 阵亡将士纪念日 / Memorial Day
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-HOLIDAY-2027-05-31@finance-calendar
 CATEGORIES:MARKET,HOLIDAY
 DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 全天休
  市\n节假日: 阵亡将士纪念日\n来源: 纽约证券交易所日程
  （通过 pandas-market-calendars）\n来源链接: https://www.nyse.com/m
- arkets/hours-calendars\n最后更新: 2026-09-15T08:40:23+00:00
+ arkets/hours-calendars\n最后更新: 2026-10-08T05:45:31+00:00
 TRANSP:TRANSPARENT
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
@@ -199,13 +185,13 @@ BEGIN:VEVENT
 SUMMARY:🏛️ 美股休市 · 六月节 / Juneteenth Starting at 2022
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270619
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-HOLIDAY-2027-06-18@finance-calendar
 CATEGORIES:MARKET,HOLIDAY
 DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 全天休
  市\n节假日: 六月节\n来源: 纽约证券交易所日程（通过 pa
  ndas-market-calendars）\n来源链接: https://www.nyse.com/markets/hours
- -calendars\n最后更新: 2026-09-15T08:40:23+00:00
+ -calendars\n最后更新: 2026-10-08T05:45:31+00:00
 TRANSP:TRANSPARENT
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
@@ -213,13 +199,13 @@ BEGIN:VEVENT
 SUMMARY:⚠️ 美股四巫日
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270619
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-QUADRUPLE-WITCHING-2027-06@finance-calendar
 CATEGORIES:MARKET,QUADRUPLE_WITCHING
 DESCRIPTION:事件: 季度衍生品集中到期\n规则: 每年三月、
  六月、九月和十二月的第三个星期五\n来源: 日历规则\n
  来源链接: https://www.optionseducation.org/referencelibrary/faq/option
- s-expiration-calendar\n最后更新: 2026-09-15T08:40:23+00:00
+ s-expiration-calendar\n最后更新: 2026-10-08T05:45:31+00:00
 TRANSP:TRANSPARENT
 URL:https://www.optionseducation.org/referencelibrary/faq/options-expirati
  on-calendar
@@ -228,13 +214,13 @@ BEGIN:VEVENT
 SUMMARY:🏛️ 美股休市 · July 4th
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270706
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-HOLIDAY-2027-07-05@finance-calendar
 CATEGORIES:MARKET,HOLIDAY
 DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 全天休
  市\n节假日: 美国独立日\n来源: 纽约证券交易所日程（通
  过 pandas-market-calendars）\n来源链接: https://www.nyse.com/markets
- /hours-calendars\n最后更新: 2026-09-15T08:40:23+00:00
+ /hours-calendars\n最后更新: 2026-10-08T05:45:31+00:00
 TRANSP:TRANSPARENT
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
@@ -242,13 +228,13 @@ BEGIN:VEVENT
 SUMMARY:🏛️ 美股休市 · 劳动节 / Labor Day
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-HOLIDAY-2027-09-06@finance-calendar
 CATEGORIES:MARKET,HOLIDAY
 DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 全天休
  市\n节假日: 劳动节\n来源: 纽约证券交易所日程（通过 pa
  ndas-market-calendars）\n来源链接: https://www.nyse.com/markets/hours
- -calendars\n最后更新: 2026-09-15T08:40:23+00:00
+ -calendars\n最后更新: 2026-10-08T05:45:31+00:00
 TRANSP:TRANSPARENT
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
@@ -256,13 +242,13 @@ BEGIN:VEVENT
 SUMMARY:⚠️ 美股四巫日
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270918
-DTSTAMP:20260915T084023Z
+DTSTAMP:20261008T054531Z
 UID:market-US-QUADRUPLE-WITCHING-2027-09@finance-calendar
 CATEGORIES:MARKET,QUADRUPLE_WITCHING
 DESCRIPTION:事件: 季度衍生品集中到期\n规则: 每年三月、
  六月、九月和十二月的第三个星期五\n来源: 日历规则\n
  来源链接: https://www.optionseducation.org/referencelibrary/faq/option
- s-expiration-calendar\n最后更新: 2026-09-15T08:40:23+00:00
+ s-expiration-calendar\n最后更新: 2026-10-08T05:45:31+00:00
 TRANSP:TRANSPARENT
 URL:https://www.optionseducation.org/referencelibrary/faq/options-expirati
  on-calendar

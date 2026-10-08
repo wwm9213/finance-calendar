@@ -40,24 +40,6 @@
       "all_day": true,
       "category": "market",
       "description": {
-        "Holiday": "Labor Day",
-        "Market": "NYSE equities",
-        "Status": "Full Market Holiday"
-      },
-      "end": "2026-09-08",
-      "kind": "holiday",
-      "metadata": {},
-      "scope": "market:nyse",
-      "source": "NYSE schedule via pandas-market-calendars",
-      "source_url": "https://www.nyse.com/markets/hours-calendars",
-      "start": "2026-09-07",
-      "summary": "🏛️ 美股休市 · 劳动节 / Labor Day",
-      "uid": "market-US-HOLIDAY-2026-09-07@finance-calendar"
-    },
-    {
-      "all_day": true,
-      "category": "market",
-      "description": {
         "Holiday": "Thanksgiving",
         "Market": "NYSE equities",
         "Status": "Full Market Holiday"
@@ -320,6 +302,6 @@
       "uid": "market-US-QUADRUPLE-WITCHING-2027-09@finance-calendar"
     }
   ],
-  "updated_at": "2026-09-15T08:40:23+00:00",
+  "updated_at": "2026-10-08T05:45:31+00:00",
   "version": 1
 }
