@@ -140,7 +140,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "6.333e+10",
+        "Revenue Estimate": "6.335e+10",
         "Ticker": "META"
       },
       "end": "2026-10-29",
@@ -166,7 +166,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "9.067e+10",
+        "Revenue Estimate": "9.069e+10",
         "Ticker": "MSFT"
       },
       "end": "2026-10-29",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-07T05:37:23+00:00",
+  "updated_at": "2026-10-08T18:34:17+00:00",
   "version": 1
 }
