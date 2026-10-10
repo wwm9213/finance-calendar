@@ -109,12 +109,12 @@
       "category": "earnings",
       "description": {
         "Company": "Alphabet Inc.",
-        "EPS Estimate": "3.067",
+        "EPS Estimate": "3.059",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.274e+11",
+        "Revenue Estimate": "1.273e+11",
         "Ticker": "GOOGL"
       },
       "end": "2026-10-29",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-09T18:05:26+00:00",
+  "updated_at": "2026-10-10T17:04:36+00:00",
   "version": 1
 }
