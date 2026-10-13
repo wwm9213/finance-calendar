@@ -741,6 +741,25 @@
       "all_day": false,
       "category": "macro",
       "description": {
+        "Meeting End Date": "2027-10-27",
+        "Reference Period": "2027-07",
+        "Release": "FOMC Minutes",
+        "Schedule Method": "Federal Reserve three-week publication policy"
+      },
+      "end": "2027-11-17T14:30:00-05:00",
+      "kind": "fomc_minutes",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-11-17T14:00:00-05:00",
+      "summary": "🏦 FOMC 会议纪要",
+      "uid": "macro-US-FOMC_MINUTES-2027-07@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
         "Estimate Stage": "Advance Estimate",
         "Reference Period": "2026-Q3-advance-estimate",
         "Release": "GDP (Advance Estimate), 3rd Quarter 2026"
@@ -1960,6 +1979,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-11T05:28:16+00:00",
+  "updated_at": "2026-10-13T06:35:06+00:00",
   "version": 1
 }
