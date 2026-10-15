@@ -31,12 +31,12 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "1.929",
+        "EPS Estimate": "1.933",
         "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.306e+10",
+        "Revenue Estimate": "1.307e+10",
         "Ticker": "AMD"
       },
       "end": "2026-11-04",
@@ -109,7 +109,7 @@
       "category": "earnings",
       "description": {
         "Company": "Alphabet Inc.",
-        "EPS Estimate": "3.008",
+        "EPS Estimate": "2.966",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -140,7 +140,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "6.334e+10",
+        "Revenue Estimate": "6.335e+10",
         "Ticker": "META"
       },
       "end": "2026-10-22",
@@ -166,7 +166,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "9.07e+10",
+        "Revenue Estimate": "9.071e+10",
         "Ticker": "MSFT"
       },
       "end": "2026-10-29",
@@ -239,12 +239,12 @@
       "category": "earnings",
       "description": {
         "Company": "Taiwan Semiconductor Manufactur",
-        "EPS Estimate": "4.524",
+        "EPS Estimate": "5.077",
         "Earnings Date": "2026-10-15",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.46e+12",
+        "Revenue Estimate": "1.7e+12",
         "Ticker": "TSM"
       },
       "end": "2026-10-16",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2026Q4@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-15T04:18:58+00:00",
+  "updated_at": "2026-10-15T16:29:23+00:00",
   "version": 1
 }
