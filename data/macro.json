@@ -221,23 +221,6 @@
       "category": "macro",
       "description": {
         "Event": "Federal Open Market Committee Meeting",
-        "Meeting": "2026-09-15 to 2026-09-16"
-      },
-      "end": "2026-09-17",
-      "kind": "fomc_meeting",
-      "metadata": {},
-      "scope": "macro:fed",
-      "source": "Federal Reserve Board",
-      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-      "start": "2026-09-15",
-      "summary": "🏦 FOMC 议息会议",
-      "uid": "macro-US-FOMC-MEETING-2026-06@finance-calendar"
-    },
-    {
-      "all_day": true,
-      "category": "macro",
-      "description": {
-        "Event": "Federal Open Market Committee Meeting",
         "Meeting": "2026-10-27 to 2026-10-28"
       },
       "end": "2026-10-29",
@@ -1998,6 +1981,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-15T04:18:58+00:00",
+  "updated_at": "2026-10-16T04:14:22+00:00",
   "version": 1
 }
