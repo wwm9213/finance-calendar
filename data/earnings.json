@@ -114,7 +114,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.276e+11",
+        "Revenue Estimate": "1.277e+11",
         "Ticker": "GOOGL"
       },
       "end": "2026-10-29",
@@ -161,7 +161,7 @@
       "category": "earnings",
       "description": {
         "Company": "Microsoft Corporation",
-        "EPS Estimate": "4.719",
+        "EPS Estimate": "4.718",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -239,15 +239,15 @@
       "category": "earnings",
       "description": {
         "Company": "Taiwan Semiconductor Manufactur",
-        "EPS Estimate": "5.077",
-        "Earnings Date": "2026-10-15",
+        "EPS Estimate": "5.164",
+        "Earnings Date": "2027-01-14",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.7e+12",
+        "Revenue Estimate": "1.702e+12",
         "Ticker": "TSM"
       },
-      "end": "2026-10-16",
+      "end": "2027-01-15",
       "kind": "earnings",
       "metadata": {
         "company": "Taiwan Semiconductor Manufactur",
@@ -256,11 +256,11 @@
       "scope": "earnings:TSM",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/TSM/",
-      "start": "2026-10-15",
+      "start": "2027-01-14",
       "summary": "📊 TSM · Taiwan Semiconductor Manufactur 财报 [TAS]",
-      "uid": "earnings-TSM-2026Q4@finance-calendar"
+      "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-15T16:29:23+00:00",
+  "updated_at": "2026-10-16T16:15:02+00:00",
   "version": 1
 }
