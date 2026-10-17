@@ -373,24 +373,6 @@
       "all_day": false,
       "category": "macro",
       "description": {
-        "Meeting End Date": "2026-09-16",
-        "Reference Period": "2026-06",
-        "Release": "FOMC Statement and Interest Rate Decision"
-      },
-      "end": "2026-09-16T15:00:00-04:00",
-      "kind": "fomc_decision",
-      "metadata": {},
-      "scope": "macro:fed",
-      "source": "Federal Reserve Board",
-      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-      "start": "2026-09-16T14:00:00-04:00",
-      "summary": "🏦 FOMC 利率决议",
-      "uid": "macro-US-FOMC_DECISION-2026-06@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
         "Meeting End Date": "2026-10-28",
         "Reference Period": "2026-07",
         "Release": "FOMC Statement and Interest Rate Decision"
@@ -1862,23 +1844,6 @@
       "all_day": false,
       "category": "macro",
       "description": {
-        "Reference Period": "2026-08",
-        "Release": "Advance Monthly Retail Trade Report, August 2026"
-      },
-      "end": "2026-09-16T09:00:00-04:00",
-      "kind": "retail_sales",
-      "metadata": {},
-      "scope": "macro:census",
-      "source": "U.S. Census Bureau",
-      "source_url": "https://www.census.gov/retail/release_schedule.html",
-      "start": "2026-09-16T08:30:00-04:00",
-      "summary": "🇺🇸 美国零售销售",
-      "uid": "macro-US-RETAIL_SALES-2026-08@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
         "Reference Period": "2026-09",
         "Release": "Advance Monthly Retail Trade Report, September 2026"
       },
@@ -1981,6 +1946,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-16T04:14:22+00:00",
+  "updated_at": "2026-10-17T04:04:34+00:00",
   "version": 1
 }
