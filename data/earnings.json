@@ -140,7 +140,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "6.338e+10",
+        "Revenue Estimate": "6.339e+10",
         "Ticker": "META"
       },
       "end": "2026-10-22",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-17T04:04:34+00:00",
+  "updated_at": "2026-10-18T04:12:03+00:00",
   "version": 1
 }
