@@ -1876,6 +1876,193 @@
       "all_day": false,
       "category": "macro",
       "description": {
+        "Reference Period": "2026-12",
+        "Release": "Advance Monthly Retail Trade Report, December 2026"
+      },
+      "end": "2027-01-15T09:00:00-05:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2027-01-15T08:30:00-05:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2026-12@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-01",
+        "Release": "Advance Monthly Retail Trade Report, January 2027"
+      },
+      "end": "2027-02-17T09:00:00-05:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2027-02-17T08:30:00-05:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2027-01@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-02",
+        "Release": "Advance Monthly Retail Trade Report, February 2027"
+      },
+      "end": "2027-03-16T09:00:00-04:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2027-03-16T08:30:00-04:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2027-02@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-03",
+        "Release": "Advance Monthly Retail Trade Report, March 2027"
+      },
+      "end": "2027-04-16T09:00:00-04:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2027-04-16T08:30:00-04:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2027-03@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-04",
+        "Release": "Advance Monthly Retail Trade Report, April 2027"
+      },
+      "end": "2027-05-14T09:00:00-04:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2027-05-14T08:30:00-04:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2027-04@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-05",
+        "Release": "Advance Monthly Retail Trade Report, May 2027"
+      },
+      "end": "2027-06-16T09:00:00-04:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2027-06-16T08:30:00-04:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2027-05@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-06",
+        "Release": "Advance Monthly Retail Trade Report, June 2027"
+      },
+      "end": "2027-07-16T09:00:00-04:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2027-07-16T08:30:00-04:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2027-06@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-07",
+        "Release": "Advance Monthly Retail Trade Report, July 2027"
+      },
+      "end": "2027-08-16T09:00:00-04:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2027-08-16T08:30:00-04:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2027-07@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-08",
+        "Release": "Advance Monthly Retail Trade Report, August 2027"
+      },
+      "end": "2027-09-16T09:00:00-04:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2027-09-16T08:30:00-04:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2027-08@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-09",
+        "Release": "Advance Monthly Retail Trade Report, September 2027"
+      },
+      "end": "2027-10-15T09:00:00-04:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2027-10-15T08:30:00-04:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2027-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Reference Period": "2027-10",
+        "Release": "Advance Monthly Retail Trade Report, October 2027"
+      },
+      "end": "2027-11-16T09:00:00-05:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2027-11-16T08:30:00-05:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2027-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
         "Indicator": "Unemployment Rate",
         "Reference Period": "2026-09",
         "Release": "Employment Situation for September 2026"
@@ -1927,6 +2114,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-18T04:12:03+00:00",
+  "updated_at": "2026-10-19T18:27:35+00:00",
   "version": 1
 }

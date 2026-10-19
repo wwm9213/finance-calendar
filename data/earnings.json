@@ -31,12 +31,12 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "1.933",
+        "EPS Estimate": "1.934",
         "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.307e+10",
+        "Revenue Estimate": "1.308e+10",
         "Ticker": "AMD"
       },
       "end": "2026-11-04",
@@ -109,12 +109,12 @@
       "category": "earnings",
       "description": {
         "Company": "Alphabet Inc.",
-        "EPS Estimate": "2.968",
+        "EPS Estimate": "2.966",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.277e+11",
+        "Revenue Estimate": "1.278e+11",
         "Ticker": "GOOGL"
       },
       "end": "2026-10-29",
@@ -135,12 +135,12 @@
       "category": "earnings",
       "description": {
         "Company": "Meta Platforms, Inc.",
-        "EPS Estimate": "6.759",
+        "EPS Estimate": "6.802",
         "Earnings Date": "2026-10-21",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "6.339e+10",
+        "Revenue Estimate": "6.34e+10",
         "Ticker": "META"
       },
       "end": "2026-10-22",
@@ -166,7 +166,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "9.071e+10",
+        "Revenue Estimate": "9.072e+10",
         "Ticker": "MSFT"
       },
       "end": "2026-10-29",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-18T04:12:03+00:00",
+  "updated_at": "2026-10-19T18:27:35+00:00",
   "version": 1
 }
