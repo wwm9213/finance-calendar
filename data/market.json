@@ -223,23 +223,6 @@
         "Event": "Quarterly derivatives expiration concentration",
         "Rule": "Third Friday of March, June, September and December"
       },
-      "end": "2026-09-19",
-      "kind": "quadruple_witching",
-      "metadata": {},
-      "scope": "market:quadruple-witching",
-      "source": "Calendar rule",
-      "source_url": "https://www.optionseducation.org/referencelibrary/faq/options-expiration-calendar",
-      "start": "2026-09-18",
-      "summary": "⚠️ 美股四巫日",
-      "uid": "market-US-QUADRUPLE-WITCHING-2026-09@finance-calendar"
-    },
-    {
-      "all_day": true,
-      "category": "market",
-      "description": {
-        "Event": "Quarterly derivatives expiration concentration",
-        "Rule": "Third Friday of March, June, September and December"
-      },
       "end": "2026-12-19",
       "kind": "quadruple_witching",
       "metadata": {},
@@ -302,6 +285,6 @@
       "uid": "market-US-QUADRUPLE-WITCHING-2027-09@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-08T05:45:31+00:00",
+  "updated_at": "2026-10-19T04:21:16+00:00",
   "version": 1
 }
