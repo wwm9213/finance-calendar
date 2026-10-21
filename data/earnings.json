@@ -31,7 +31,7 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "1.934",
+        "EPS Estimate": "1.935",
         "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-20T16:29:47+00:00",
+  "updated_at": "2026-10-21T04:24:20+00:00",
   "version": 1
 }
