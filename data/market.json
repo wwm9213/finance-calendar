@@ -37,6 +37,24 @@
       "uid": "market-US-EARLY-CLOSE-2026-12-24@finance-calendar"
     },
     {
+      "all_day": false,
+      "category": "market",
+      "description": {
+        "Market": "NYSE equities",
+        "Official Close": "2027-11-26 13:00 EST",
+        "Status": "Early Close"
+      },
+      "end": "2027-11-26T13:00:00-05:00",
+      "kind": "early_close",
+      "metadata": {},
+      "scope": "market:nyse",
+      "source": "NYSE schedule via pandas-market-calendars",
+      "source_url": "https://www.nyse.com/markets/hours-calendars",
+      "start": "2027-11-26T12:30:00-05:00",
+      "summary": "⏰ 美股提前收市 · 13:00 ET",
+      "uid": "market-US-EARLY-CLOSE-2027-11-26@finance-calendar"
+    },
+    {
       "all_day": true,
       "category": "market",
       "description": {
@@ -303,6 +321,6 @@
       "uid": "market-US-QUADRUPLE-WITCHING-2027-09@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-21T04:24:20+00:00",
+  "updated_at": "2026-10-22T04:23:25+00:00",
   "version": 1
 }

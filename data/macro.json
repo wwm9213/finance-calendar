@@ -1663,6 +1663,25 @@
       "all_day": false,
       "category": "macro",
       "description": {
+        "Reference Period": "2027-02-06",
+        "Reference Week Ending": "2027-02-06",
+        "Release": "Unemployment Insurance Weekly Claims Report",
+        "Schedule Method": "Normal Thursday 08:30 ET publication pattern"
+      },
+      "end": "2027-02-11T09:00:00-05:00",
+      "kind": "jobless_claims",
+      "metadata": {},
+      "scope": "macro:dol-claims",
+      "source": "U.S. Department of Labor (ETA)",
+      "source_url": "https://www.dol.gov/newsroom/releases/eta",
+      "start": "2027-02-11T08:30:00-05:00",
+      "summary": "🇺🇸 美国初请失业金人数",
+      "uid": "macro-US-JOBLESS_CLAIMS-2027-02-06@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
         "Indicator": "Nonfarm Payrolls",
         "Reference Period": "2026-09",
         "Release": "Employment Situation for September 2026"
@@ -2114,6 +2133,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-19T18:27:35+00:00",
+  "updated_at": "2026-10-22T04:23:25+00:00",
   "version": 1
 }
