@@ -57,7 +57,7 @@
       "category": "earnings",
       "description": {
         "Company": "Amazon.com, Inc.",
-        "EPS Estimate": "1.981",
+        "EPS Estimate": "1.982",
         "Earnings Date": "2026-10-29",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -83,12 +83,12 @@
       "category": "earnings",
       "description": {
         "Company": "Broadcom Inc.",
-        "EPS Estimate": "3.828",
+        "EPS Estimate": "3.83",
         "Earnings Date": "2026-12-09",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "3.489e+10",
+        "Revenue Estimate": "3.49e+10",
         "Ticker": "AVGO"
       },
       "end": "2026-12-10",
@@ -109,7 +109,7 @@
       "category": "earnings",
       "description": {
         "Company": "Alphabet Inc.",
-        "EPS Estimate": "2.964",
+        "EPS Estimate": "2.966",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -135,12 +135,12 @@
       "category": "earnings",
       "description": {
         "Company": "Meta Platforms, Inc.",
-        "EPS Estimate": "8.4",
+        "EPS Estimate": "8.489",
         "Earnings Date": "2026-10-21",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "7.476e+10",
+        "Revenue Estimate": "7.494e+10",
         "Ticker": "META"
       },
       "end": "2026-10-22",
@@ -192,7 +192,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "6.175e+10",
+        "Revenue Estimate": "6.174e+10",
         "Ticker": "MU"
       },
       "end": "2026-12-24",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-22T16:47:35+00:00",
+  "updated_at": "2026-10-23T16:38:41+00:00",
   "version": 1
 }
