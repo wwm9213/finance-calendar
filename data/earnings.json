@@ -5,7 +5,7 @@
       "category": "earnings",
       "description": {
         "Company": "Apple Inc.",
-        "EPS Estimate": "1.982",
+        "EPS Estimate": "1.983",
         "Earnings Date": "2026-11-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -187,7 +187,7 @@
       "category": "earnings",
       "description": {
         "Company": "Micron Technology, Inc.",
-        "EPS Estimate": "38.28",
+        "EPS Estimate": "38.29",
         "Earnings Date": "2026-12-23",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-25T04:21:56+00:00",
+  "updated_at": "2026-10-25T15:42:24+00:00",
   "version": 1
 }
