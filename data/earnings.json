@@ -10,7 +10,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.134e+11",
+        "Revenue Estimate": "1.133e+11",
         "Ticker": "AAPL"
       },
       "end": "2026-11-03",
@@ -83,12 +83,12 @@
       "category": "earnings",
       "description": {
         "Company": "Broadcom Inc.",
-        "EPS Estimate": "3.83",
+        "EPS Estimate": "3.838",
         "Earnings Date": "2026-12-09",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "3.49e+10",
+        "Revenue Estimate": "3.491e+10",
         "Ticker": "AVGO"
       },
       "end": "2026-12-10",
@@ -135,12 +135,12 @@
       "category": "earnings",
       "description": {
         "Company": "Meta Platforms, Inc.",
-        "EPS Estimate": "8.658",
+        "EPS Estimate": "8.554",
         "Earnings Date": "2026-10-21",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "7.498e+10",
+        "Revenue Estimate": "7.507e+10",
         "Ticker": "META"
       },
       "end": "2026-10-22",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-27T04:44:10+00:00",
+  "updated_at": "2026-10-27T17:38:00+00:00",
   "version": 1
 }
