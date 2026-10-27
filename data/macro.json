@@ -1031,6 +1031,24 @@
       "all_day": false,
       "category": "macro",
       "description": {
+        "Reference Period": "2027-12",
+        "Release": "ISM Manufacturing PMI Report",
+        "Schedule Method": "Fallback: ISM first-business-day rule"
+      },
+      "end": "2027-12-01T10:30:00-05:00",
+      "kind": "ism_manufacturing",
+      "metadata": {},
+      "scope": "macro:ism",
+      "source": "Institute for Supply Management (ISM)",
+      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "start": "2027-12-01T10:00:00-05:00",
+      "summary": "🇺🇸 ISM 制造业 PMI",
+      "uid": "macro-US-ISM_MANUFACTURING-2027-12@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
         "Reference Period": "2026-10",
         "Release": "ISM Services PMI Report",
         "Schedule Method": "Fallback: ISM third-business-day rule"
@@ -2114,6 +2132,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-25T04:21:56+00:00",
+  "updated_at": "2026-10-27T04:44:10+00:00",
   "version": 1
 }
