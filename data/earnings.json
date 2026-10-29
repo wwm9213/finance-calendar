@@ -31,7 +31,7 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "1.935",
+        "EPS Estimate": "1.937",
         "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -57,12 +57,12 @@
       "category": "earnings",
       "description": {
         "Company": "Amazon.com, Inc.",
-        "EPS Estimate": "1.989",
+        "EPS Estimate": "1.992",
         "Earnings Date": "2026-10-29",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.022e+11",
+        "Revenue Estimate": "2.023e+11",
         "Ticker": "AMZN"
       },
       "end": "2026-10-30",
@@ -109,12 +109,12 @@
       "category": "earnings",
       "description": {
         "Company": "Alphabet Inc.",
-        "EPS Estimate": "2.966",
+        "EPS Estimate": "3.326",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.279e+11",
+        "Revenue Estimate": "1.428e+11",
         "Ticker": "GOOGL"
       },
       "end": "2026-10-29",
@@ -140,7 +140,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "7.507e+10",
+        "Revenue Estimate": "7.512e+10",
         "Ticker": "META"
       },
       "end": "2026-10-22",
@@ -161,12 +161,12 @@
       "category": "earnings",
       "description": {
         "Company": "Microsoft Corporation",
-        "EPS Estimate": "4.721",
+        "EPS Estimate": "4.817",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "9.074e+10",
+        "Revenue Estimate": "9.565e+10",
         "Ticker": "MSFT"
       },
       "end": "2026-10-29",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-28T17:59:47+00:00",
+  "updated_at": "2026-10-29T05:29:27+00:00",
   "version": 1
 }
