@@ -109,12 +109,12 @@
       "category": "earnings",
       "description": {
         "Company": "Alphabet Inc.",
-        "EPS Estimate": "3.326",
+        "EPS Estimate": "3.341",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.428e+11",
+        "Revenue Estimate": "1.415e+11",
         "Ticker": "GOOGL"
       },
       "end": "2026-10-29",
@@ -135,7 +135,7 @@
       "category": "earnings",
       "description": {
         "Company": "Meta Platforms, Inc.",
-        "EPS Estimate": "8.554",
+        "EPS Estimate": "8.719",
         "Earnings Date": "2026-10-21",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -162,14 +162,14 @@
       "description": {
         "Company": "Microsoft Corporation",
         "EPS Estimate": "4.817",
-        "Earnings Date": "2026-10-28",
+        "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "9.565e+10",
         "Ticker": "MSFT"
       },
-      "end": "2026-10-29",
+      "end": "2027-01-28",
       "kind": "earnings",
       "metadata": {
         "company": "Microsoft Corporation",
@@ -178,9 +178,9 @@
       "scope": "earnings:MSFT",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/MSFT/",
-      "start": "2026-10-28",
+      "start": "2027-01-27",
       "summary": "📊 MSFT · Microsoft Corporation 财报 [TAS]",
-      "uid": "earnings-MSFT-2026Q4@finance-calendar"
+      "uid": "earnings-MSFT-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-29T05:29:27+00:00",
+  "updated_at": "2026-10-29T18:09:20+00:00",
   "version": 1
 }
