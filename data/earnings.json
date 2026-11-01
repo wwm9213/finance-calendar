@@ -57,12 +57,12 @@
       "category": "earnings",
       "description": {
         "Company": "Amazon.com, Inc.",
-        "EPS Estimate": "2.485",
+        "EPS Estimate": "2.514",
         "Earnings Date": "2026-10-29",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.443e+11",
+        "Revenue Estimate": "2.446e+11",
         "Ticker": "AMZN"
       },
       "end": "2026-10-30",
@@ -114,7 +114,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.423e+11",
+        "Revenue Estimate": "1.424e+11",
         "Ticker": "GOOGL"
       },
       "end": "2026-10-29",
@@ -136,14 +136,14 @@
       "description": {
         "Company": "Meta Platforms, Inc.",
         "EPS Estimate": "8.719",
-        "Earnings Date": "2026-10-21",
+        "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "7.516e+10",
         "Ticker": "META"
       },
-      "end": "2026-10-22",
+      "end": "2027-01-28",
       "kind": "earnings",
       "metadata": {
         "company": "Meta Platforms, Inc.",
@@ -152,9 +152,9 @@
       "scope": "earnings:META",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/META/",
-      "start": "2026-10-21",
+      "start": "2027-01-27",
       "summary": "📊 META · Meta Platforms, Inc. 财报 [TAS]",
-      "uid": "earnings-META-2026Q4@finance-calendar"
+      "uid": "earnings-META-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-10-31T05:14:38+00:00",
+  "updated_at": "2026-11-01T05:43:18+00:00",
   "version": 1
 }
