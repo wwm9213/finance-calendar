@@ -57,12 +57,12 @@
       "category": "earnings",
       "description": {
         "Company": "Amazon.com, Inc.",
-        "EPS Estimate": "2.514",
+        "EPS Estimate": "2.453",
         "Earnings Date": "2026-10-29",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.446e+11",
+        "Revenue Estimate": "2.447e+11",
         "Ticker": "AMZN"
       },
       "end": "2026-10-30",
@@ -161,12 +161,12 @@
       "category": "earnings",
       "description": {
         "Company": "Microsoft Corporation",
-        "EPS Estimate": "4.86",
+        "EPS Estimate": "4.858",
         "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "9.663e+10",
+        "Revenue Estimate": "9.666e+10",
         "Ticker": "MSFT"
       },
       "end": "2027-01-28",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-01T05:43:18+00:00",
+  "updated_at": "2026-11-01T17:43:40+00:00",
   "version": 1
 }
