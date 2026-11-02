@@ -352,6 +352,23 @@
       "uid": "macro-US-FOMC-MEETING-2027-07@finance-calendar"
     },
     {
+      "all_day": true,
+      "category": "macro",
+      "description": {
+        "Event": "Federal Open Market Committee Meeting",
+        "Meeting": "2027-12-07 to 2027-12-08"
+      },
+      "end": "2027-12-09",
+      "kind": "fomc_meeting",
+      "metadata": {},
+      "scope": "macro:fed",
+      "source": "Federal Reserve Board",
+      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+      "start": "2027-12-07",
+      "summary": "🏦 FOMC 议息会议",
+      "uid": "macro-US-FOMC-MEETING-2027-08@finance-calendar"
+    },
+    {
       "all_day": false,
       "category": "macro",
       "description": {
@@ -1646,24 +1663,6 @@
       "category": "macro",
       "description": {
         "Indicator": "Nonfarm Payrolls",
-        "Reference Period": "2026-09",
-        "Release": "Employment Situation for September 2026"
-      },
-      "end": "2026-10-02T09:00:00-04:00",
-      "kind": "nfp",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
-      "start": "2026-10-02T08:30:00-04:00",
-      "summary": "🇺🇸 美国非农就业（NFP）",
-      "uid": "macro-US-NFP-2026-09@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Nonfarm Payrolls",
         "Reference Period": "2026-10",
         "Release": "Employment Situation for October 2026"
       },
@@ -2028,24 +2027,6 @@
       "category": "macro",
       "description": {
         "Indicator": "Unemployment Rate",
-        "Reference Period": "2026-09",
-        "Release": "Employment Situation for September 2026"
-      },
-      "end": "2026-10-02T09:00:00-04:00",
-      "kind": "unemployment",
-      "metadata": {},
-      "scope": "macro:bls",
-      "source": "U.S. Bureau of Labor Statistics (BLS)",
-      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
-      "start": "2026-10-02T08:30:00-04:00",
-      "summary": "🇺🇸 美国失业率",
-      "uid": "macro-US-UNEMPLOYMENT-2026-09@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
-        "Indicator": "Unemployment Rate",
         "Reference Period": "2026-10",
         "Release": "Employment Situation for October 2026"
       },
@@ -2078,6 +2059,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-01T05:43:18+00:00",
+  "updated_at": "2026-11-02T05:42:05+00:00",
   "version": 1
 }
