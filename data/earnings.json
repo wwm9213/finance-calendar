@@ -5,15 +5,15 @@
       "category": "earnings",
       "description": {
         "Company": "Apple Inc.",
-        "EPS Estimate": "2.885",
-        "Earnings Date": "2026-11-02",
+        "EPS Estimate": "2.902",
+        "Earnings Date": "2027-01-28",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.531e+11",
+        "Revenue Estimate": "1.557e+11",
         "Ticker": "AAPL"
       },
-      "end": "2026-11-03",
+      "end": "2027-01-29",
       "kind": "earnings",
       "metadata": {
         "company": "Apple Inc.",
@@ -22,16 +22,16 @@
       "scope": "earnings:AAPL",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/AAPL/",
-      "start": "2026-11-02",
+      "start": "2027-01-28",
       "summary": "📊 AAPL · Apple Inc. 财报 [TAS]",
-      "uid": "earnings-AAPL-2026Q4@finance-calendar"
+      "uid": "earnings-AAPL-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "1.94",
+        "EPS Estimate": "1.945",
         "Earnings Date": "2026-11-03",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -109,12 +109,12 @@
       "category": "earnings",
       "description": {
         "Company": "Alphabet Inc.",
-        "EPS Estimate": "3.261",
+        "EPS Estimate": "3.267",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.423e+11",
+        "Revenue Estimate": "1.424e+11",
         "Ticker": "GOOGL"
       },
       "end": "2026-10-29",
@@ -192,7 +192,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "6.174e+10",
+        "Revenue Estimate": "6.183e+10",
         "Ticker": "MU"
       },
       "end": "2026-12-24",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-03T06:23:07+00:00",
+  "updated_at": "2026-11-03T19:12:56+00:00",
   "version": 1
 }
