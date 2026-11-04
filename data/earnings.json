@@ -5,12 +5,12 @@
       "category": "earnings",
       "description": {
         "Company": "Apple Inc.",
-        "EPS Estimate": "2.902",
+        "EPS Estimate": "2.903",
         "Earnings Date": "2027-01-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.557e+11",
+        "Revenue Estimate": "1.556e+11",
         "Ticker": "AAPL"
       },
       "end": "2027-01-29",
@@ -31,15 +31,15 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "1.945",
-        "Earnings Date": "2026-11-03",
+        "EPS Estimate": "2.948",
+        "Earnings Date": "2027-02-02",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.309e+10",
+        "Revenue Estimate": "1.636e+10",
         "Ticker": "AMD"
       },
-      "end": "2026-11-04",
+      "end": "2027-02-03",
       "kind": "earnings",
       "metadata": {
         "company": "Advanced Micro Devices, Inc.",
@@ -48,9 +48,9 @@
       "scope": "earnings:AMD",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/AMD/",
-      "start": "2026-11-03",
+      "start": "2027-02-02",
       "summary": "📊 AMD · Advanced Micro Devices, Inc. 财报 [TAS]",
-      "uid": "earnings-AMD-2026Q4@finance-calendar"
+      "uid": "earnings-AMD-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
@@ -161,7 +161,7 @@
       "category": "earnings",
       "description": {
         "Company": "Microsoft Corporation",
-        "EPS Estimate": "4.803",
+        "EPS Estimate": "4.856",
         "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -244,7 +244,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.705e+12",
+        "Revenue Estimate": "1.708e+12",
         "Ticker": "TSM"
       },
       "end": "2027-01-15",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-03T19:12:56+00:00",
+  "updated_at": "2026-11-04T19:28:34+00:00",
   "version": 1
 }
