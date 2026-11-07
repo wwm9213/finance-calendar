@@ -552,25 +552,6 @@
       "all_day": false,
       "category": "macro",
       "description": {
-        "Meeting End Date": "2026-09-16",
-        "Reference Period": "2026-06",
-        "Release": "FOMC Minutes",
-        "Schedule Method": "Official release date"
-      },
-      "end": "2026-10-07T14:30:00-04:00",
-      "kind": "fomc_minutes",
-      "metadata": {},
-      "scope": "macro:fed",
-      "source": "Federal Reserve Board",
-      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-      "start": "2026-10-07T14:00:00-04:00",
-      "summary": "🏦 FOMC 会议纪要",
-      "uid": "macro-US-FOMC_MINUTES-2026-06@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
         "Meeting End Date": "2026-10-28",
         "Reference Period": "2026-07",
         "Release": "FOMC Minutes",
@@ -2078,6 +2059,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-05T06:20:06+00:00",
+  "updated_at": "2026-11-07T05:41:37+00:00",
   "version": 1
 }
