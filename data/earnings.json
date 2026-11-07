@@ -5,12 +5,12 @@
       "category": "earnings",
       "description": {
         "Company": "Apple Inc.",
-        "EPS Estimate": "2.916",
+        "EPS Estimate": "2.917",
         "Earnings Date": "2027-01-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.561e+11",
+        "Revenue Estimate": "1.565e+11",
         "Ticker": "AAPL"
       },
       "end": "2027-01-29",
@@ -31,12 +31,12 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "2.939",
+        "EPS Estimate": "2.927",
         "Earnings Date": "2027-02-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.683e+10",
+        "Revenue Estimate": "1.706e+10",
         "Ticker": "AMD"
       },
       "end": "2027-02-03",
@@ -62,7 +62,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.447e+11",
+        "Revenue Estimate": "2.448e+11",
         "Ticker": "AMZN"
       },
       "end": "2026-10-30",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-06T18:59:55+00:00",
+  "updated_at": "2026-11-07T17:32:43+00:00",
   "version": 1
 }
