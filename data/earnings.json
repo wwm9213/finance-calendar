@@ -5,12 +5,12 @@
       "category": "earnings",
       "description": {
         "Company": "Apple Inc.",
-        "EPS Estimate": "2.917",
+        "EPS Estimate": "2.914",
         "Earnings Date": "2027-01-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.565e+11",
+        "Revenue Estimate": "1.564e+11",
         "Ticker": "AAPL"
       },
       "end": "2027-01-29",
@@ -31,7 +31,7 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "2.929",
+        "EPS Estimate": "2.927",
         "Earnings Date": "2027-02-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -213,7 +213,7 @@
       "category": "earnings",
       "description": {
         "Company": "NVIDIA Corporation",
-        "EPS Estimate": "2.474",
+        "EPS Estimate": "2.475",
         "Earnings Date": "2026-11-17",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-09T22:00:38+00:00",
+  "updated_at": "2026-11-10T19:25:59+00:00",
   "version": 1
 }
