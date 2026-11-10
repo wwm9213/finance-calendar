@@ -2007,6 +2007,23 @@
       "all_day": false,
       "category": "macro",
       "description": {
+        "Reference Period": "2027-11",
+        "Release": "Advance Monthly Retail Trade Report, November 2027"
+      },
+      "end": "2027-12-15T09:00:00-05:00",
+      "kind": "retail_sales",
+      "metadata": {},
+      "scope": "macro:census",
+      "source": "U.S. Census Bureau",
+      "source_url": "https://www.census.gov/retail/release_schedule.html",
+      "start": "2027-12-15T08:30:00-05:00",
+      "summary": "🇺🇸 美国零售销售",
+      "uid": "macro-US-RETAIL_SALES-2027-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
         "Indicator": "Unemployment Rate",
         "Reference Period": "2026-10",
         "Release": "Employment Situation for October 2026"
@@ -2040,6 +2057,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-08T05:44:41+00:00",
+  "updated_at": "2026-11-10T06:58:53+00:00",
   "version": 1
 }
