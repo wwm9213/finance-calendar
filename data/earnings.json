@@ -5,7 +5,7 @@
       "category": "earnings",
       "description": {
         "Company": "Apple Inc.",
-        "EPS Estimate": "2.914",
+        "EPS Estimate": "2.911",
         "Earnings Date": "2027-01-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-10T19:25:59+00:00",
+  "updated_at": "2026-11-12T19:39:15+00:00",
   "version": 1
 }
