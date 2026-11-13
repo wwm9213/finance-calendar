@@ -62,7 +62,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.448e+11",
+        "Revenue Estimate": "2.449e+11",
         "Ticker": "AMZN"
       },
       "end": "2026-10-30",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-13T06:17:31+00:00",
+  "updated_at": "2026-11-13T19:20:02+00:00",
   "version": 1
 }
