@@ -161,7 +161,7 @@
       "category": "earnings",
       "description": {
         "Company": "Microsoft Corporation",
-        "EPS Estimate": "4.856",
+        "EPS Estimate": "4.858",
         "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -213,12 +213,12 @@
       "category": "earnings",
       "description": {
         "Company": "NVIDIA Corporation",
-        "EPS Estimate": "2.473",
+        "EPS Estimate": "2.471",
         "Earnings Date": "2026-11-17",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "1.088e+11",
+        "Revenue Estimate": "1.087e+11",
         "Ticker": "NVDA"
       },
       "end": "2026-11-18",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-13T19:20:02+00:00",
+  "updated_at": "2026-11-14T05:59:20+00:00",
   "version": 1
 }
