@@ -109,7 +109,7 @@
       "category": "earnings",
       "description": {
         "Company": "Alphabet Inc.",
-        "EPS Estimate": "3.24",
+        "EPS Estimate": "3.253",
         "Earnings Date": "2026-10-28",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -213,7 +213,7 @@
       "category": "earnings",
       "description": {
         "Company": "NVIDIA Corporation",
-        "EPS Estimate": "2.884",
+        "EPS Estimate": "2.88",
         "Earnings Date": "2026-11-17",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-18T20:06:22+00:00",
+  "updated_at": "2026-11-19T20:06:10+00:00",
   "version": 1
 }
