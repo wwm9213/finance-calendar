@@ -256,6 +256,24 @@
       "all_day": true,
       "category": "market",
       "description": {
+        "Holiday": "Christmas",
+        "Market": "NYSE equities",
+        "Status": "Full Market Holiday"
+      },
+      "end": "2027-12-25",
+      "kind": "holiday",
+      "metadata": {},
+      "scope": "market:nyse",
+      "source": "NYSE schedule via pandas-market-calendars",
+      "source_url": "https://www.nyse.com/markets/hours-calendars",
+      "start": "2027-12-24",
+      "summary": "🏛️ 美股休市 · 圣诞节 / Christmas",
+      "uid": "market-US-HOLIDAY-2027-12-24@finance-calendar"
+    },
+    {
+      "all_day": true,
+      "category": "market",
+      "description": {
         "Event": "Quarterly derivatives expiration concentration",
         "Rule": "Third Friday of March, June, September and December"
       },
@@ -338,6 +356,6 @@
       "uid": "market-US-QUADRUPLE-WITCHING-2027-12@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-12T06:55:44+00:00",
+  "updated_at": "2026-11-19T07:02:05+00:00",
   "version": 1
 }
