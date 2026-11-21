@@ -62,7 +62,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "2.449e+11",
+        "Revenue Estimate": "2.45e+11",
         "Ticker": "AMZN"
       },
       "end": "2026-10-30",
@@ -83,12 +83,12 @@
       "category": "earnings",
       "description": {
         "Company": "Broadcom Inc.",
-        "EPS Estimate": "3.838",
+        "EPS Estimate": "3.83",
         "Earnings Date": "2026-12-09",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "3.491e+10",
+        "Revenue Estimate": "3.49e+10",
         "Ticker": "AVGO"
       },
       "end": "2026-12-10",
@@ -187,12 +187,12 @@
       "category": "earnings",
       "description": {
         "Company": "Micron Technology, Inc.",
-        "EPS Estimate": "38.29",
+        "EPS Estimate": "38.22",
         "Earnings Date": "2026-12-17",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "6.183e+10",
+        "Revenue Estimate": "6.172e+10",
         "Ticker": "MU"
       },
       "end": "2026-12-18",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-20T06:54:35+00:00",
+  "updated_at": "2026-11-21T06:49:34+00:00",
   "version": 1
 }
