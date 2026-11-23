@@ -161,7 +161,7 @@
       "category": "earnings",
       "description": {
         "Company": "Microsoft Corporation",
-        "EPS Estimate": "4.856",
+        "EPS Estimate": "4.855",
         "Earnings Date": "2027-01-27",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -187,12 +187,12 @@
       "category": "earnings",
       "description": {
         "Company": "Micron Technology, Inc.",
-        "EPS Estimate": "38.22",
+        "EPS Estimate": "38.24",
         "Earnings Date": "2026-12-17",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "6.172e+10",
+        "Revenue Estimate": "6.174e+10",
         "Ticker": "MU"
       },
       "end": "2026-12-18",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-21T06:49:34+00:00",
+  "updated_at": "2026-11-23T23:31:36+00:00",
   "version": 1
 }
