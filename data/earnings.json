@@ -58,14 +58,14 @@
       "description": {
         "Company": "Amazon.com, Inc.",
         "EPS Estimate": "2.491",
-        "Earnings Date": "2026-10-29",
+        "Earnings Date": "2027-02-04",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "2.45e+11",
         "Ticker": "AMZN"
       },
-      "end": "2026-10-30",
+      "end": "2027-02-05",
       "kind": "earnings",
       "metadata": {
         "company": "Amazon.com, Inc.",
@@ -74,9 +74,9 @@
       "scope": "earnings:AMZN",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/AMZN/",
-      "start": "2026-10-29",
+      "start": "2027-02-04",
       "summary": "📊 AMZN · Amazon.com, Inc. 财报 [TAS]",
-      "uid": "earnings-AMZN-2026Q4@finance-calendar"
+      "uid": "earnings-AMZN-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
@@ -110,14 +110,14 @@
       "description": {
         "Company": "Alphabet Inc.",
         "EPS Estimate": "3.253",
-        "Earnings Date": "2026-10-28",
+        "Earnings Date": "2027-02-03",
         "Earnings Time": "TAS",
-        "Fiscal Quarter": "2026Q4",
+        "Fiscal Quarter": "2027Q1",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
         "Revenue Estimate": "1.423e+11",
         "Ticker": "GOOGL"
       },
-      "end": "2026-10-29",
+      "end": "2027-02-04",
       "kind": "earnings",
       "metadata": {
         "company": "Alphabet Inc.",
@@ -126,9 +126,9 @@
       "scope": "earnings:GOOGL",
       "source": "Yahoo Finance via yfinance",
       "source_url": "https://finance.yahoo.com/quote/GOOGL/",
-      "start": "2026-10-28",
+      "start": "2027-02-03",
       "summary": "📊 GOOGL · Alphabet Inc. 财报 [TAS]",
-      "uid": "earnings-GOOGL-2026Q4@finance-calendar"
+      "uid": "earnings-GOOGL-2027Q1@finance-calendar"
     },
     {
       "all_day": true,
@@ -187,12 +187,12 @@
       "category": "earnings",
       "description": {
         "Company": "Micron Technology, Inc.",
-        "EPS Estimate": "38.24",
+        "EPS Estimate": "38.25",
         "Earnings Date": "2026-12-17",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "6.174e+10",
+        "Revenue Estimate": "6.176e+10",
         "Ticker": "MU"
       },
       "end": "2026-12-18",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-24T09:36:44+00:00",
+  "updated_at": "2026-11-24T22:00:31+00:00",
   "version": 1
 }
