@@ -31,7 +31,7 @@
       "category": "earnings",
       "description": {
         "Company": "Advanced Micro Devices, Inc.",
-        "EPS Estimate": "2.928",
+        "EPS Estimate": "2.931",
         "Earnings Date": "2027-02-02",
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2027Q1",
@@ -88,7 +88,7 @@
         "Earnings Time": "TAS",
         "Fiscal Quarter": "2026Q4",
         "Fiscal Quarter Source": "calendar-quarter fallback; Yahoo does not expose a fiscal period here",
-        "Revenue Estimate": "3.49e+10",
+        "Revenue Estimate": "3.491e+10",
         "Ticker": "AVGO"
       },
       "end": "2026-12-10",
@@ -261,6 +261,6 @@
       "uid": "earnings-TSM-2027Q1@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-24T22:00:31+00:00",
+  "updated_at": "2026-11-25T21:14:06+00:00",
   "version": 1
 }
