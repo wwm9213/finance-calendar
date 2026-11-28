@@ -29,11 +29,11 @@ DTSTAMP:20261119T070205Z
 UID:market-US-EARLY-CLOSE-2026-11-27@finance-calendar
 CATEGORIES:MARKET,EARLY_CLOSE
 DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 提前收
- 市\n正式收市时间: 2026-11-27 13:00（美国东部时间 EST）\n本
- 地时间（Asia/Shanghai）: 2026-11-28 01:30 CST\n来源: 纽约证券
- 交易所日程（通过 pandas-market-calendars）\n来源链接: https:/
- /www.nyse.com/markets/hours-calendars\n最后更新: 2026-11-19T07:02:05+0
- 0:00
+ 市\n正式收市时间: 2026-11-27 13:00（美国东部时间 EST）\n美
+ 国东部时间: 2026-11-27 12:30 EST\n北京时间: 2026-11-28 01:30\n来
+ 源: 纽约证券交易所日程（通过 pandas-market-calendars）\n来
+ 源链接: https://www.nyse.com/markets/hours-calendars\n最后更新: 202
+ 6-11-19T07:02:05+00:00
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
 BEGIN:VEVENT
@@ -59,11 +59,11 @@ DTSTAMP:20261119T070205Z
 UID:market-US-EARLY-CLOSE-2026-12-24@finance-calendar
 CATEGORIES:MARKET,EARLY_CLOSE
 DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 提前收
- 市\n正式收市时间: 2026-12-24 13:00（美国东部时间 EST）\n本
- 地时间（Asia/Shanghai）: 2026-12-25 01:30 CST\n来源: 纽约证券
- 交易所日程（通过 pandas-market-calendars）\n来源链接: https:/
- /www.nyse.com/markets/hours-calendars\n最后更新: 2026-11-19T07:02:05+0
- 0:00
+ 市\n正式收市时间: 2026-12-24 13:00（美国东部时间 EST）\n美
+ 国东部时间: 2026-12-24 12:30 EST\n北京时间: 2026-12-25 01:30\n来
+ 源: 纽约证券交易所日程（通过 pandas-market-calendars）\n来
+ 源链接: https://www.nyse.com/markets/hours-calendars\n最后更新: 202
+ 6-11-19T07:02:05+00:00
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
 BEGIN:VEVENT
@@ -260,11 +260,11 @@ DTSTAMP:20261119T070205Z
 UID:market-US-EARLY-CLOSE-2027-11-26@finance-calendar
 CATEGORIES:MARKET,EARLY_CLOSE
 DESCRIPTION:市场: 纽约证券交易所股票市场\n状态: 提前收
- 市\n正式收市时间: 2027-11-26 13:00（美国东部时间 EST）\n本
- 地时间（Asia/Shanghai）: 2027-11-27 01:30 CST\n来源: 纽约证券
- 交易所日程（通过 pandas-market-calendars）\n来源链接: https:/
- /www.nyse.com/markets/hours-calendars\n最后更新: 2026-11-19T07:02:05+0
- 0:00
+ 市\n正式收市时间: 2027-11-26 13:00（美国东部时间 EST）\n美
+ 国东部时间: 2027-11-26 12:30 EST\n北京时间: 2027-11-27 01:30\n来
+ 源: 纽约证券交易所日程（通过 pandas-market-calendars）\n来
+ 源链接: https://www.nyse.com/markets/hours-calendars\n最后更新: 202
+ 6-11-19T07:02:05+00:00
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
 BEGIN:VEVENT
