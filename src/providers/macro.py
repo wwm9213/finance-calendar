@@ -8,11 +8,10 @@ import requests
 from src.config import AppConfig
 from src.models import CalendarEvent, FetchResult, merge_scoped_events
 from src.providers.bea import BEA_SCOPE, BEA_URL, parse_bea_schedule
-from src.providers.bls import BLS_ICS_URL, BLS_SCOPE, parse_bls_ics
+from src.providers.bls import BLS_SCOPE, fetch_bls_schedules
 from src.providers.census import CENSUS_SCOPE, CENSUS_URL, parse_retail_schedule
 from src.providers.fed import FED_SCOPE, FED_URL, parse_fomc_calendar
-from src.providers.fred import fetch_fred_bls_fallback
-from src.providers.ism import ISM_SCOPE, ISM_URL, derived_ism_schedule, parse_ism_schedule
+from src.providers.ism import ISM_OFFICIAL, ISM_SCOPE, ISM_URL, derived_ism_schedule, parse_ism_schedule
 from src.providers.recurring import DOL_SCOPE, initial_claims_schedule
 from src.utils.http import get_text
 
@@ -97,58 +96,50 @@ def fetch_macro_events(
         if offline:
             failed[BLS_SCOPE] = "offline mode"
         else:
-            try:
-                payload = get_text(
-                    session,
-                    BLS_ICS_URL,
-                    timeout=config.request_timeout_seconds,
-                    accept="text/calendar,*/*;q=0.8",
-                )
-                fresh.extend(parse_bls_ics(payload, config))
+            events, errors = fetch_bls_schedules(session, config)
+            if events:
+                # A shorter feed or one failed table must not erase other UIDs.
+                by_uid = {
+                    event.uid: event for event in cached
+                    if event.scope == BLS_SCOPE and config.macro[event.kind]
+                }
+                by_uid.update((event.uid, event) for event in events)
+                fresh.extend(by_uid.values())
                 successful.add(BLS_SCOPE)
-            except Exception as primary_exc:
-                try:
-                    fresh.extend(
-                        fetch_fred_bls_fallback(
-                            session,
-                            config,
-                            start_year=range_start.year,
-                            end_year=range_end.year,
-                        )
-                    )
-                    successful.add(BLS_SCOPE)
-                    message = (
-                        f"{BLS_SCOPE} official ICS unavailable ({type(primary_exc).__name__}: "
-                        f"{primary_exc}); used FRED's BLS-supplied release calendar"
-                    )
-                    warnings.append(message)
-                except Exception as fallback_exc:
-                    message = (
-                        f"{BLS_SCOPE} failed: primary={type(primary_exc).__name__}: {primary_exc}; "
-                        f"fallback={type(fallback_exc).__name__}: {fallback_exc}"
-                    )
-                    failed[BLS_SCOPE] = message
-                    warnings.append(message)
+            else:
+                failed[BLS_SCOPE] = "; ".join(errors) or "no enabled releases"
+            if errors:
+                status = "partial source refresh" if events else "cached dates retained"
+                warnings.append(f"{BLS_SCOPE} {status}: {'; '.join(errors)}")
     run_remote(BEA_SCOPE, BEA_URL, parse_bea_schedule)
     run_remote(CENSUS_SCOPE, CENSUS_URL, parse_retail_schedule)
     run_remote(FED_SCOPE, FED_URL, parse_fomc_calendar)
 
     if ISM_SCOPE in enabled_scopes:
+        # Rules fill only uncovered UIDs. Confirmed dates survive blocked or
+        # partial official pages, and newly published official rows win.
+        by_uid = {
+            event.uid: event
+            for event in derived_ism_schedule(config, range_start.year, range_end.year)
+        }
+        by_uid.update(
+            (event.uid, event) for event in cached
+            if event.scope == ISM_SCOPE and config.macro[event.kind]
+            and event.description.get("Schedule Method") == ISM_OFFICIAL
+        )
         try:
             if offline:
                 raise RuntimeError("offline mode")
             payload = get_text(session, ISM_URL, timeout=config.request_timeout_seconds)
-            fresh.extend(parse_ism_schedule(payload, config))
-            successful.add(ISM_SCOPE)
+            official = parse_ism_schedule(payload, config)
+            by_uid.update((event.uid, event) for event in official)
         except Exception as exc:
-            fallback = derived_ism_schedule(config, range_start.year, range_end.year)
-            fresh.extend(fallback)
-            successful.add(ISM_SCOPE)
-            message = (
+            warnings.append(
                 f"{ISM_SCOPE} official table unavailable ({type(exc).__name__}: {exc}); "
-                "used the published first/third-business-day rule"
+                "kept confirmed dates and filled uncovered months by rule"
             )
-            warnings.append(message)
+        fresh.extend(by_uid.values())
+        successful.add(ISM_SCOPE)
 
     if DOL_SCOPE in enabled_scopes:
         fresh.extend(initial_claims_schedule(today, config))

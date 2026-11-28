@@ -4,11 +4,14 @@ import re
 from datetime import date, datetime, time, timedelta, timezone
 from pathlib import Path
 from typing import Any, Iterable
+from zoneinfo import ZoneInfo
 
 from icalendar import Calendar, Event, vDuration
 
 from src.models import CalendarEvent, event_sort_key
-from src.utils.timezone import display_time
+from src.utils.timezone import EASTERN, display_time
+
+BEIJING = ZoneInfo("Asia/Shanghai")
 
 CALENDAR_TITLES = {
     "macro": "宏观经济",
@@ -208,7 +211,11 @@ def _description_text(
         if value not in (None, "")
     ]
     if not event.all_day and isinstance(event.start, datetime):
-        lines.append(f"本地时间（{timezone_name}）: {display_time(event.start, timezone_name)}")
+        eastern = display_time(event.start, EASTERN.key)
+        beijing = event.start.astimezone(BEIJING).strftime("%Y-%m-%d %H:%M")
+        lines.extend([f"美国东部时间: {eastern}", f"北京时间: {beijing}"])
+        if timezone_name not in {EASTERN.key, BEIJING.key}:
+            lines.append(f"本地时间（{timezone_name}）: {display_time(event.start, timezone_name)}")
     lines.extend(
         [
             f"来源: {SOURCE_NAMES.get(event.source, event.source)}",
