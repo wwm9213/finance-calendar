@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261029T123000Z
 DTEND:20261029T130000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2026-10-24@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -19,14 +19,14 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2026-10-29 08:3
  0 EDT\n北京时间: 2026-10-29 20:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20261102T150000Z
 DTEND:20261102T153000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_MANUFACTURING-2026-11@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2026-
@@ -34,7 +34,7 @@ DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2026-
  国东部时间: 2026-11-02 10:00 EST\n北京时间: 2026-11-02 23:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -42,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20261104T150000Z
 DTEND:20261104T153000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_SERVICES-2026-11@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2026-
@@ -50,7 +50,7 @@ DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2026-
  国东部时间: 2026-11-04 10:00 EST\n北京时间: 2026-11-04 23:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261105T133000Z
 DTEND:20261105T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2026-10-31@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -66,70 +66,70 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2026-11-05 08:3
  0 EST\n北京时间: 2026-11-05 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国非农就业（NFP）
 DTSTART:20261106T133000Z
 DTEND:20261106T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-NFP-2026-10@finance-calendar
 CATEGORIES:MACRO,NFP
 DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
  ，2026年十月\n数据所属期: 2026-10\n美国东部时间: 2026-11-06
   08:30 EST\n北京时间: 2026-11-06 21:30\n来源: 美国劳工统计局
  （BLS）\n来源链接: https://www.bls.gov/schedule/news_release/empsit.
- htm\n最后更新: 2026-11-28T07:28:07+00:00
+ htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国失业率
 DTSTART:20261106T133000Z
 DTEND:20261106T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-UNEMPLOYMENT-2026-10@finance-calendar
 CATEGORIES:MACRO,UNEMPLOYMENT
 DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2026年
  十月\n数据所属期: 2026-10\n美国东部时间: 2026-11-06 08:30 EST
  \n北京时间: 2026-11-06 21:30\n来源: 美国劳工统计局（BLS）\n
  来源链接: https://www.bls.gov/schedule/news_release/empsit.htm\n最后
- 更新: 2026-11-28T07:28:07+00:00
+ 更新: 2026-11-28T17:23:25+00:00
 URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国核心 CPI
 DTSTART:20261110T133000Z
 DTEND:20261110T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-CORE_CPI-2026-10@finance-calendar
 CATEGORIES:MACRO,CORE_CPI
 DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
  价格指数，2026年十月\n数据所属期: 2026-10\n美国东部时间
  : 2026-11-10 08:30 EST\n北京时间: 2026-11-10 21:30\n来源: 美国劳
  工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
- ease/cpi.htm\n最后更新: 2026-11-28T07:28:07+00:00
+ ease/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国 CPI
 DTSTART:20261110T133000Z
 DTEND:20261110T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-CPI-2026-10@finance-calendar
 CATEGORIES:MACRO,CPI
 DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
  指数，2026年十月\n数据所属期: 2026-10\n美国东部时间: 2026
  -11-10 08:30 EST\n北京时间: 2026-11-10 21:30\n来源: 美国劳工统
  计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/c
- pi.htm\n最后更新: 2026-11-28T07:28:07+00:00
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261112T133000Z
 DTEND:20261112T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2026-11-07@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -137,35 +137,35 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2026-11-12 08:3
  0 EST\n北京时间: 2026-11-12 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国核心 PPI
 DTSTART:20261113T133000Z
 DTEND:20261113T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-CORE_PPI-2026-10@finance-calendar
 CATEGORIES:MACRO,CORE_PPI
 DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
  价格指数，2026年十月\n数据所属期: 2026-10\n美国东部时间
  : 2026-11-13 08:30 EST\n北京时间: 2026-11-13 21:30\n来源: 美国劳
  工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
- ease/ppi.htm\n最后更新: 2026-11-28T07:28:07+00:00
+ ease/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国 PPI
 DTSTART:20261113T133000Z
 DTEND:20261113T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-PPI-2026-10@finance-calendar
 CATEGORIES:MACRO,PPI
 DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
  指数，2026年十月\n数据所属期: 2026-10\n美国东部时间: 2026
  -11-13 08:30 EST\n北京时间: 2026-11-13 21:30\n来源: 美国劳工统
  计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/p
- pi.htm\n最后更新: 2026-11-28T07:28:07+00:00
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
@@ -188,28 +188,28 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20261117T133000Z
 DTEND:20261117T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-RETAIL_SALES-2026-10@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2026年十月\n
  数据所属期: 2026-10\n美国东部时间: 2026-11-17 08:30 EST\n北京
  时间: 2026-11-17 21:30\n来源: 美国人口普查局\n来源链接: htt
  ps://www.census.gov/retail/release_schedule.html\n最后更新: 2026-11-28
- T07:28:07+00:00
+ T17:23:25+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20261118T190000Z
 DTEND:20261118T193000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_MINUTES-2026-07@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2026-07\n会
  议结束日期: 2026-10-28\n日期确定方式: 官方发布日期\n美
  国东部时间: 2026-11-18 14:00 EST\n北京时间: 2026-11-19 03:00\n来
  源: 美国联邦储备委员会\n来源链接: https://www.federalreserve
- .gov/monetarypolicy/fomccalendars.htm\n最后更新: 2026-11-28T07:28:07+0
+ .gov/monetarypolicy/fomccalendars.htm\n最后更新: 2026-11-28T17:23:25+0
  0:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261119T133000Z
 DTEND:20261119T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2026-11-14@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -225,14 +225,14 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2026-11-19 08:3
  0 EST\n北京时间: 2026-11-19 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261125T133000Z
 DTEND:20261125T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2026-11-21@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -240,7 +240,7 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  四发布；遇联邦假日提前一天\n美国东部时间: 2026-11-25 08
  :30 EST\n北京时间: 2026-11-25 21:30\n来源: 美国劳工部就业与
  培训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/relea
- ses/eta\n最后更新: 2026-11-28T07:28:07+00:00
+ ses/eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
@@ -276,23 +276,23 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20261201T150000Z
 DTEND:20261201T153000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_MANUFACTURING-2026-12@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2026-
- 12\n日期确定方式: 备用规则：ISM 每月第一个工作日\n美
+ 12\n日期确定方式: ISM 官方公告（由 PR Newswire 发布）\n美
  国东部时间: 2026-12-01 10:00 EST\n北京时间: 2026-12-01 23:00\n来
- 源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
- .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
-URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
- b-report-calendar/
+ 源: 美国供应管理协会（ISM）\n来源链接: https://www.prnewswi
+ re.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufactur
+ ing-pmi-report-302925617.html\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-oct
+ ober-2026-ism-manufacturing-pmi-report-302925617.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261203T133000Z
 DTEND:20261203T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2026-11-28@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -300,64 +300,64 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2026-12-03 08:3
  0 EST\n北京时间: 2026-12-03 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20261203T150000Z
 DTEND:20261203T153000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_SERVICES-2026-12@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2026-
- 12\n日期确定方式: 备用规则：ISM 每月第三个工作日\n美
+ 12\n日期确定方式: ISM 官方公告（由 PR Newswire 发布）\n美
  国东部时间: 2026-12-03 10:00 EST\n北京时间: 2026-12-03 23:00\n来
- 源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
- .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
-URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
- b-report-calendar/
+ 源: 美国供应管理协会（ISM）\n来源链接: https://www.prnewswi
+ re.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-re
+ port-302928112.html\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-
+ 2026-ism-services-pmi-report-302928112.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国非农就业（NFP）
 DTSTART:20261204T133000Z
 DTEND:20261204T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-NFP-2026-11@finance-calendar
 CATEGORIES:MACRO,NFP
 DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
  ，2026年十一月\n数据所属期: 2026-11\n美国东部时间: 2026-12
  -04 08:30 EST\n北京时间: 2026-12-04 21:30\n来源: 美国劳工统计
  局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/emps
- it.htm\n最后更新: 2026-11-28T07:28:07+00:00
+ it.htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国失业率
 DTSTART:20261204T133000Z
 DTEND:20261204T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-UNEMPLOYMENT-2026-11@finance-calendar
 CATEGORIES:MACRO,UNEMPLOYMENT
 DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2026年
  十一月\n数据所属期: 2026-11\n美国东部时间: 2026-12-04 08:30 
  EST\n北京时间: 2026-12-04 21:30\n来源: 美国劳工统计局（BLS
  ）\n来源链接: https://www.bls.gov/schedule/news_release/empsit.htm\n
- 最后更新: 2026-11-28T07:28:07+00:00
+ 最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC-MEETING-2026-08@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2026-
  12-08 至 2026-12-09\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-28T07:28:07+00:00
+ 新: 2026-11-28T17:23:25+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -381,49 +381,49 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20261209T190000Z
 DTEND:20261209T200000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_DECISION-2026-08@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  6-08\n会议结束日期: 2026-12-09\n美国东部时间: 2026-12-09 14:00
   EST\n北京时间: 2026-12-10 03:00\n来源: 美国联邦储备委员会\
  n来源链接: https://www.federalreserve.gov/monetarypolicy/fomccalendars
- .htm\n最后更新: 2026-11-28T07:28:07+00:00
+ .htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国核心 CPI
 DTSTART:20261210T133000Z
 DTEND:20261210T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-CORE_CPI-2026-11@finance-calendar
 CATEGORIES:MACRO,CORE_CPI
 DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
  价格指数，2026年十一月\n数据所属期: 2026-11\n美国东部时
  间: 2026-12-10 08:30 EST\n北京时间: 2026-12-10 21:30\n来源: 美国
  劳工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_
- release/cpi.htm\n最后更新: 2026-11-28T07:28:07+00:00
+ release/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国 CPI
 DTSTART:20261210T133000Z
 DTEND:20261210T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-CPI-2026-11@finance-calendar
 CATEGORIES:MACRO,CPI
 DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
  指数，2026年十一月\n数据所属期: 2026-11\n美国东部时间: 2
  026-12-10 08:30 EST\n北京时间: 2026-12-10 21:30\n来源: 美国劳工
  统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_releas
- e/cpi.htm\n最后更新: 2026-11-28T07:28:07+00:00
+ e/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261210T133000Z
 DTEND:20261210T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2026-12-05@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -431,49 +431,49 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2026-12-10 08:3
  0 EST\n北京时间: 2026-12-10 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国核心 PPI
 DTSTART:20261215T133000Z
 DTEND:20261215T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-CORE_PPI-2026-11@finance-calendar
 CATEGORIES:MACRO,CORE_PPI
 DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
  价格指数，2026年十一月\n数据所属期: 2026-11\n美国东部时
  间: 2026-12-15 08:30 EST\n北京时间: 2026-12-15 21:30\n来源: 美国
  劳工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_
- release/ppi.htm\n最后更新: 2026-11-28T07:28:07+00:00
+ release/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国 PPI
 DTSTART:20261215T133000Z
 DTEND:20261215T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-PPI-2026-11@finance-calendar
 CATEGORIES:MACRO,PPI
 DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
  指数，2026年十一月\n数据所属期: 2026-11\n美国东部时间: 2
  026-12-15 08:30 EST\n北京时间: 2026-12-15 21:30\n来源: 美国劳工
  统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_releas
- e/ppi.htm\n最后更新: 2026-11-28T07:28:07+00:00
+ e/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20261216T133000Z
 DTEND:20261216T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-RETAIL_SALES-2026-11@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2026年十一
  月\n数据所属期: 2026-11\n美国东部时间: 2026-12-16 08:30 EST\n
  北京时间: 2026-12-16 21:30\n来源: 美国人口普查局\n来源链
  接: https://www.census.gov/retail/release_schedule.html\n最后更新: 20
- 26-11-28T07:28:07+00:00
+ 26-11-28T17:23:25+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
@@ -496,7 +496,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261217T133000Z
 DTEND:20261217T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2026-12-12@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -504,7 +504,7 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2026-12-17 08:3
  0 EST\n北京时间: 2026-12-17 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
@@ -526,21 +526,21 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国核心 PCE
 DTSTART:20261223T133000Z
 DTEND:20261223T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-CORE_PCE-2026-11@finance-calendar
 CATEGORIES:MACRO,CORE_PCE
 DESCRIPTION:指标: 核心 PCE 物价指数\n发布项目: 个人收入与
  支出，2026年十一月\n数据所属期: 2026-11\n美国东部时间: 2
  026-12-23 08:30 EST\n北京时间: 2026-12-23 21:30\n来源: 美国经济
  分析局（BEA）\n来源链接: https://www.bea.gov/news/schedule\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.bea.gov/news/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国 GDP · Third Estimate
 DTSTART:20261223T133000Z
 DTEND:20261223T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-GDP-2026-Q3-third-estimate@finance-calendar
 CATEGORIES:MACRO,GDP
 DESCRIPTION:发布项目: 国内生产总值（GDP）终值，行业数据
@@ -548,28 +548,28 @@ DESCRIPTION:发布项目: 国内生产总值（GDP）终值，行业数据
  \n估值阶段: 终值\n数据所属期: 2026-Q3-third-estimate\n美国东
  部时间: 2026-12-23 08:30 EST\n北京时间: 2026-12-23 21:30\n来源: 
  美国经济分析局（BEA）\n来源链接: https://www.bea.gov/news/sch
- edule\n最后更新: 2026-11-28T07:28:07+00:00
+ edule\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.bea.gov/news/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国 PCE
 DTSTART:20261223T133000Z
 DTEND:20261223T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-PCE-2026-11@finance-calendar
 CATEGORIES:MACRO,PCE
 DESCRIPTION:指标: PCE 物价指数\n发布项目: 个人收入与支出
  ，2026年十一月\n数据所属期: 2026-11\n美国东部时间: 2026-12
  -23 08:30 EST\n北京时间: 2026-12-23 21:30\n来源: 美国经济分析
  局（BEA）\n来源链接: https://www.bea.gov/news/schedule\n最后更
- 新: 2026-11-28T07:28:07+00:00
+ 新: 2026-11-28T17:23:25+00:00
 URL:https://www.bea.gov/news/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261224T133000Z
 DTEND:20261224T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2026-12-19@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -577,7 +577,7 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2026-12-24 08:3
  0 EST\n北京时间: 2026-12-24 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
@@ -613,7 +613,7 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20261230T190000Z
 DTEND:20261230T193000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_MINUTES-2026-08@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2026-08\n会
@@ -621,14 +621,14 @@ DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2026-08\n会
  布规则\n美国东部时间: 2026-12-30 14:00 EST\n北京时间: 2026-12
  -31 03:00\n来源: 美国联邦储备委员会\n来源链接: https://www.
  federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 2026-11
- -28T07:28:07+00:00
+ -28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20261231T133000Z
 DTEND:20261231T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2026-12-26@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -636,7 +636,7 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2026-12-31 08:3
  0 EST\n北京时间: 2026-12-31 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
@@ -657,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270104T150000Z
 DTEND:20270104T153000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_MANUFACTURING-2027-01@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
@@ -665,7 +665,7 @@ DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-01-04 10:00 EST\n北京时间: 2027-01-04 23:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -673,7 +673,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270106T150000Z
 DTEND:20270106T153000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_SERVICES-2027-01@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
@@ -681,7 +681,7 @@ DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-01-06 10:00 EST\n北京时间: 2027-01-06 23:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -689,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270107T133000Z
 DTEND:20270107T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2027-01-02@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -697,8 +697,64 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2027-01-07 08:3
  0 EST\n北京时间: 2027-01-07 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国非农就业（NFP）
+DTSTART:20270108T133000Z
+DTEND:20270108T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-NFP-2026-12@finance-calendar
+CATEGORIES:MACRO,NFP
+DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
+ ，2026年十二月\n数据所属期: 2026-12\n美国东部时间: 2027-01
+ -08 08:30 EST\n北京时间: 2027-01-08 21:30\n来源: 美国劳工统计
+ 局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/emps
+ it.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国失业率
+DTSTART:20270108T133000Z
+DTEND:20270108T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-UNEMPLOYMENT-2026-12@finance-calendar
+CATEGORIES:MACRO,UNEMPLOYMENT
+DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2026年
+ 十二月\n数据所属期: 2026-12\n美国东部时间: 2027-01-08 08:30 
+ EST\n北京时间: 2027-01-08 21:30\n来源: 美国劳工统计局（BLS
+ ）\n来源链接: https://www.bls.gov/schedule/news_release/empsit.htm\n
+ 最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 CPI
+DTSTART:20270113T133000Z
+DTEND:20270113T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_CPI-2026-12@finance-calendar
+CATEGORIES:MACRO,CORE_CPI
+DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
+ 价格指数，2026年十二月\n数据所属期: 2026-12\n美国东部时
+ 间: 2027-01-13 08:30 EST\n北京时间: 2027-01-13 21:30\n来源: 美国
+ 劳工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_
+ release/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 CPI
+DTSTART:20270113T133000Z
+DTEND:20270113T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CPI-2026-12@finance-calendar
+CATEGORIES:MACRO,CPI
+DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
+ 指数，2026年十二月\n数据所属期: 2026-12\n美国东部时间: 2
+ 027-01-13 08:30 EST\n北京时间: 2027-01-13 21:30\n来源: 美国劳工
+ 统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_releas
+ e/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📊 TSM · Taiwan Semiconductor Manufactur 财报 [TAS]
@@ -717,10 +773,24 @@ TRANSP:TRANSPARENT
 URL:https://finance.yahoo.com/quote/TSM/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PPI
+DTSTART:20270114T133000Z
+DTEND:20270114T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_PPI-2026-12@finance-calendar
+CATEGORIES:MACRO,CORE_PPI
+DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
+ 价格指数，2026年十二月\n数据所属期: 2026-12\n美国东部时
+ 间: 2027-01-14 08:30 EST\n北京时间: 2027-01-14 21:30\n来源: 美国
+ 劳工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_
+ release/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270114T133000Z
 DTEND:20270114T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2027-01-09@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -728,21 +798,35 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2027-01-14 08:3
  0 EST\n北京时间: 2027-01-14 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PPI
+DTSTART:20270114T133000Z
+DTEND:20270114T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-PPI-2026-12@finance-calendar
+CATEGORIES:MACRO,PPI
+DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
+ 指数，2026年十二月\n数据所属期: 2026-12\n美国东部时间: 2
+ 027-01-14 08:30 EST\n北京时间: 2027-01-14 21:30\n来源: 美国劳工
+ 统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_releas
+ e/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270115T133000Z
 DTEND:20270115T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-RETAIL_SALES-2026-12@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2026年十二
  月\n数据所属期: 2026-12\n美国东部时间: 2027-01-15 08:30 EST\n
  北京时间: 2027-01-15 21:30\n来源: 美国人口普查局\n来源链
  接: https://www.census.gov/retail/release_schedule.html\n最后更新: 20
- 26-11-28T07:28:07+00:00
+ 26-11-28T17:23:25+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
@@ -764,7 +848,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270121T133000Z
 DTEND:20270121T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2027-01-16@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -772,20 +856,20 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2027-01-21 08:3
  0 EST\n北京时间: 2027-01-21 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270128
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC-MEETING-2027-01@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  01-26 至 2027-01-27\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-28T07:28:07+00:00
+ 新: 2026-11-28T17:23:25+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -825,14 +909,14 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20270127T190000Z
 DTEND:20270127T200000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_DECISION-2027-01@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-01\n会议结束日期: 2027-01-27\n美国东部时间: 2027-01-27 14:00
   EST\n北京时间: 2027-01-28 03:00\n来源: 美国联邦储备委员会\
  n来源链接: https://www.federalreserve.gov/monetarypolicy/fomccalendars
- .htm\n最后更新: 2026-11-28T07:28:07+00:00
+ .htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
@@ -855,7 +939,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270128T133000Z
 DTEND:20270128T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2027-01-23@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -863,14 +947,14 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2027-01-28 08:3
  0 EST\n北京时间: 2027-01-28 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270201T150000Z
 DTEND:20270201T153000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_MANUFACTURING-2027-02@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
@@ -878,7 +962,7 @@ DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-02-01 10:00 EST\n北京时间: 2027-02-01 23:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -918,7 +1002,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270203T150000Z
 DTEND:20270203T153000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_SERVICES-2027-02@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
@@ -926,7 +1010,7 @@ DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-02-03 10:00 EST\n北京时间: 2027-02-03 23:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -950,7 +1034,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270204T133000Z
 DTEND:20270204T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2027-01-30@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -958,14 +1042,70 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2027-02-04 08:3
  0 EST\n北京时间: 2027-02-04 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国非农就业（NFP）
+DTSTART:20270205T133000Z
+DTEND:20270205T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-NFP-2027-01@finance-calendar
+CATEGORIES:MACRO,NFP
+DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
+ ，2027年一月\n数据所属期: 2027-01\n美国东部时间: 2027-02-05
+  08:30 EST\n北京时间: 2027-02-05 21:30\n来源: 美国劳工统计局
+ （BLS）\n来源链接: https://www.bls.gov/schedule/news_release/empsit.
+ htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国失业率
+DTSTART:20270205T133000Z
+DTEND:20270205T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-UNEMPLOYMENT-2027-01@finance-calendar
+CATEGORIES:MACRO,UNEMPLOYMENT
+DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2027年
+ 一月\n数据所属期: 2027-01\n美国东部时间: 2027-02-05 08:30 EST
+ \n北京时间: 2027-02-05 21:30\n来源: 美国劳工统计局（BLS）\n
+ 来源链接: https://www.bls.gov/schedule/news_release/empsit.htm\n最后
+ 更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 CPI
+DTSTART:20270211T133000Z
+DTEND:20270211T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_CPI-2027-01@finance-calendar
+CATEGORIES:MACRO,CORE_CPI
+DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
+ 价格指数，2027年一月\n数据所属期: 2027-01\n美国东部时间
+ : 2027-02-11 08:30 EST\n北京时间: 2027-02-11 21:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 CPI
+DTSTART:20270211T133000Z
+DTEND:20270211T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CPI-2027-01@finance-calendar
+CATEGORIES:MACRO,CPI
+DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
+ 指数，2027年一月\n数据所属期: 2027-01\n美国东部时间: 2027
+ -02-11 08:30 EST\n北京时间: 2027-02-11 21:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/c
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270211T133000Z
 DTEND:20270211T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2027-02-06@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -973,8 +1113,36 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2027-02-11 08:3
  0 EST\n北京时间: 2027-02-11 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PPI
+DTSTART:20270212T133000Z
+DTEND:20270212T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_PPI-2027-01@finance-calendar
+CATEGORIES:MACRO,CORE_PPI
+DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
+ 价格指数，2027年一月\n数据所属期: 2027-01\n美国东部时间
+ : 2027-02-12 08:30 EST\n北京时间: 2027-02-12 21:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PPI
+DTSTART:20270212T133000Z
+DTEND:20270212T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-PPI-2027-01@finance-calendar
+CATEGORIES:MACRO,PPI
+DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
+ 指数，2027年一月\n数据所属期: 2027-01\n美国东部时间: 2027
+ -02-12 08:30 EST\n北京时间: 2027-02-12 21:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/p
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏛️ 美股休市 · 总统日 / Presidents Day
@@ -994,21 +1162,21 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270217T133000Z
 DTEND:20270217T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-RETAIL_SALES-2027-01@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年一月\n
  数据所属期: 2027-01\n美国东部时间: 2027-02-17 08:30 EST\n北京
  时间: 2027-02-17 21:30\n来源: 美国人口普查局\n来源链接: htt
  ps://www.census.gov/retail/release_schedule.html\n最后更新: 2026-11-28
- T07:28:07+00:00
+ T17:23:25+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20270217T190000Z
 DTEND:20270217T193000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_MINUTES-2027-01@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-01\n会
@@ -1016,14 +1184,14 @@ DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-01\n会
  布规则\n美国东部时间: 2027-02-17 14:00 EST\n北京时间: 2027-02
  -18 03:00\n来源: 美国联邦储备委员会\n来源链接: https://www.
  federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 2026-11
- -28T07:28:07+00:00
+ -28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270218T133000Z
 DTEND:20270218T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2027-02-13@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -1031,14 +1199,14 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2027-02-18 08:3
  0 EST\n北京时间: 2027-02-18 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270225T133000Z
 DTEND:20270225T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2027-02-20@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -1046,14 +1214,14 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2027-02-25 08:3
  0 EST\n北京时间: 2027-02-25 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270301T150000Z
 DTEND:20270301T153000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_MANUFACTURING-2027-03@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
@@ -1061,7 +1229,7 @@ DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-03-01 10:00 EST\n北京时间: 2027-03-01 23:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1069,7 +1237,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270303T150000Z
 DTEND:20270303T153000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_SERVICES-2027-03@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
@@ -1077,7 +1245,7 @@ DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-03-03 10:00 EST\n北京时间: 2027-03-03 23:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1085,7 +1253,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270304T133000Z
 DTEND:20270304T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2027-02-27@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -1093,14 +1261,70 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2027-03-04 08:3
  0 EST\n北京时间: 2027-03-04 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国非农就业（NFP）
+DTSTART:20270305T133000Z
+DTEND:20270305T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-NFP-2027-02@finance-calendar
+CATEGORIES:MACRO,NFP
+DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
+ ，2027年二月\n数据所属期: 2027-02\n美国东部时间: 2027-03-05
+  08:30 EST\n北京时间: 2027-03-05 21:30\n来源: 美国劳工统计局
+ （BLS）\n来源链接: https://www.bls.gov/schedule/news_release/empsit.
+ htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国失业率
+DTSTART:20270305T133000Z
+DTEND:20270305T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-UNEMPLOYMENT-2027-02@finance-calendar
+CATEGORIES:MACRO,UNEMPLOYMENT
+DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2027年
+ 二月\n数据所属期: 2027-02\n美国东部时间: 2027-03-05 08:30 EST
+ \n北京时间: 2027-03-05 21:30\n来源: 美国劳工统计局（BLS）\n
+ 来源链接: https://www.bls.gov/schedule/news_release/empsit.htm\n最后
+ 更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 CPI
+DTSTART:20270310T133000Z
+DTEND:20270310T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_CPI-2027-02@finance-calendar
+CATEGORIES:MACRO,CORE_CPI
+DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
+ 价格指数，2027年二月\n数据所属期: 2027-02\n美国东部时间
+ : 2027-03-10 08:30 EST\n北京时间: 2027-03-10 21:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 CPI
+DTSTART:20270310T133000Z
+DTEND:20270310T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CPI-2027-02@finance-calendar
+CATEGORIES:MACRO,CPI
+DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
+ 指数，2027年二月\n数据所属期: 2027-02\n美国东部时间: 2027
+ -03-10 08:30 EST\n北京时间: 2027-03-10 21:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/c
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270311T133000Z
 DTEND:20270311T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2027-03-06@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -1108,20 +1332,48 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2027-03-11 08:3
  0 EST\n北京时间: 2027-03-11 21:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PPI
+DTSTART:20270312T133000Z
+DTEND:20270312T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_PPI-2027-02@finance-calendar
+CATEGORIES:MACRO,CORE_PPI
+DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
+ 价格指数，2027年二月\n数据所属期: 2027-02\n美国东部时间
+ : 2027-03-12 08:30 EST\n北京时间: 2027-03-12 21:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PPI
+DTSTART:20270312T133000Z
+DTEND:20270312T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-PPI-2027-02@finance-calendar
+CATEGORIES:MACRO,PPI
+DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
+ 指数，2027年二月\n数据所属期: 2027-02\n美国东部时间: 2027
+ -03-12 08:30 EST\n北京时间: 2027-03-12 21:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/p
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270318
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC-MEETING-2027-02@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  03-16 至 2027-03-17\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-28T07:28:07+00:00
+ 新: 2026-11-28T17:23:25+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -1129,35 +1381,35 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270316T123000Z
 DTEND:20270316T130000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-RETAIL_SALES-2027-02@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年二月\n
  数据所属期: 2027-02\n美国东部时间: 2027-03-16 08:30 EDT\n北京
  时间: 2027-03-16 20:30\n来源: 美国人口普查局\n来源链接: htt
  ps://www.census.gov/retail/release_schedule.html\n最后更新: 2026-11-28
- T07:28:07+00:00
+ T17:23:25+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20270317T180000Z
 DTEND:20270317T190000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_DECISION-2027-02@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-02\n会议结束日期: 2027-03-17\n美国东部时间: 2027-03-17 14:00
   EDT\n北京时间: 2027-03-18 02:00\n来源: 美国联邦储备委员会\
  n来源链接: https://www.federalreserve.gov/monetarypolicy/fomccalendars
- .htm\n最后更新: 2026-11-28T07:28:07+00:00
+ .htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国初请失业金人数
 DTSTART:20270318T123000Z
 DTEND:20270318T130000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-JOBLESS_CLAIMS-2027-03-13@finance-calendar
 CATEGORIES:MACRO,JOBLESS_CLAIMS
 DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
@@ -1165,7 +1417,7 @@ DESCRIPTION:发布项目: 失业保险每周申领报告\n数据所属期:
  周四美国东部时间 08:30 发布\n美国东部时间: 2027-03-18 08:3
  0 EDT\n北京时间: 2027-03-18 20:30\n来源: 美国劳工部就业与培
  训管理局（ETA）\n来源链接: https://www.dol.gov/newsroom/releases
- /eta\n最后更新: 2026-11-28T07:28:07+00:00
+ /eta\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.dol.gov/newsroom/releases/eta
 END:VEVENT
 BEGIN:VEVENT
@@ -1201,7 +1453,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270401T140000Z
 DTEND:20270401T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_MANUFACTURING-2027-04@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
@@ -1209,15 +1461,43 @@ DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-04-01 10:00 EDT\n北京时间: 2027-04-01 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国非农就业（NFP）
+DTSTART:20270402T123000Z
+DTEND:20270402T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-NFP-2027-03@finance-calendar
+CATEGORIES:MACRO,NFP
+DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
+ ，2027年三月\n数据所属期: 2027-03\n美国东部时间: 2027-04-02
+  08:30 EDT\n北京时间: 2027-04-02 20:30\n来源: 美国劳工统计局
+ （BLS）\n来源链接: https://www.bls.gov/schedule/news_release/empsit.
+ htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国失业率
+DTSTART:20270402T123000Z
+DTEND:20270402T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-UNEMPLOYMENT-2027-03@finance-calendar
+CATEGORIES:MACRO,UNEMPLOYMENT
+DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2027年
+ 三月\n数据所属期: 2027-03\n美国东部时间: 2027-04-02 08:30 EDT
+ \n北京时间: 2027-04-02 20:30\n来源: 美国劳工统计局（BLS）\n
+ 来源链接: https://www.bls.gov/schedule/news_release/empsit.htm\n最后
+ 更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270405T140000Z
 DTEND:20270405T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_SERVICES-2027-04@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
@@ -1225,7 +1505,7 @@ DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-04-05 10:00 EDT\n北京时间: 2027-04-05 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1233,7 +1513,7 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20270407T180000Z
 DTEND:20270407T183000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_MINUTES-2027-02@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-02\n会
@@ -1241,34 +1521,90 @@ DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-02\n会
  布规则\n美国东部时间: 2027-04-07 14:00 EDT\n北京时间: 2027-04
  -08 02:00\n来源: 美国联邦储备委员会\n来源链接: https://www.
  federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 2026-11
- -28T07:28:07+00:00
+ -28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 CPI
+DTSTART:20270413T123000Z
+DTEND:20270413T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_CPI-2027-03@finance-calendar
+CATEGORIES:MACRO,CORE_CPI
+DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
+ 价格指数，2027年三月\n数据所属期: 2027-03\n美国东部时间
+ : 2027-04-13 08:30 EDT\n北京时间: 2027-04-13 20:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 CPI
+DTSTART:20270413T123000Z
+DTEND:20270413T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CPI-2027-03@finance-calendar
+CATEGORIES:MACRO,CPI
+DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
+ 指数，2027年三月\n数据所属期: 2027-03\n美国东部时间: 2027
+ -04-13 08:30 EDT\n北京时间: 2027-04-13 20:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/c
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PPI
+DTSTART:20270414T123000Z
+DTEND:20270414T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_PPI-2027-03@finance-calendar
+CATEGORIES:MACRO,CORE_PPI
+DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
+ 价格指数，2027年三月\n数据所属期: 2027-03\n美国东部时间
+ : 2027-04-14 08:30 EDT\n北京时间: 2027-04-14 20:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PPI
+DTSTART:20270414T123000Z
+DTEND:20270414T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-PPI-2027-03@finance-calendar
+CATEGORIES:MACRO,PPI
+DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
+ 指数，2027年三月\n数据所属期: 2027-03\n美国东部时间: 2027
+ -04-14 08:30 EDT\n北京时间: 2027-04-14 20:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/p
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270416T123000Z
 DTEND:20270416T130000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-RETAIL_SALES-2027-03@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年三月\n
  数据所属期: 2027-03\n美国东部时间: 2027-04-16 08:30 EDT\n北京
  时间: 2027-04-16 20:30\n来源: 美国人口普查局\n来源链接: htt
  ps://www.census.gov/retail/release_schedule.html\n最后更新: 2026-11-28
- T07:28:07+00:00
+ T17:23:25+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270429
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC-MEETING-2027-03@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  04-27 至 2027-04-28\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-28T07:28:07+00:00
+ 新: 2026-11-28T17:23:25+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -1276,21 +1612,21 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20270428T180000Z
 DTEND:20270428T190000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_DECISION-2027-03@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-03\n会议结束日期: 2027-04-28\n美国东部时间: 2027-04-28 14:00
   EDT\n北京时间: 2027-04-29 02:00\n来源: 美国联邦储备委员会\
  n来源链接: https://www.federalreserve.gov/monetarypolicy/fomccalendars
- .htm\n最后更新: 2026-11-28T07:28:07+00:00
+ .htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270503T140000Z
 DTEND:20270503T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_MANUFACTURING-2027-05@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
@@ -1298,7 +1634,7 @@ DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-05-03 10:00 EDT\n北京时间: 2027-05-03 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1306,7 +1642,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270505T140000Z
 DTEND:20270505T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_SERVICES-2027-05@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
@@ -1314,29 +1650,113 @@ DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-05-05 10:00 EDT\n北京时间: 2027-05-05 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国非农就业（NFP）
+DTSTART:20270507T123000Z
+DTEND:20270507T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-NFP-2027-04@finance-calendar
+CATEGORIES:MACRO,NFP
+DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
+ ，2027年四月\n数据所属期: 2027-04\n美国东部时间: 2027-05-07
+  08:30 EDT\n北京时间: 2027-05-07 20:30\n来源: 美国劳工统计局
+ （BLS）\n来源链接: https://www.bls.gov/schedule/news_release/empsit.
+ htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国失业率
+DTSTART:20270507T123000Z
+DTEND:20270507T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-UNEMPLOYMENT-2027-04@finance-calendar
+CATEGORIES:MACRO,UNEMPLOYMENT
+DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2027年
+ 四月\n数据所属期: 2027-04\n美国东部时间: 2027-05-07 08:30 EDT
+ \n北京时间: 2027-05-07 20:30\n来源: 美国劳工统计局（BLS）\n
+ 来源链接: https://www.bls.gov/schedule/news_release/empsit.htm\n最后
+ 更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 CPI
+DTSTART:20270512T123000Z
+DTEND:20270512T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_CPI-2027-04@finance-calendar
+CATEGORIES:MACRO,CORE_CPI
+DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
+ 价格指数，2027年四月\n数据所属期: 2027-04\n美国东部时间
+ : 2027-05-12 08:30 EDT\n北京时间: 2027-05-12 20:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 CPI
+DTSTART:20270512T123000Z
+DTEND:20270512T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CPI-2027-04@finance-calendar
+CATEGORIES:MACRO,CPI
+DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
+ 指数，2027年四月\n数据所属期: 2027-04\n美国东部时间: 2027
+ -05-12 08:30 EDT\n北京时间: 2027-05-12 20:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/c
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PPI
+DTSTART:20270513T123000Z
+DTEND:20270513T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_PPI-2027-04@finance-calendar
+CATEGORIES:MACRO,CORE_PPI
+DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
+ 价格指数，2027年四月\n数据所属期: 2027-04\n美国东部时间
+ : 2027-05-13 08:30 EDT\n北京时间: 2027-05-13 20:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PPI
+DTSTART:20270513T123000Z
+DTEND:20270513T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-PPI-2027-04@finance-calendar
+CATEGORIES:MACRO,PPI
+DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
+ 指数，2027年四月\n数据所属期: 2027-04\n美国东部时间: 2027
+ -05-13 08:30 EDT\n北京时间: 2027-05-13 20:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/p
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270514T123000Z
 DTEND:20270514T130000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-RETAIL_SALES-2027-04@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年四月\n
  数据所属期: 2027-04\n美国东部时间: 2027-05-14 08:30 EDT\n北京
  时间: 2027-05-14 20:30\n来源: 美国人口普查局\n来源链接: htt
  ps://www.census.gov/retail/release_schedule.html\n最后更新: 2026-11-28
- T07:28:07+00:00
+ T17:23:25+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20270519T180000Z
 DTEND:20270519T183000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_MINUTES-2027-03@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-03\n会
@@ -1344,7 +1764,7 @@ DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-03\n会
  布规则\n美国东部时间: 2027-05-19 14:00 EDT\n北京时间: 2027-05
  -20 02:00\n来源: 美国联邦储备委员会\n来源链接: https://www.
  federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 2026-11
- -28T07:28:07+00:00
+ -28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
@@ -1365,7 +1785,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270601T140000Z
 DTEND:20270601T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_MANUFACTURING-2027-06@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
@@ -1373,7 +1793,7 @@ DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-06-01 10:00 EDT\n北京时间: 2027-06-01 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1381,7 +1801,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270603T140000Z
 DTEND:20270603T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_SERVICES-2027-06@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
@@ -1389,21 +1809,49 @@ DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-06-03 10:00 EDT\n北京时间: 2027-06-03 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国非农就业（NFP）
+DTSTART:20270604T123000Z
+DTEND:20270604T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-NFP-2027-05@finance-calendar
+CATEGORIES:MACRO,NFP
+DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
+ ，2027年五月\n数据所属期: 2027-05\n美国东部时间: 2027-06-04
+  08:30 EDT\n北京时间: 2027-06-04 20:30\n来源: 美国劳工统计局
+ （BLS）\n来源链接: https://www.bls.gov/schedule/news_release/empsit.
+ htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国失业率
+DTSTART:20270604T123000Z
+DTEND:20270604T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-UNEMPLOYMENT-2027-05@finance-calendar
+CATEGORIES:MACRO,UNEMPLOYMENT
+DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2027年
+ 五月\n数据所属期: 2027-05\n美国东部时间: 2027-06-04 08:30 EDT
+ \n北京时间: 2027-06-04 20:30\n来源: 美国劳工统计局（BLS）\n
+ 来源链接: https://www.bls.gov/schedule/news_release/empsit.htm\n最后
+ 更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270610
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC-MEETING-2027-04@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  06-08 至 2027-06-09\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-28T07:28:07+00:00
+ 新: 2026-11-28T17:23:25+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -1411,28 +1859,84 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20270609T180000Z
 DTEND:20270609T190000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_DECISION-2027-04@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-04\n会议结束日期: 2027-06-09\n美国东部时间: 2027-06-09 14:00
   EDT\n北京时间: 2027-06-10 02:00\n来源: 美国联邦储备委员会\
  n来源链接: https://www.federalreserve.gov/monetarypolicy/fomccalendars
- .htm\n最后更新: 2026-11-28T07:28:07+00:00
+ .htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 CPI
+DTSTART:20270610T123000Z
+DTEND:20270610T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_CPI-2027-05@finance-calendar
+CATEGORIES:MACRO,CORE_CPI
+DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
+ 价格指数，2027年五月\n数据所属期: 2027-05\n美国东部时间
+ : 2027-06-10 08:30 EDT\n北京时间: 2027-06-10 20:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 CPI
+DTSTART:20270610T123000Z
+DTEND:20270610T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CPI-2027-05@finance-calendar
+CATEGORIES:MACRO,CPI
+DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
+ 指数，2027年五月\n数据所属期: 2027-05\n美国东部时间: 2027
+ -06-10 08:30 EDT\n北京时间: 2027-06-10 20:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/c
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PPI
+DTSTART:20270611T123000Z
+DTEND:20270611T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_PPI-2027-05@finance-calendar
+CATEGORIES:MACRO,CORE_PPI
+DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
+ 价格指数，2027年五月\n数据所属期: 2027-05\n美国东部时间
+ : 2027-06-11 08:30 EDT\n北京时间: 2027-06-11 20:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PPI
+DTSTART:20270611T123000Z
+DTEND:20270611T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-PPI-2027-05@finance-calendar
+CATEGORIES:MACRO,PPI
+DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
+ 指数，2027年五月\n数据所属期: 2027-05\n美国东部时间: 2027
+ -06-11 08:30 EDT\n北京时间: 2027-06-11 20:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/p
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270616T123000Z
 DTEND:20270616T130000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-RETAIL_SALES-2027-05@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年五月\n
  数据所属期: 2027-05\n美国东部时间: 2027-06-16 08:30 EDT\n北京
  时间: 2027-06-16 20:30\n来源: 美国人口普查局\n来源链接: htt
  ps://www.census.gov/retail/release_schedule.html\n最后更新: 2026-11-28
- T07:28:07+00:00
+ T17:23:25+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1468,7 +1972,7 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20270630T180000Z
 DTEND:20270630T183000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_MINUTES-2027-04@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-04\n会
@@ -1476,14 +1980,14 @@ DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-04\n会
  布规则\n美国东部时间: 2027-06-30 14:00 EDT\n北京时间: 2027-07
  -01 02:00\n来源: 美国联邦储备委员会\n来源链接: https://www.
  federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 2026-11
- -28T07:28:07+00:00
+ -28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270701T140000Z
 DTEND:20270701T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_MANUFACTURING-2027-07@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
@@ -1491,9 +1995,37 @@ DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-07-01 10:00 EDT\n北京时间: 2027-07-01 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国非农就业（NFP）
+DTSTART:20270702T123000Z
+DTEND:20270702T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-NFP-2027-06@finance-calendar
+CATEGORIES:MACRO,NFP
+DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
+ ，2027年六月\n数据所属期: 2027-06\n美国东部时间: 2027-07-02
+  08:30 EDT\n北京时间: 2027-07-02 20:30\n来源: 美国劳工统计局
+ （BLS）\n来源链接: https://www.bls.gov/schedule/news_release/empsit.
+ htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国失业率
+DTSTART:20270702T123000Z
+DTEND:20270702T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-UNEMPLOYMENT-2027-06@finance-calendar
+CATEGORIES:MACRO,UNEMPLOYMENT
+DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2027年
+ 六月\n数据所属期: 2027-06\n美国东部时间: 2027-07-02 08:30 EDT
+ \n北京时间: 2027-07-02 20:30\n来源: 美国劳工统计局（BLS）\n
+ 来源链接: https://www.bls.gov/schedule/news_release/empsit.htm\n最后
+ 更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏛️ 美股休市 · July 4th
@@ -1513,7 +2045,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270706T140000Z
 DTEND:20270706T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_SERVICES-2027-07@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
@@ -1521,35 +2053,91 @@ DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-07-06 10:00 EDT\n北京时间: 2027-07-06 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 CPI
+DTSTART:20270714T123000Z
+DTEND:20270714T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_CPI-2027-06@finance-calendar
+CATEGORIES:MACRO,CORE_CPI
+DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
+ 价格指数，2027年六月\n数据所属期: 2027-06\n美国东部时间
+ : 2027-07-14 08:30 EDT\n北京时间: 2027-07-14 20:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 CPI
+DTSTART:20270714T123000Z
+DTEND:20270714T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CPI-2027-06@finance-calendar
+CATEGORIES:MACRO,CPI
+DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
+ 指数，2027年六月\n数据所属期: 2027-06\n美国东部时间: 2027
+ -07-14 08:30 EDT\n北京时间: 2027-07-14 20:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/c
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PPI
+DTSTART:20270715T123000Z
+DTEND:20270715T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_PPI-2027-06@finance-calendar
+CATEGORIES:MACRO,CORE_PPI
+DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
+ 价格指数，2027年六月\n数据所属期: 2027-06\n美国东部时间
+ : 2027-07-15 08:30 EDT\n北京时间: 2027-07-15 20:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PPI
+DTSTART:20270715T123000Z
+DTEND:20270715T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-PPI-2027-06@finance-calendar
+CATEGORIES:MACRO,PPI
+DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
+ 指数，2027年六月\n数据所属期: 2027-06\n美国东部时间: 2027
+ -07-15 08:30 EDT\n北京时间: 2027-07-15 20:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/p
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270716T123000Z
 DTEND:20270716T130000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-RETAIL_SALES-2027-06@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年六月\n
  数据所属期: 2027-06\n美国东部时间: 2027-07-16 08:30 EDT\n北京
  时间: 2027-07-16 20:30\n来源: 美国人口普查局\n来源链接: htt
  ps://www.census.gov/retail/release_schedule.html\n最后更新: 2026-11-28
- T07:28:07+00:00
+ T17:23:25+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20270727
 DTEND;VALUE=DATE:20270729
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC-MEETING-2027-05@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  07-27 至 2027-07-28\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-28T07:28:07+00:00
+ 新: 2026-11-28T17:23:25+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -1557,21 +2145,21 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20270728T180000Z
 DTEND:20270728T190000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_DECISION-2027-05@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-05\n会议结束日期: 2027-07-28\n美国东部时间: 2027-07-28 14:00
   EDT\n北京时间: 2027-07-29 02:00\n来源: 美国联邦储备委员会\
  n来源链接: https://www.federalreserve.gov/monetarypolicy/fomccalendars
- .htm\n最后更新: 2026-11-28T07:28:07+00:00
+ .htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270802T140000Z
 DTEND:20270802T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_MANUFACTURING-2027-08@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
@@ -1579,7 +2167,7 @@ DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-08-02 10:00 EDT\n北京时间: 2027-08-02 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1587,7 +2175,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270804T140000Z
 DTEND:20270804T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_SERVICES-2027-08@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
@@ -1595,29 +2183,113 @@ DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-08-04 10:00 EDT\n北京时间: 2027-08-04 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国非农就业（NFP）
+DTSTART:20270806T123000Z
+DTEND:20270806T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-NFP-2027-07@finance-calendar
+CATEGORIES:MACRO,NFP
+DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
+ ，2027年七月\n数据所属期: 2027-07\n美国东部时间: 2027-08-06
+  08:30 EDT\n北京时间: 2027-08-06 20:30\n来源: 美国劳工统计局
+ （BLS）\n来源链接: https://www.bls.gov/schedule/news_release/empsit.
+ htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国失业率
+DTSTART:20270806T123000Z
+DTEND:20270806T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-UNEMPLOYMENT-2027-07@finance-calendar
+CATEGORIES:MACRO,UNEMPLOYMENT
+DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2027年
+ 七月\n数据所属期: 2027-07\n美国东部时间: 2027-08-06 08:30 EDT
+ \n北京时间: 2027-08-06 20:30\n来源: 美国劳工统计局（BLS）\n
+ 来源链接: https://www.bls.gov/schedule/news_release/empsit.htm\n最后
+ 更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PPI
+DTSTART:20270810T123000Z
+DTEND:20270810T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_PPI-2027-07@finance-calendar
+CATEGORIES:MACRO,CORE_PPI
+DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
+ 价格指数，2027年七月\n数据所属期: 2027-07\n美国东部时间
+ : 2027-08-10 08:30 EDT\n北京时间: 2027-08-10 20:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PPI
+DTSTART:20270810T123000Z
+DTEND:20270810T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-PPI-2027-07@finance-calendar
+CATEGORIES:MACRO,PPI
+DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
+ 指数，2027年七月\n数据所属期: 2027-07\n美国东部时间: 2027
+ -08-10 08:30 EDT\n北京时间: 2027-08-10 20:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/p
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 CPI
+DTSTART:20270811T123000Z
+DTEND:20270811T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_CPI-2027-07@finance-calendar
+CATEGORIES:MACRO,CORE_CPI
+DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
+ 价格指数，2027年七月\n数据所属期: 2027-07\n美国东部时间
+ : 2027-08-11 08:30 EDT\n北京时间: 2027-08-11 20:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 CPI
+DTSTART:20270811T123000Z
+DTEND:20270811T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CPI-2027-07@finance-calendar
+CATEGORIES:MACRO,CPI
+DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
+ 指数，2027年七月\n数据所属期: 2027-07\n美国东部时间: 2027
+ -08-11 08:30 EDT\n北京时间: 2027-08-11 20:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/c
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270816T123000Z
 DTEND:20270816T130000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-RETAIL_SALES-2027-07@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年七月\n
  数据所属期: 2027-07\n美国东部时间: 2027-08-16 08:30 EDT\n北京
  时间: 2027-08-16 20:30\n来源: 美国人口普查局\n来源链接: htt
  ps://www.census.gov/retail/release_schedule.html\n最后更新: 2026-11-28
- T07:28:07+00:00
+ T17:23:25+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20270818T180000Z
 DTEND:20270818T183000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_MINUTES-2027-05@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-05\n会
@@ -1625,14 +2297,14 @@ DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-05\n会
  布规则\n美国东部时间: 2027-08-18 14:00 EDT\n北京时间: 2027-08
  -19 02:00\n来源: 美国联邦储备委员会\n来源链接: https://www.
  federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 2026-11
- -28T07:28:07+00:00
+ -28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20270901T140000Z
 DTEND:20270901T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_MANUFACTURING-2027-09@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
@@ -1640,15 +2312,43 @@ DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-09-01 10:00 EDT\n北京时间: 2027-09-01 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国非农就业（NFP）
+DTSTART:20270903T123000Z
+DTEND:20270903T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-NFP-2027-08@finance-calendar
+CATEGORIES:MACRO,NFP
+DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
+ ，2027年八月\n数据所属期: 2027-08\n美国东部时间: 2027-09-03
+  08:30 EDT\n北京时间: 2027-09-03 20:30\n来源: 美国劳工统计局
+ （BLS）\n来源链接: https://www.bls.gov/schedule/news_release/empsit.
+ htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国失业率
+DTSTART:20270903T123000Z
+DTEND:20270903T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-UNEMPLOYMENT-2027-08@finance-calendar
+CATEGORIES:MACRO,UNEMPLOYMENT
+DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2027年
+ 八月\n数据所属期: 2027-08\n美国东部时间: 2027-09-03 08:30 EDT
+ \n北京时间: 2027-09-03 20:30\n来源: 美国劳工统计局（BLS）\n
+ 来源链接: https://www.bls.gov/schedule/news_release/empsit.htm\n最后
+ 更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20270903T140000Z
 DTEND:20270903T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_SERVICES-2027-09@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
@@ -1656,7 +2356,7 @@ DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-09-03 10:00 EDT\n北京时间: 2027-09-03 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1675,45 +2375,101 @@ TRANSP:TRANSPARENT
 URL:https://www.nyse.com/markets/hours-calendars
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PPI
+DTSTART:20270910T123000Z
+DTEND:20270910T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_PPI-2027-08@finance-calendar
+CATEGORIES:MACRO,CORE_PPI
+DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
+ 价格指数，2027年八月\n数据所属期: 2027-08\n美国东部时间
+ : 2027-09-10 08:30 EDT\n北京时间: 2027-09-10 20:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PPI
+DTSTART:20270910T123000Z
+DTEND:20270910T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-PPI-2027-08@finance-calendar
+CATEGORIES:MACRO,PPI
+DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
+ 指数，2027年八月\n数据所属期: 2027-08\n美国东部时间: 2027
+ -09-10 08:30 EDT\n北京时间: 2027-09-10 20:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/p
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270916
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC-MEETING-2027-06@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  09-14 至 2027-09-15\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-28T07:28:07+00:00
+ 新: 2026-11-28T17:23:25+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 CPI
+DTSTART:20270914T123000Z
+DTEND:20270914T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_CPI-2027-08@finance-calendar
+CATEGORIES:MACRO,CORE_CPI
+DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
+ 价格指数，2027年八月\n数据所属期: 2027-08\n美国东部时间
+ : 2027-09-14 08:30 EDT\n北京时间: 2027-09-14 20:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 CPI
+DTSTART:20270914T123000Z
+DTEND:20270914T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CPI-2027-08@finance-calendar
+CATEGORIES:MACRO,CPI
+DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
+ 指数，2027年八月\n数据所属期: 2027-08\n美国东部时间: 2027
+ -09-14 08:30 EDT\n北京时间: 2027-09-14 20:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/c
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20270915T180000Z
 DTEND:20270915T190000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_DECISION-2027-06@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-06\n会议结束日期: 2027-09-15\n美国东部时间: 2027-09-15 14:00
   EDT\n北京时间: 2027-09-16 02:00\n来源: 美国联邦储备委员会\
  n来源链接: https://www.federalreserve.gov/monetarypolicy/fomccalendars
- .htm\n最后更新: 2026-11-28T07:28:07+00:00
+ .htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20270916T123000Z
 DTEND:20270916T130000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-RETAIL_SALES-2027-08@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年八月\n
  数据所属期: 2027-08\n美国东部时间: 2027-09-16 08:30 EDT\n北京
  时间: 2027-09-16 20:30\n来源: 美国人口普查局\n来源链接: htt
  ps://www.census.gov/retail/release_schedule.html\n最后更新: 2026-11-28
- T07:28:07+00:00
+ T17:23:25+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1735,7 +2491,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20271001T140000Z
 DTEND:20271001T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_MANUFACTURING-2027-10@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
@@ -1743,7 +2499,7 @@ DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-10-01 10:00 EDT\n北京时间: 2027-10-01 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1751,7 +2507,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20271005T140000Z
 DTEND:20271005T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_SERVICES-2027-10@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
@@ -1759,7 +2515,7 @@ DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-10-05 10:00 EDT\n北京时间: 2027-10-05 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1767,7 +2523,7 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20271006T180000Z
 DTEND:20271006T183000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_MINUTES-2027-06@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-06\n会
@@ -1775,34 +2531,118 @@ DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-06\n会
  布规则\n美国东部时间: 2027-10-06 14:00 EDT\n北京时间: 2027-10
  -07 02:00\n来源: 美国联邦储备委员会\n来源链接: https://www.
  federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 2026-11
- -28T07:28:07+00:00
+ -28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国非农就业（NFP）
+DTSTART:20271008T123000Z
+DTEND:20271008T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-NFP-2027-09@finance-calendar
+CATEGORIES:MACRO,NFP
+DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
+ ，2027年九月\n数据所属期: 2027-09\n美国东部时间: 2027-10-08
+  08:30 EDT\n北京时间: 2027-10-08 20:30\n来源: 美国劳工统计局
+ （BLS）\n来源链接: https://www.bls.gov/schedule/news_release/empsit.
+ htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国失业率
+DTSTART:20271008T123000Z
+DTEND:20271008T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-UNEMPLOYMENT-2027-09@finance-calendar
+CATEGORIES:MACRO,UNEMPLOYMENT
+DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2027年
+ 九月\n数据所属期: 2027-09\n美国东部时间: 2027-10-08 08:30 EDT
+ \n北京时间: 2027-10-08 20:30\n来源: 美国劳工统计局（BLS）\n
+ 来源链接: https://www.bls.gov/schedule/news_release/empsit.htm\n最后
+ 更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 CPI
+DTSTART:20271014T123000Z
+DTEND:20271014T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_CPI-2027-09@finance-calendar
+CATEGORIES:MACRO,CORE_CPI
+DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
+ 价格指数，2027年九月\n数据所属期: 2027-09\n美国东部时间
+ : 2027-10-14 08:30 EDT\n北京时间: 2027-10-14 20:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 CPI
+DTSTART:20271014T123000Z
+DTEND:20271014T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CPI-2027-09@finance-calendar
+CATEGORIES:MACRO,CPI
+DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
+ 指数，2027年九月\n数据所属期: 2027-09\n美国东部时间: 2027
+ -10-14 08:30 EDT\n北京时间: 2027-10-14 20:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/c
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PPI
+DTSTART:20271015T123000Z
+DTEND:20271015T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_PPI-2027-09@finance-calendar
+CATEGORIES:MACRO,CORE_PPI
+DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
+ 价格指数，2027年九月\n数据所属期: 2027-09\n美国东部时间
+ : 2027-10-15 08:30 EDT\n北京时间: 2027-10-15 20:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PPI
+DTSTART:20271015T123000Z
+DTEND:20271015T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-PPI-2027-09@finance-calendar
+CATEGORIES:MACRO,PPI
+DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
+ 指数，2027年九月\n数据所属期: 2027-09\n美国东部时间: 2027
+ -10-15 08:30 EDT\n北京时间: 2027-10-15 20:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/p
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20271015T123000Z
 DTEND:20271015T130000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-RETAIL_SALES-2027-09@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年九月\n
  数据所属期: 2027-09\n美国东部时间: 2027-10-15 08:30 EDT\n北京
  时间: 2027-10-15 20:30\n来源: 美国人口普查局\n来源链接: htt
  ps://www.census.gov/retail/release_schedule.html\n最后更新: 2026-11-28
- T07:28:07+00:00
+ T17:23:25+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20271026
 DTEND;VALUE=DATE:20271028
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC-MEETING-2027-07@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  10-26 至 2027-10-27\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-28T07:28:07+00:00
+ 新: 2026-11-28T17:23:25+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -1810,21 +2650,21 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20271027T180000Z
 DTEND:20271027T190000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_DECISION-2027-07@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-07\n会议结束日期: 2027-10-27\n美国东部时间: 2027-10-27 14:00
   EDT\n北京时间: 2027-10-28 02:00\n来源: 美国联邦储备委员会\
  n来源链接: https://www.federalreserve.gov/monetarypolicy/fomccalendars
- .htm\n最后更新: 2026-11-28T07:28:07+00:00
+ .htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20271101T140000Z
 DTEND:20271101T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_MANUFACTURING-2027-11@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
@@ -1832,7 +2672,7 @@ DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-11-01 10:00 EDT\n北京时间: 2027-11-01 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1840,7 +2680,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20271103T140000Z
 DTEND:20271103T143000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_SERVICES-2027-11@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
@@ -1848,21 +2688,105 @@ DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-11-03 10:00 EDT\n北京时间: 2027-11-03 22:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国非农就业（NFP）
+DTSTART:20271105T123000Z
+DTEND:20271105T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-NFP-2027-10@finance-calendar
+CATEGORIES:MACRO,NFP
+DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
+ ，2027年十月\n数据所属期: 2027-10\n美国东部时间: 2027-11-05
+  08:30 EDT\n北京时间: 2027-11-05 20:30\n来源: 美国劳工统计局
+ （BLS）\n来源链接: https://www.bls.gov/schedule/news_release/empsit.
+ htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国失业率
+DTSTART:20271105T123000Z
+DTEND:20271105T130000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-UNEMPLOYMENT-2027-10@finance-calendar
+CATEGORIES:MACRO,UNEMPLOYMENT
+DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2027年
+ 十月\n数据所属期: 2027-10\n美国东部时间: 2027-11-05 08:30 EDT
+ \n北京时间: 2027-11-05 20:30\n来源: 美国劳工统计局（BLS）\n
+ 来源链接: https://www.bls.gov/schedule/news_release/empsit.htm\n最后
+ 更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 CPI
+DTSTART:20271110T133000Z
+DTEND:20271110T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_CPI-2027-10@finance-calendar
+CATEGORIES:MACRO,CORE_CPI
+DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
+ 价格指数，2027年十月\n数据所属期: 2027-10\n美国东部时间
+ : 2027-11-10 08:30 EST\n北京时间: 2027-11-10 21:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 CPI
+DTSTART:20271110T133000Z
+DTEND:20271110T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CPI-2027-10@finance-calendar
+CATEGORIES:MACRO,CPI
+DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
+ 指数，2027年十月\n数据所属期: 2027-10\n美国东部时间: 2027
+ -11-10 08:30 EST\n北京时间: 2027-11-10 21:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/c
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PPI
+DTSTART:20271112T133000Z
+DTEND:20271112T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_PPI-2027-10@finance-calendar
+CATEGORIES:MACRO,CORE_PPI
+DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
+ 价格指数，2027年十月\n数据所属期: 2027-10\n美国东部时间
+ : 2027-11-12 08:30 EST\n北京时间: 2027-11-12 21:30\n来源: 美国劳
+ 工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_rel
+ ease/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PPI
+DTSTART:20271112T133000Z
+DTEND:20271112T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-PPI-2027-10@finance-calendar
+CATEGORIES:MACRO,PPI
+DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
+ 指数，2027年十月\n数据所属期: 2027-10\n美国东部时间: 2027
+ -11-12 08:30 EST\n北京时间: 2027-11-12 21:30\n来源: 美国劳工统
+ 计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/p
+ pi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 议息会议
 DTSTART;VALUE=DATE:20271116
 DTEND;VALUE=DATE:20271118
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC-MEETING-2027-08@finance-calendar
 CATEGORIES:MACRO,FOMC_MEETING
 DESCRIPTION:事件: 联邦公开市场委员会会议\n会议日期: 2027-
  11-16 至 2027-11-17\n来源: 美国联邦储备委员会\n来源链接: h
  ttps://www.federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更
- 新: 2026-11-28T07:28:07+00:00
+ 新: 2026-11-28T17:23:25+00:00
 TRANSP:TRANSPARENT
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
@@ -1870,35 +2794,35 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20271116T133000Z
 DTEND:20271116T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-RETAIL_SALES-2027-10@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年十月\n
  数据所属期: 2027-10\n美国东部时间: 2027-11-16 08:30 EST\n北京
  时间: 2027-11-16 21:30\n来源: 美国人口普查局\n来源链接: htt
  ps://www.census.gov/retail/release_schedule.html\n最后更新: 2026-11-28
- T07:28:07+00:00
+ T17:23:25+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 利率决议
 DTSTART:20271117T190000Z
 DTEND:20271117T200000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_DECISION-2027-08@finance-calendar
 CATEGORIES:MACRO,FOMC_DECISION
 DESCRIPTION:发布项目: FOMC 声明及利率决议\n数据所属期: 202
  7-08\n会议结束日期: 2027-11-17\n美国东部时间: 2027-11-17 14:00
   EST\n北京时间: 2027-11-18 03:00\n来源: 美国联邦储备委员会\
  n来源链接: https://www.federalreserve.gov/monetarypolicy/fomccalendars
- .htm\n最后更新: 2026-11-28T07:28:07+00:00
+ .htm\n最后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20271117T190000Z
 DTEND:20271117T193000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_MINUTES-2027-07@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-07\n会
@@ -1906,7 +2830,7 @@ DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-07\n会
  布规则\n美国东部时间: 2027-11-17 14:00 EST\n北京时间: 2027-11
  -18 03:00\n来源: 美国联邦储备委员会\n来源链接: https://www.
  federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 2026-11
- -28T07:28:07+00:00
+ -28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
@@ -1942,7 +2866,7 @@ BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 制造业 PMI
 DTSTART:20271201T150000Z
 DTEND:20271201T153000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_MANUFACTURING-2027-12@finance-calendar
 CATEGORIES:MACRO,ISM_MANUFACTURING
 DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
@@ -1950,15 +2874,43 @@ DESCRIPTION:发布项目: ISM 制造业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-12-01 10:00 EST\n北京时间: 2027-12-01 23:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国非农就业（NFP）
+DTSTART:20271203T133000Z
+DTEND:20271203T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-NFP-2027-11@finance-calendar
+CATEGORIES:MACRO,NFP
+DESCRIPTION:指标: 非农就业人数\n发布项目: 就业形势报告
+ ，2027年十一月\n数据所属期: 2027-11\n美国东部时间: 2027-12
+ -03 08:30 EST\n北京时间: 2027-12-03 21:30\n来源: 美国劳工统计
+ 局（BLS）\n来源链接: https://www.bls.gov/schedule/news_release/emps
+ it.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国失业率
+DTSTART:20271203T133000Z
+DTEND:20271203T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-UNEMPLOYMENT-2027-11@finance-calendar
+CATEGORIES:MACRO,UNEMPLOYMENT
+DESCRIPTION:指标: 失业率\n发布项目: 就业形势报告，2027年
+ 十一月\n数据所属期: 2027-11\n美国东部时间: 2027-12-03 08:30 
+ EST\n北京时间: 2027-12-03 21:30\n来源: 美国劳工统计局（BLS
+ ）\n来源链接: https://www.bls.gov/schedule/news_release/empsit.htm\n
+ 最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/empsit.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 ISM 服务业 PMI
 DTSTART:20271203T150000Z
 DTEND:20271203T153000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-ISM_SERVICES-2027-12@finance-calendar
 CATEGORIES:MACRO,ISM_SERVICES
 DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
@@ -1966,7 +2918,7 @@ DESCRIPTION:发布项目: ISM 服务业 PMI 报告\n数据所属期: 2027-
  国东部时间: 2027-12-03 10:00 EST\n北京时间: 2027-12-03 23:00\n来
  源: 美国供应管理协会（ISM）\n来源链接: https://www.ismworld
  .org/supply-management-news-and-reports/reports/rob-report-calendar/\n最
- 后更新: 2026-11-28T07:28:07+00:00
+ 后更新: 2026-11-28T17:23:25+00:00
 URL:https://www.ismworld.org/supply-management-news-and-reports/reports/ro
  b-report-calendar/
 END:VEVENT
@@ -1974,7 +2926,7 @@ BEGIN:VEVENT
 SUMMARY:🏦 FOMC 会议纪要
 DTSTART:20271208T190000Z
 DTEND:20271208T193000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-FOMC_MINUTES-2027-08@finance-calendar
 CATEGORIES:MACRO,FOMC_MINUTES
 DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-08\n会
@@ -1982,21 +2934,77 @@ DESCRIPTION:发布项目: FOMC 会议纪要\n数据所属期: 2027-08\n会
  布规则\n美国东部时间: 2027-12-08 14:00 EST\n北京时间: 2027-12
  -09 03:00\n来源: 美国联邦储备委员会\n来源链接: https://www.
  federalreserve.gov/monetarypolicy/fomccalendars.htm\n最后更新: 2026-11
- -28T07:28:07+00:00
+ -28T17:23:25+00:00
 URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 CPI
+DTSTART:20271210T133000Z
+DTEND:20271210T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_CPI-2027-11@finance-calendar
+CATEGORIES:MACRO,CORE_CPI
+DESCRIPTION:指标: 核心消费者价格指数\n发布项目: 消费者
+ 价格指数，2027年十一月\n数据所属期: 2027-11\n美国东部时
+ 间: 2027-12-10 08:30 EST\n北京时间: 2027-12-10 21:30\n来源: 美国
+ 劳工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_
+ release/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 CPI
+DTSTART:20271210T133000Z
+DTEND:20271210T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CPI-2027-11@finance-calendar
+CATEGORIES:MACRO,CPI
+DESCRIPTION:指标: 消费者价格指数\n发布项目: 消费者价格
+ 指数，2027年十一月\n数据所属期: 2027-11\n美国东部时间: 2
+ 027-12-10 08:30 EST\n北京时间: 2027-12-10 21:30\n来源: 美国劳工
+ 统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_releas
+ e/cpi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/cpi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国核心 PPI
+DTSTART:20271215T133000Z
+DTEND:20271215T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-CORE_PPI-2027-11@finance-calendar
+CATEGORIES:MACRO,CORE_PPI
+DESCRIPTION:指标: 核心生产者价格指数\n发布项目: 生产者
+ 价格指数，2027年十一月\n数据所属期: 2027-11\n美国东部时
+ 间: 2027-12-15 08:30 EST\n北京时间: 2027-12-15 21:30\n来源: 美国
+ 劳工统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_
+ release/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇺🇸 美国 PPI
+DTSTART:20271215T133000Z
+DTEND:20271215T140000Z
+DTSTAMP:20261128T172325Z
+UID:macro-US-PPI-2027-11@finance-calendar
+CATEGORIES:MACRO,PPI
+DESCRIPTION:指标: 生产者价格指数\n发布项目: 生产者价格
+ 指数，2027年十一月\n数据所属期: 2027-11\n美国东部时间: 2
+ 027-12-15 08:30 EST\n北京时间: 2027-12-15 21:30\n来源: 美国劳工
+ 统计局（BLS）\n来源链接: https://www.bls.gov/schedule/news_releas
+ e/ppi.htm\n最后更新: 2026-11-28T17:23:25+00:00
+URL:https://www.bls.gov/schedule/news_release/ppi.htm
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇺🇸 美国零售销售
 DTSTART:20271215T133000Z
 DTEND:20271215T140000Z
-DTSTAMP:20261128T072807Z
+DTSTAMP:20261128T172325Z
 UID:macro-US-RETAIL_SALES-2027-11@finance-calendar
 CATEGORIES:MACRO,RETAIL_SALES
 DESCRIPTION:发布项目: 月度零售贸易预估报告，2027年十一
  月\n数据所属期: 2027-11\n美国东部时间: 2027-12-15 08:30 EST\n
  北京时间: 2027-12-15 21:30\n来源: 美国人口普查局\n来源链
  接: https://www.census.gov/retail/release_schedule.html\n最后更新: 20
- 26-11-28T07:28:07+00:00
+ 26-11-28T17:23:25+00:00
 URL:https://www.census.gov/retail/release_schedule.html
 END:VEVENT
 BEGIN:VEVENT
