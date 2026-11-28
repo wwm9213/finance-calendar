@@ -283,24 +283,6 @@
       "all_day": false,
       "category": "macro",
       "description": {
-        "Meeting End Date": "2026-10-28",
-        "Reference Period": "2026-07",
-        "Release": "FOMC Statement and Interest Rate Decision"
-      },
-      "end": "2026-10-28T15:00:00-04:00",
-      "kind": "fomc_decision",
-      "metadata": {},
-      "scope": "macro:fed",
-      "source": "Federal Reserve Board",
-      "source_url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-      "start": "2026-10-28T14:00:00-04:00",
-      "summary": "🏦 FOMC 利率决议",
-      "uid": "macro-US-FOMC_DECISION-2026-07@finance-calendar"
-    },
-    {
-      "all_day": false,
-      "category": "macro",
-      "description": {
         "Meeting End Date": "2026-12-09",
         "Reference Period": "2026-08",
         "Release": "FOMC Statement and Interest Rate Decision"
@@ -1935,6 +1917,6 @@
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-27T07:58:36+00:00",
+  "updated_at": "2026-11-28T07:28:07+00:00",
   "version": 1
 }
