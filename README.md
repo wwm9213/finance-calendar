@@ -152,11 +152,11 @@ python -m src.main --today 2026-09-15 --offline
 
 | 事件 | 实际来源 | 原因与回退 |
 | --- | --- | --- |
-| NFP、失业率、CPI/Core CPI、PPI/Core PPI | [BLS 官方在线日历](https://www.bls.gov/schedule/news_release/bls.ics) | 一手来源，包含官方日期和 Eastern Time。BLS 拒绝自动请求时，改读 [FRED Release Calendar](https://fred.stlouisfed.org/releases/calendar)；FRED 明确说明日期由数据发布方提供。两者失败则保留 BLS 范围的旧缓存。 |
+| NFP、失业率、CPI/Core CPI、PPI/Core PPI | [BLS 官方 ICS](https://www.bls.gov/schedule/news_release/bls.ics)及官方分项表 [就业](https://www.bls.gov/schedule/news_release/empsit.htm)、[CPI](https://www.bls.gov/schedule/news_release/cpi.htm)、[PPI](https://www.bls.gov/schedule/news_release/ppi.htm) | 分项表补齐尚未进入 ICS 的已公布日期。BLS 请求被拦截时保留最近核实的快照。 |
 | PCE/Core PCE、GDP | [BEA Release Schedule](https://www.bea.gov/news/schedule) | BEA 官方发布日程，直接给出日期、时间和参考期。 |
 | Retail Sales | [U.S. Census Bureau Release Schedule](https://www.census.gov/retail/release_schedule.html) | Census 官方 Advance Monthly Retail Trade 日程。 |
 | FOMC 会议、利率决议、纪要 | [Federal Reserve FOMC Calendar](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm) | 会议日期来自美联储。未正式列出纪要发布日期时，按美联储公布的“通常在决议后三周发布”政策生成，并在 Description 标明方法。 |
-| ISM Manufacturing / Services PMI | [ISM Report Release Calendar](https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/) | 优先解析 ISM 官方年度表；验证码或结构变化导致失败时，按 ISM 公布的第一/第三个工作日规则生成，并输出 warning。 |
+| ISM Manufacturing / Services PMI | [ISM 官方年度表](https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/)及 [ISM 在 PR Newswire 发布的月报](https://www.prnewswire.com/news/institute-for-supply-management/) | 年度表缺失时，读取月报正文中明确预告的下一次发布日期。已核实日期优先，尚未公布的月份使用工作日规则并标为推算。 |
 | Initial Jobless Claims | [U.S. Department of Labor ETA](https://www.dol.gov/newsroom/releases/eta) | DOL 没有稳定的未来日期机器接口。当前按其正常周四 08:30 ET 发布惯例生成，周四为联邦假日时前移一天；属于“规则生成”，不是逐期官方确认。 |
 | 自选股财报 | [Yahoo Finance](https://finance.yahoo.com/) via `yfinance` | 免费、无需 Key，适合逐股票更新日期、公司名及可得的 EPS/营收预估；每个股票独立失败和回退。 |
 | NYSE 休市与提前收市 | [`pandas-market-calendars`](https://github.com/rsheftel/pandas_market_calendars) 的 NYSE calendar | 库包含 NYSE 节假日、observed holiday 和 special close 规则；事件 Description 链接 [NYSE Hours & Calendars](https://www.nyse.com/markets/hours-calendars) 便于复核。 |
@@ -167,12 +167,19 @@ python -m src.main --today 2026-09-15 --offline
 `data/macro.json`、`data/earnings.json`、`data/market.json` 是需要提交到 Git 的最近成功快照：
 
 1. 每个来源、每个股票都有独立 `scope`。
-2. 某个 scope 成功时，只替换该 scope 的旧事件。
+2. 其他来源按 scope 更新。BLS 按 UID 补充或修正已核实日期，ISM 保留已确认的缺失月份记录。
 3. 某个 scope 失败时，保留该 scope 的缓存；其他成功来源继续更新。
 4. 只有事件内容改变时才更新缓存时间，因此 `DTSTAMP` 不会让每次运行都产生无意义 diff。
 5. Actions 只在 `data/` 或 `dist/` 真正变化时创建 `chore: update finance calendar` commit。
 
-首次部署已经带有一份可用快照。不要把 `data/*.json` 加入 `.gitignore`，否则临时数据源故障时无法可靠回退。
+首次部署已经带有一份可用快照。不要把 `data/*.json` 加入 `.gitignore`，否则临时数据源故障时无法可靠回退。当前 BLS 快照已核对官方 2027 年日历，覆盖到 2027 年 12 月。
+
+如果 GitHub runner 持续收到 BLS 403，可在能访问 BLS 的网络上只更新官方 BLS 快照，审阅后提交 `data/macro.json`。该命令不会改动其他事件，也不会删除没有返回的旧记录。
+
+```bash
+python -m src.refresh_bls_cache
+git diff -- data/macro.json
+```
 
 ## ICS 与 UID 设计
 
@@ -195,7 +202,7 @@ GitHub Pages 通常会为 `.ics` 返回可用的静态文件响应。即使服�
 
 ## 已知限制
 
-1. BLS 和 ISM 可能按 IP、频率或验证码阻止 GitHub runner；已有 FRED/规则降级与缓存，但应定期查看 Actions warning。
+1. BLS 和 ISM 可能阻止 GitHub runner。BLS 全部不可达时无法自动得知临时改期，请查看 Actions 日志并从可访问 BLS 的网络刷新快照。ISM 月报只确认下一次日程，不把远期推算日期标为官宣。
 2. 初请失业金的未来日期是按官方发布惯例生成，临时改期可能在下一次人工/数据源确认前不准确。
 3. Yahoo/Nasdaq 展示的财报日期常是基于历史规律的预计日期，并非公司 IR 的最终承诺；项目每天重抓并保留稳定 UID。Yahoo 未提供可靠时段时使用全天 `[TAS]`。
 4. Yahoo 当前接口不总是返回 fiscal quarter。缺失时 Description 会明确标记为按财报日期推导的 calendar-quarter fallback，不冒充公司财季。

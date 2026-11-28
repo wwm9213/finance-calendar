@@ -40,6 +40,222 @@
       "all_day": false,
       "category": "macro",
       "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2026-12",
+        "Release": "Consumer Price Index for December 2026"
+      },
+      "end": "2027-01-13T09:00:00-05:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-01-13T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2026-12@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2027-01",
+        "Release": "Consumer Price Index for January 2027"
+      },
+      "end": "2027-02-11T09:00:00-05:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-02-11T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2027-01@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2027-02",
+        "Release": "Consumer Price Index for February 2027"
+      },
+      "end": "2027-03-10T09:00:00-05:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-03-10T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2027-02@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2027-03",
+        "Release": "Consumer Price Index for March 2027"
+      },
+      "end": "2027-04-13T09:00:00-04:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-04-13T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2027-03@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2027-04",
+        "Release": "Consumer Price Index for April 2027"
+      },
+      "end": "2027-05-12T09:00:00-04:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-05-12T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2027-04@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2027-05",
+        "Release": "Consumer Price Index for May 2027"
+      },
+      "end": "2027-06-10T09:00:00-04:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-06-10T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2027-05@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2027-06",
+        "Release": "Consumer Price Index for June 2027"
+      },
+      "end": "2027-07-14T09:00:00-04:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-07-14T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2027-06@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2027-07",
+        "Release": "Consumer Price Index for July 2027"
+      },
+      "end": "2027-08-11T09:00:00-04:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-08-11T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2027-07@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2027-08",
+        "Release": "Consumer Price Index for August 2027"
+      },
+      "end": "2027-09-14T09:00:00-04:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-09-14T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2027-08@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2027-09",
+        "Release": "Consumer Price Index for September 2027"
+      },
+      "end": "2027-10-14T09:00:00-04:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-10-14T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2027-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2027-10",
+        "Release": "Consumer Price Index for October 2027"
+      },
+      "end": "2027-11-10T09:00:00-05:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-11-10T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2027-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Consumer Price Index",
+        "Reference Period": "2027-11",
+        "Release": "Consumer Price Index for November 2027"
+      },
+      "end": "2027-12-10T09:00:00-05:00",
+      "kind": "core_cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-12-10T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 CPI",
+      "uid": "macro-US-CORE_CPI-2027-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
         "Indicator": "Core PCE Price Index",
         "Reference Period": "2026-11",
         "Release": "Personal Income and Outlays, November 2026"
@@ -94,6 +310,222 @@
       "all_day": false,
       "category": "macro",
       "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2026-12",
+        "Release": "Producer Price Index for December 2026"
+      },
+      "end": "2027-01-14T09:00:00-05:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-01-14T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2026-12@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2027-01",
+        "Release": "Producer Price Index for January 2027"
+      },
+      "end": "2027-02-12T09:00:00-05:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-02-12T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2027-01@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2027-02",
+        "Release": "Producer Price Index for February 2027"
+      },
+      "end": "2027-03-12T09:00:00-05:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-03-12T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2027-02@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2027-03",
+        "Release": "Producer Price Index for March 2027"
+      },
+      "end": "2027-04-14T09:00:00-04:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-04-14T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2027-03@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2027-04",
+        "Release": "Producer Price Index for April 2027"
+      },
+      "end": "2027-05-13T09:00:00-04:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-05-13T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2027-04@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2027-05",
+        "Release": "Producer Price Index for May 2027"
+      },
+      "end": "2027-06-11T09:00:00-04:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-06-11T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2027-05@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2027-06",
+        "Release": "Producer Price Index for June 2027"
+      },
+      "end": "2027-07-15T09:00:00-04:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-07-15T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2027-06@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2027-07",
+        "Release": "Producer Price Index for July 2027"
+      },
+      "end": "2027-08-10T09:00:00-04:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-08-10T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2027-07@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2027-08",
+        "Release": "Producer Price Index for August 2027"
+      },
+      "end": "2027-09-10T09:00:00-04:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-09-10T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2027-08@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2027-09",
+        "Release": "Producer Price Index for September 2027"
+      },
+      "end": "2027-10-15T09:00:00-04:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-10-15T08:30:00-04:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2027-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2027-10",
+        "Release": "Producer Price Index for October 2027"
+      },
+      "end": "2027-11-12T09:00:00-05:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-11-12T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2027-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Core Producer Price Index",
+        "Reference Period": "2027-11",
+        "Release": "Producer Price Index for November 2027"
+      },
+      "end": "2027-12-15T09:00:00-05:00",
+      "kind": "core_ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-12-15T08:30:00-05:00",
+      "summary": "🇺🇸 美国核心 PPI",
+      "uid": "macro-US-CORE_PPI-2027-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
         "Indicator": "Consumer Price Index",
         "Reference Period": "2026-10",
         "Release": "Consumer Price Index for October 2026"
@@ -125,6 +557,222 @@
       "start": "2026-12-10T08:30:00-05:00",
       "summary": "🇺🇸 美国 CPI",
       "uid": "macro-US-CPI-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2026-12",
+        "Release": "Consumer Price Index for December 2026"
+      },
+      "end": "2027-01-13T09:00:00-05:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-01-13T08:30:00-05:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2026-12@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2027-01",
+        "Release": "Consumer Price Index for January 2027"
+      },
+      "end": "2027-02-11T09:00:00-05:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-02-11T08:30:00-05:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2027-01@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2027-02",
+        "Release": "Consumer Price Index for February 2027"
+      },
+      "end": "2027-03-10T09:00:00-05:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-03-10T08:30:00-05:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2027-02@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2027-03",
+        "Release": "Consumer Price Index for March 2027"
+      },
+      "end": "2027-04-13T09:00:00-04:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-04-13T08:30:00-04:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2027-03@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2027-04",
+        "Release": "Consumer Price Index for April 2027"
+      },
+      "end": "2027-05-12T09:00:00-04:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-05-12T08:30:00-04:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2027-04@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2027-05",
+        "Release": "Consumer Price Index for May 2027"
+      },
+      "end": "2027-06-10T09:00:00-04:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-06-10T08:30:00-04:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2027-05@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2027-06",
+        "Release": "Consumer Price Index for June 2027"
+      },
+      "end": "2027-07-14T09:00:00-04:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-07-14T08:30:00-04:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2027-06@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2027-07",
+        "Release": "Consumer Price Index for July 2027"
+      },
+      "end": "2027-08-11T09:00:00-04:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-08-11T08:30:00-04:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2027-07@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2027-08",
+        "Release": "Consumer Price Index for August 2027"
+      },
+      "end": "2027-09-14T09:00:00-04:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-09-14T08:30:00-04:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2027-08@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2027-09",
+        "Release": "Consumer Price Index for September 2027"
+      },
+      "end": "2027-10-14T09:00:00-04:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-10-14T08:30:00-04:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2027-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2027-10",
+        "Release": "Consumer Price Index for October 2027"
+      },
+      "end": "2027-11-10T09:00:00-05:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-11-10T08:30:00-05:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2027-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Consumer Price Index",
+        "Reference Period": "2027-11",
+        "Release": "Consumer Price Index for November 2027"
+      },
+      "end": "2027-12-10T09:00:00-05:00",
+      "kind": "cpi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+      "start": "2027-12-10T08:30:00-05:00",
+      "summary": "🇺🇸 美国 CPI",
+      "uid": "macro-US-CPI-2027-11@finance-calendar"
     },
     {
       "all_day": true,
@@ -673,14 +1321,14 @@
       "description": {
         "Reference Period": "2026-12",
         "Release": "ISM Manufacturing PMI Report",
-        "Schedule Method": "Fallback: ISM first-business-day rule"
+        "Schedule Method": "Official ISM press release via PR Newswire"
       },
       "end": "2026-12-01T10:30:00-05:00",
       "kind": "ism_manufacturing",
       "metadata": {},
       "scope": "macro:ism",
       "source": "Institute for Supply Management (ISM)",
-      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "source_url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html",
       "start": "2026-12-01T10:00:00-05:00",
       "summary": "🇺🇸 ISM 制造业 PMI",
       "uid": "macro-US-ISM_MANUFACTURING-2026-12@finance-calendar"
@@ -925,14 +1573,14 @@
       "description": {
         "Reference Period": "2026-12",
         "Release": "ISM Services PMI Report",
-        "Schedule Method": "Fallback: ISM third-business-day rule"
+        "Schedule Method": "Official ISM press release via PR Newswire"
       },
       "end": "2026-12-03T10:30:00-05:00",
       "kind": "ism_services",
       "metadata": {},
       "scope": "macro:ism",
       "source": "Institute for Supply Management (ISM)",
-      "source_url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/",
+      "source_url": "https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html",
       "start": "2026-12-03T10:00:00-05:00",
       "summary": "🇺🇸 ISM 服务业 PMI",
       "uid": "macro-US-ISM_SERVICES-2026-12@finance-calendar"
@@ -1592,6 +2240,222 @@
       "all_day": false,
       "category": "macro",
       "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2026-12",
+        "Release": "Employment Situation for December 2026"
+      },
+      "end": "2027-01-08T09:00:00-05:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-01-08T08:30:00-05:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2026-12@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2027-01",
+        "Release": "Employment Situation for January 2027"
+      },
+      "end": "2027-02-05T09:00:00-05:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-02-05T08:30:00-05:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2027-01@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2027-02",
+        "Release": "Employment Situation for February 2027"
+      },
+      "end": "2027-03-05T09:00:00-05:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-03-05T08:30:00-05:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2027-02@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2027-03",
+        "Release": "Employment Situation for March 2027"
+      },
+      "end": "2027-04-02T09:00:00-04:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-04-02T08:30:00-04:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2027-03@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2027-04",
+        "Release": "Employment Situation for April 2027"
+      },
+      "end": "2027-05-07T09:00:00-04:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-05-07T08:30:00-04:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2027-04@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2027-05",
+        "Release": "Employment Situation for May 2027"
+      },
+      "end": "2027-06-04T09:00:00-04:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-06-04T08:30:00-04:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2027-05@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2027-06",
+        "Release": "Employment Situation for June 2027"
+      },
+      "end": "2027-07-02T09:00:00-04:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-07-02T08:30:00-04:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2027-06@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2027-07",
+        "Release": "Employment Situation for July 2027"
+      },
+      "end": "2027-08-06T09:00:00-04:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-08-06T08:30:00-04:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2027-07@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2027-08",
+        "Release": "Employment Situation for August 2027"
+      },
+      "end": "2027-09-03T09:00:00-04:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-09-03T08:30:00-04:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2027-08@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2027-09",
+        "Release": "Employment Situation for September 2027"
+      },
+      "end": "2027-10-08T09:00:00-04:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-10-08T08:30:00-04:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2027-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2027-10",
+        "Release": "Employment Situation for October 2027"
+      },
+      "end": "2027-11-05T09:00:00-04:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-11-05T08:30:00-04:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2027-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Nonfarm Payrolls",
+        "Reference Period": "2027-11",
+        "Release": "Employment Situation for November 2027"
+      },
+      "end": "2027-12-03T09:00:00-05:00",
+      "kind": "nfp",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-12-03T08:30:00-05:00",
+      "summary": "🇺🇸 美国非农就业（NFP）",
+      "uid": "macro-US-NFP-2027-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
         "Indicator": "PCE Price Index",
         "Reference Period": "2026-11",
         "Release": "Personal Income and Outlays, November 2026"
@@ -1641,6 +2505,222 @@
       "start": "2026-12-15T08:30:00-05:00",
       "summary": "🇺🇸 美国 PPI",
       "uid": "macro-US-PPI-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2026-12",
+        "Release": "Producer Price Index for December 2026"
+      },
+      "end": "2027-01-14T09:00:00-05:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-01-14T08:30:00-05:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2026-12@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2027-01",
+        "Release": "Producer Price Index for January 2027"
+      },
+      "end": "2027-02-12T09:00:00-05:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-02-12T08:30:00-05:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2027-01@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2027-02",
+        "Release": "Producer Price Index for February 2027"
+      },
+      "end": "2027-03-12T09:00:00-05:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-03-12T08:30:00-05:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2027-02@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2027-03",
+        "Release": "Producer Price Index for March 2027"
+      },
+      "end": "2027-04-14T09:00:00-04:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-04-14T08:30:00-04:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2027-03@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2027-04",
+        "Release": "Producer Price Index for April 2027"
+      },
+      "end": "2027-05-13T09:00:00-04:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-05-13T08:30:00-04:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2027-04@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2027-05",
+        "Release": "Producer Price Index for May 2027"
+      },
+      "end": "2027-06-11T09:00:00-04:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-06-11T08:30:00-04:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2027-05@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2027-06",
+        "Release": "Producer Price Index for June 2027"
+      },
+      "end": "2027-07-15T09:00:00-04:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-07-15T08:30:00-04:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2027-06@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2027-07",
+        "Release": "Producer Price Index for July 2027"
+      },
+      "end": "2027-08-10T09:00:00-04:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-08-10T08:30:00-04:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2027-07@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2027-08",
+        "Release": "Producer Price Index for August 2027"
+      },
+      "end": "2027-09-10T09:00:00-04:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-09-10T08:30:00-04:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2027-08@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2027-09",
+        "Release": "Producer Price Index for September 2027"
+      },
+      "end": "2027-10-15T09:00:00-04:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-10-15T08:30:00-04:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2027-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2027-10",
+        "Release": "Producer Price Index for October 2027"
+      },
+      "end": "2027-11-12T09:00:00-05:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-11-12T08:30:00-05:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2027-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Producer Price Index",
+        "Reference Period": "2027-11",
+        "Release": "Producer Price Index for November 2027"
+      },
+      "end": "2027-12-15T09:00:00-05:00",
+      "kind": "ppi",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/ppi.htm",
+      "start": "2027-12-15T08:30:00-05:00",
+      "summary": "🇺🇸 美国 PPI",
+      "uid": "macro-US-PPI-2027-11@finance-calendar"
     },
     {
       "all_day": false,
@@ -1915,8 +2995,224 @@
       "start": "2026-12-04T08:30:00-05:00",
       "summary": "🇺🇸 美国失业率",
       "uid": "macro-US-UNEMPLOYMENT-2026-11@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Unemployment Rate",
+        "Reference Period": "2026-12",
+        "Release": "Employment Situation for December 2026"
+      },
+      "end": "2027-01-08T09:00:00-05:00",
+      "kind": "unemployment",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-01-08T08:30:00-05:00",
+      "summary": "🇺🇸 美国失业率",
+      "uid": "macro-US-UNEMPLOYMENT-2026-12@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Unemployment Rate",
+        "Reference Period": "2027-01",
+        "Release": "Employment Situation for January 2027"
+      },
+      "end": "2027-02-05T09:00:00-05:00",
+      "kind": "unemployment",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-02-05T08:30:00-05:00",
+      "summary": "🇺🇸 美国失业率",
+      "uid": "macro-US-UNEMPLOYMENT-2027-01@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Unemployment Rate",
+        "Reference Period": "2027-02",
+        "Release": "Employment Situation for February 2027"
+      },
+      "end": "2027-03-05T09:00:00-05:00",
+      "kind": "unemployment",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-03-05T08:30:00-05:00",
+      "summary": "🇺🇸 美国失业率",
+      "uid": "macro-US-UNEMPLOYMENT-2027-02@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Unemployment Rate",
+        "Reference Period": "2027-03",
+        "Release": "Employment Situation for March 2027"
+      },
+      "end": "2027-04-02T09:00:00-04:00",
+      "kind": "unemployment",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-04-02T08:30:00-04:00",
+      "summary": "🇺🇸 美国失业率",
+      "uid": "macro-US-UNEMPLOYMENT-2027-03@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Unemployment Rate",
+        "Reference Period": "2027-04",
+        "Release": "Employment Situation for April 2027"
+      },
+      "end": "2027-05-07T09:00:00-04:00",
+      "kind": "unemployment",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-05-07T08:30:00-04:00",
+      "summary": "🇺🇸 美国失业率",
+      "uid": "macro-US-UNEMPLOYMENT-2027-04@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Unemployment Rate",
+        "Reference Period": "2027-05",
+        "Release": "Employment Situation for May 2027"
+      },
+      "end": "2027-06-04T09:00:00-04:00",
+      "kind": "unemployment",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-06-04T08:30:00-04:00",
+      "summary": "🇺🇸 美国失业率",
+      "uid": "macro-US-UNEMPLOYMENT-2027-05@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Unemployment Rate",
+        "Reference Period": "2027-06",
+        "Release": "Employment Situation for June 2027"
+      },
+      "end": "2027-07-02T09:00:00-04:00",
+      "kind": "unemployment",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-07-02T08:30:00-04:00",
+      "summary": "🇺🇸 美国失业率",
+      "uid": "macro-US-UNEMPLOYMENT-2027-06@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Unemployment Rate",
+        "Reference Period": "2027-07",
+        "Release": "Employment Situation for July 2027"
+      },
+      "end": "2027-08-06T09:00:00-04:00",
+      "kind": "unemployment",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-08-06T08:30:00-04:00",
+      "summary": "🇺🇸 美国失业率",
+      "uid": "macro-US-UNEMPLOYMENT-2027-07@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Unemployment Rate",
+        "Reference Period": "2027-08",
+        "Release": "Employment Situation for August 2027"
+      },
+      "end": "2027-09-03T09:00:00-04:00",
+      "kind": "unemployment",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-09-03T08:30:00-04:00",
+      "summary": "🇺🇸 美国失业率",
+      "uid": "macro-US-UNEMPLOYMENT-2027-08@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Unemployment Rate",
+        "Reference Period": "2027-09",
+        "Release": "Employment Situation for September 2027"
+      },
+      "end": "2027-10-08T09:00:00-04:00",
+      "kind": "unemployment",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-10-08T08:30:00-04:00",
+      "summary": "🇺🇸 美国失业率",
+      "uid": "macro-US-UNEMPLOYMENT-2027-09@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Unemployment Rate",
+        "Reference Period": "2027-10",
+        "Release": "Employment Situation for October 2027"
+      },
+      "end": "2027-11-05T09:00:00-04:00",
+      "kind": "unemployment",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-11-05T08:30:00-04:00",
+      "summary": "🇺🇸 美国失业率",
+      "uid": "macro-US-UNEMPLOYMENT-2027-10@finance-calendar"
+    },
+    {
+      "all_day": false,
+      "category": "macro",
+      "description": {
+        "Indicator": "Unemployment Rate",
+        "Reference Period": "2027-11",
+        "Release": "Employment Situation for November 2027"
+      },
+      "end": "2027-12-03T09:00:00-05:00",
+      "kind": "unemployment",
+      "metadata": {},
+      "scope": "macro:bls",
+      "source": "U.S. Bureau of Labor Statistics (BLS)",
+      "source_url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "start": "2027-12-03T08:30:00-05:00",
+      "summary": "🇺🇸 美国失业率",
+      "uid": "macro-US-UNEMPLOYMENT-2027-11@finance-calendar"
     }
   ],
-  "updated_at": "2026-11-28T07:28:07+00:00",
+  "updated_at": "2026-11-28T17:23:25+00:00",
   "version": 1
 }

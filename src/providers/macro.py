@@ -11,9 +11,18 @@ from src.providers.bea import BEA_SCOPE, BEA_URL, parse_bea_schedule
 from src.providers.bls import BLS_SCOPE, fetch_bls_schedules
 from src.providers.census import CENSUS_SCOPE, CENSUS_URL, parse_retail_schedule
 from src.providers.fed import FED_SCOPE, FED_URL, parse_fomc_calendar
-from src.providers.ism import ISM_OFFICIAL, ISM_SCOPE, ISM_URL, derived_ism_schedule, parse_ism_schedule
+from src.providers.ism import (
+    ISM_CONFIRMED_METHODS,
+    ISM_KINDS,
+    ISM_SCOPE,
+    ISM_URL,
+    derived_ism_schedule,
+    fetch_ism_press_releases,
+    parse_ism_schedule,
+)
 from src.providers.recurring import DOL_SCOPE, initial_claims_schedule
 from src.utils.http import get_text
+from src.utils.timezone import EASTERN
 
 KIND_FLAGS = {
     "nfp": "nfp",
@@ -125,19 +134,33 @@ def fetch_macro_events(
         by_uid.update(
             (event.uid, event) for event in cached
             if event.scope == ISM_SCOPE and config.macro[event.kind]
-            and event.description.get("Schedule Method") == ISM_OFFICIAL
+            and event.description.get("Schedule Method") in ISM_CONFIRMED_METHODS
         )
-        try:
-            if offline:
-                raise RuntimeError("offline mode")
-            payload = get_text(session, ISM_URL, timeout=config.request_timeout_seconds)
-            official = parse_ism_schedule(payload, config)
+        if not offline:
+            official: list[CalendarEvent] = []
+            try:
+                payload = get_text(session, ISM_URL, timeout=config.request_timeout_seconds)
+                official = parse_ism_schedule(payload, config)
+            except (requests.RequestException, ValueError) as exc:
+                warnings.append(f"{ISM_SCOPE} official table unavailable ({type(exc).__name__}: {exc})")
+
+            eastern_today = now.astimezone(EASTERN).date()
+            upcoming_kinds = {
+                event.kind for event in official
+                if eastern_today <= event.start.date() <= eastern_today + timedelta(days=45)
+            }
+            missing_kinds = {kind for kind in ISM_KINDS if config.macro[kind]} - upcoming_kinds
+            if missing_kinds:
+                wire_dates, wire_errors = fetch_ism_press_releases(
+                    session, config, kinds=missing_kinds, today=eastern_today,
+                )
+                by_uid.update((event.uid, event) for event in wire_dates)
+                if wire_errors:
+                    warnings.append(
+                        f"{ISM_SCOPE} PR Newswire fallback incomplete: {'; '.join(wire_errors)}; "
+                        "kept confirmed dates and used rules where needed"
+                    )
             by_uid.update((event.uid, event) for event in official)
-        except Exception as exc:
-            warnings.append(
-                f"{ISM_SCOPE} official table unavailable ({type(exc).__name__}: {exc}); "
-                "kept confirmed dates and filled uncovered months by rule"
-            )
         fresh.extend(by_uid.values())
         successful.add(ISM_SCOPE)
 

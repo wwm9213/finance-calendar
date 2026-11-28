@@ -10,6 +10,11 @@ from src.providers.ism import ISM_OFFICIAL, ISM_SCOPE, ISM_URL, parse_ism_schedu
 TODAY = datetime(2026, 11, 28, 7, tzinfo=timezone.utc)
 
 
+@pytest.fixture(autouse=True)
+def disable_press_release_network(monkeypatch):
+    monkeypatch.setattr(macro, "fetch_ism_press_releases", lambda *_a, **_kw: ([], []))
+
+
 @pytest.fixture
 def config():
     cfg = load_config("config.yaml")

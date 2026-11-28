@@ -2,8 +2,11 @@ from __future__ import annotations
 
 import calendar as month_calendar
 import re
-from datetime import date, datetime
+from concurrent.futures import ThreadPoolExecutor
+from datetime import date, datetime, time, timedelta
+from urllib.parse import urlsplit
 
+import requests
 from bs4 import BeautifulSoup
 from pandas.tseries.holiday import USFederalHolidayCalendar
 
@@ -16,19 +19,33 @@ ISM_URL = "https://www.ismworld.org/supply-management-news-and-reports/reports/r
 ISM_SOURCE = "Institute for Supply Management (ISM)"
 ISM_SCOPE = "macro:ism"
 ISM_OFFICIAL = "Official ISM release table"
+ISM_PRESS_RELEASE = "Official ISM press release via PR Newswire"
+ISM_CONFIRMED_METHODS = {ISM_OFFICIAL, ISM_PRESS_RELEASE}
+ISM_KINDS = ("ism_manufacturing", "ism_services")
+WIRE_ORIGIN = "https://www.prnewswire.com"
+ISM_WIRE_URL = WIRE_ORIGIN + "/news/institute-for-supply-management/"
+_WIRE_PATH = re.compile(r"/news-releases/[a-z0-9-]+-ism-(manufacturing|services)-pmi-report-\d+\.html")
+_NEXT_RELEASE = re.compile(
+    r"\bthe next ism (manufacturing|services) pmi report\b[^.!?]{0,140}?\bwill be released at\s+"
+    r"(\d{1,2}:\d{2})\s*(a\.?m\.?|p\.?m\.?)\s+(?:ET|EST|EDT)\s+on\s+"
+    r"(?:[a-z]+,\s+)?([a-z]+ \d{1,2}, 20\d{2})\b",
+    re.IGNORECASE,
+)
 
 
-def _build_event(kind: str, day: date, config: AppConfig, *, method: str) -> CalendarEvent:
+def _build_event(
+    kind: str, day: date, *, method: str, source_url: str = ISM_URL, release_time: time = time(10)
+) -> CalendarEvent:
     summary = "🇺🇸 ISM 制造业 PMI" if kind == "ism_manufacturing" else "🇺🇸 ISM 服务业 PMI"
     name = "Manufacturing PMI" if kind == "ism_manufacturing" else "Services PMI"
-    start = datetime(day.year, day.month, day.day, 10, 0, tzinfo=EASTERN)
+    start = datetime.combine(day, release_time, tzinfo=EASTERN)
     return macro_event(
         kind=kind,
         summary=summary,
         start=start,
         period=f"{day.year}-{day.month:02d}",
         source=ISM_SOURCE,
-        source_url=ISM_URL,
+        source_url=source_url,
         scope=ISM_SCOPE,
         release=f"ISM {name} Report",
         extra={"Schedule Method": method},
@@ -59,7 +76,7 @@ def parse_ism_schedule(html: str, config: AppConfig) -> list[CalendarEvent]:
             if len(month_bits) != 2 or month_bits[0] not in MONTHS or not re.fullmatch(r"20\d{2}", month_bits[1]):
                 continue
             year, month = int(month_bits[1]), MONTHS[month_bits[0]]
-            for kind, cell in zip(("ism_manufacturing", "ism_services"), cells[1:3]):
+            for kind, cell in zip(ISM_KINDS, cells[1:3]):
                 if not config.macro[kind]:
                     continue
                 for footnote in cell.find_all("sup"):
@@ -71,11 +88,85 @@ def parse_ism_schedule(html: str, config: AppConfig) -> list[CalendarEvent]:
                     day = date(year, month, int(match[1]))
                 except ValueError:
                     continue
-                event = _build_event(kind, day, config, method=ISM_OFFICIAL)
+                event = _build_event(kind, day, method=ISM_OFFICIAL)
                 events[event.uid] = event
     if not events:
         raise ValueError("ISM schedule contained no supported releases")
     return list(events.values())
+
+
+def latest_ism_wire_urls(html: str | bytes, kinds: set[str]) -> dict[str, str]:
+    """Read the latest report of each requested series from ISM's newsroom."""
+    links: dict[str, str] = {}
+    for link in BeautifulSoup(html, "html.parser").select("a[href]"):
+        try:
+            url = urlsplit(link["href"])
+        except ValueError:
+            continue
+        if url.scheme not in ("", "https") or url.netloc not in ("", "www.prnewswire.com"):
+            continue
+        match = _WIRE_PATH.fullmatch(url.path)
+        if match:
+            kind = f"ism_{match[1]}"
+            if kind in kinds:
+                # The issuer listing is newest first.
+                links.setdefault(kind, WIRE_ORIGIN + url.path)
+    return links
+
+
+def parse_ism_wire_release(html: str | bytes, *, kind: str, url: str) -> CalendarEvent:
+    """Use the next release announced by ISM, not the news article's date."""
+    soup = BeautifulSoup(html, "html.parser")
+    author = soup.select_one('meta[name="author"]')
+    if not author or author.get("content", "").replace("®", "").strip().casefold() != "institute for supply management":
+        raise ValueError("PR Newswire article is not attributed to ISM")
+    for paragraph in soup.select("section.release-body .release-content p"):
+        text = " ".join(paragraph.get_text(" ", strip=True).replace("®", "").split())
+        match = _NEXT_RELEASE.search(text)
+        if match and f"ism_{match[1].lower()}" == kind:
+            release_time = datetime.strptime(f"{match[2]} {match[3].replace('.', '')}", "%I:%M %p").time()
+            day = datetime.strptime(match[4], "%B %d, %Y").date()
+            return _build_event(kind, day, method=ISM_PRESS_RELEASE, source_url=url, release_time=release_time)
+    raise ValueError("ISM article contained no explicit next release for this series")
+
+
+def _get_wire_html(session: requests.Session, url: str, *, timeout: int) -> bytes:
+    # PR Newswire may omit the HTTP charset; let BeautifulSoup read the HTML metadata.
+    response = session.get(url, timeout=timeout, headers={"Accept": "text/html,application/xhtml+xml"})
+    response.raise_for_status()
+    return response.content
+
+
+def fetch_ism_press_releases(
+    session: requests.Session, config: AppConfig, *, kinds: set[str], today: date
+) -> tuple[list[CalendarEvent], list[str]]:
+    if not kinds:
+        return [], []
+    timeout = min(config.request_timeout_seconds, 8)
+    try:
+        listing = _get_wire_html(session, ISM_WIRE_URL, timeout=timeout)
+        links = latest_ism_wire_urls(listing, kinds)
+    except (requests.RequestException, ValueError) as exc:
+        return [], [f"newsroom: {type(exc).__name__}: {exc}"]
+
+    def fetch_one(kind: str) -> tuple[CalendarEvent | None, str | None]:
+        if kind not in links:
+            return None, f"{kind}: no matching report in newsroom"
+        try:
+            url = links[kind]
+            release = parse_ism_wire_release(_get_wire_html(session, url, timeout=timeout), kind=kind, url=url)
+            if not today <= release.start.date() <= today + timedelta(days=45):
+                return None, f"{kind}: next release outside the upcoming window"
+            return release, None
+        except (requests.RequestException, ValueError) as exc:
+            return None, f"{kind}: {type(exc).__name__}: {exc}"
+
+    with ThreadPoolExecutor(max_workers=len(kinds)) as executor:
+        outcomes = list(executor.map(fetch_one, sorted(kinds)))
+    return (
+        [event for event, _ in outcomes if event is not None],
+        [error for _, error in outcomes if error is not None],
+    )
 
 
 def derived_ism_schedule(config: AppConfig, start_year: int, end_year: int) -> list[CalendarEvent]:
@@ -100,7 +191,6 @@ def derived_ism_schedule(config: AppConfig, start_year: int, end_year: int) -> l
                     _build_event(
                         "ism_manufacturing",
                         business_days[0],
-                        config,
                         method="Fallback: ISM first-business-day rule",
                     )
                 )
@@ -109,7 +199,6 @@ def derived_ism_schedule(config: AppConfig, start_year: int, end_year: int) -> l
                     _build_event(
                         "ism_services",
                         business_days[2],
-                        config,
                         method="Fallback: ISM third-business-day rule",
                     )
                 )

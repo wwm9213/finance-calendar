@@ -81,6 +81,8 @@ VALUE_TRANSLATIONS = {
     "Early Close": "提前收市",
     "Full Market Holiday": "全天休市",
     "Third Friday of March, June, September and December": "每年三月、六月、九月和十二月的第三个星期五",
+    "Official ISM release table": "ISM 官方发布日程",
+    "Official ISM press release via PR Newswire": "ISM 官方公告（由 PR Newswire 发布）",
     "Fallback: ISM first-business-day rule": "备用规则：ISM 每月第一个工作日",
     "Fallback: ISM third-business-day rule": "备用规则：ISM 每月第三个工作日",
     "Federal Reserve three-week publication policy": "美联储会后三周发布规则",
